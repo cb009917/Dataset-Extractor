@@ -1,0 +1,3042 @@
+recipe_id,ingredient,unit,quantity,seasonality,seasonality_confidence
+1,Jackfruit Seeds - 125g,,,Dry_Season,0.8
+1,Turmeric Powder - ½ teaspoon,,,Dry_Season,0.3
+1,Red Chili Powder - ½ teaspoon,,,Year_Round,0.73
+1,Salt - As you want,,,Dry_Season,0.3
+1,Cooking Oil - As you want,,,Dry_Season,0.3
+2,Bitter Gourd - 100g,,,Inter_Monsoon,0.91
+2,Onion - 37 1/2g,,,Year_Round,0.64
+2,Green chili - 3/4 or 4,,,Year_Round,0.8
+2,Coriander leaves - As you want,,,Year_Round,0.33
+2,Curd - 1/2 tablespoons,,,Dry_Season,0.3
+2,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+2,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+2,Cooking oil - As you want (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+3,Ash gourd/Winter melon - 166 2/3g (Before cleaning),,,Inter_Monsoon,0.66
+3,Onion - 25g,,,Year_Round,0.67
+3,Green chili - 1 or 4,,,Year_Round,0.8
+3,Dried red chili - 1/3 or 2,,,Year_Round,0.73
+3,Curry leaves - Few,,,Year_Round,0.59
+3,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+3,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+3,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+3,Water - 50ml,,,Inter_Monsoon,0.33
+3,Salt - As you want,,,Dry_Season,0.3
+3,Cooking oil - As you need,,,Dry_Season,0.3
+4,Chickpea - 50g,,,Dry_Season,0.3
+4,Tomato - 50g,,,Inter_Monsoon,0.31
+4,Onion - 30g,,,Year_Round,0.67
+4,Coriander leaves - As you want,,,Year_Round,0.33
+4,Green chili - 2/5 or 3,,,Year_Round,0.8
+4,Garlic clove - 3/5 or 4,,,Year_Round,0.63
+4,Ginger - A small root (about the size of a garlic clove),,,Year_Round,0.46
+4,Bay leaf - 1/5,,,Dry_Season,0.3
+4,Clove - 3/5 or 4,,,Dry_Season,0.3
+4,Curry powder - 2/5 tablespoons,,,Year_Round,0.62
+4,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+4,Fennel seeds - 1/5 teaspoon,,,Dry_Season,0.3
+4,Water - 60ml,,,Inter_Monsoon,0.33
+4,Salt - As you want,,,Dry_Season,0.3
+4,Cooking oil - As you want,,,Dry_Season,0.3
+5,Tomato - 30g,,,Inter_Monsoon,0.31
+5,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+5,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+5,Onion - 6g,,,Year_Round,0.69
+5,Curry leaves - Few,,,Year_Round,0.59
+5,Green chili - 3/5 or 4,,,Year_Round,0.8
+5,Lime - ½,,,Dry_Season,0.56
+5,Thin coconut milk - 70ml,,,Dry_Season,0.45
+5,Thick coconut milk - 40ml,,,Dry_Season,0.45
+5,Salt - As you wish,,,Dry_Season,0.3
+6,Eggplant - 66 2/3g,,,Dry_Season,0.3
+6,Potato - 66 2/3g,,,Northeast_Monsoon,0.38
+6,Tomato - 33 1/3g,,,Inter_Monsoon,0.27
+6,Banana pepper - 16 2/3g,,,Inter_Monsoon,0.47
+6,Onion - 25g,,,Year_Round,0.67
+6,Garlic - 1 or 7,,,Year_Round,0.63
+6,Curry powder - 1/2 tablespoons,,,Year_Round,0.62
+6,Fenugreek seeds - ½ teaspoon,,,Dry_Season,0.3
+6,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+6,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+6,Thick coconut milk - 16 2/3ml,,,Dry_Season,0.45
+6,Thin coconut milk - 100ml,,,Dry_Season,0.45
+6,Thin tamarind juice - 33 1/3ml,,,Dry_Season,0.53
+6,Curry leaves - Few,,,Year_Round,0.59
+6,Salt - As you want,,,Dry_Season,0.3
+6,Cooking oil - As you want,,,Dry_Season,0.3
+7,Shallots/Small Onion - 500g (After peel),,,Year_Round,0.64
+7,Carrot - 200g,,,Northeast_Monsoon,0.6
+7,Butter Bonchi - 200g,,,Dry_Season,0.3
+7,Banana Pepper - 150g,,,Inter_Monsoon,0.47
+7,Dates - 200g,,,Inter_Monsoon,0.33
+7,Green chili - 100g,,,Year_Round,0.8
+7,Garlic cloves - 7 or 8,,,Year_Round,0.63
+7,Ginger - Medium size (About the size of 2 garlic cloves),,,Year_Round,0.65
+7,Mustard seeds - 50g,,,Dry_Season,0.3
+7,Sugar - 50g,,,Inter_Monsoon,0.37
+7,Dried red chili - 30g,,,Year_Round,0.73
+7,Vinegar - 300ml,,,Dry_Season,0.3
+7,Salt - As you want,,,Dry_Season,0.3
+8,Agathi keerai - 18 3/4g,,,Dry_Season,0.3
+8,Onion - 18 3/4g,,,Year_Round,0.64
+8,Green chili - 3/4 or 4,,,Year_Round,0.8
+8,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+8,Semi thick coconut milk - 125ml,,,Dry_Season,0.45
+8,Thick tamarind juice - 12 1/2ml,,,Dry_Season,0.53
+8,Water - 75ml,,,Inter_Monsoon,0.33
+8,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+9,Eggplant - 125g,,,Dry_Season,0.3
+9,Thick coconut milk - 50ml,,,Dry_Season,0.45
+9,Water - 75ml,,,Inter_Monsoon,0.33
+9,Onion - 12 1/2g,,,Year_Round,0.64
+9,Green chili - 1 or 3,,,Year_Round,0.8
+9,Garlic clove - 1/2 or 2,,,Year_Round,0.63
+9,Curry leaves - Few,,,Year_Round,0.59
+9,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+9,Salt - As you need,,,Dry_Season,0.3
+10,Pumpkin - 1/8kg,,,Inter_Monsoon,0.44
+10,Onion - 12 1/2g,,,Year_Round,0.64
+10,Green chili - 1/4 or 3,,,Year_Round,0.8
+10,Dried red chili - 1/4 or 3,,,Year_Round,0.73
+10,Garlic clove - 3/8 or 4,,,Year_Round,0.63
+10,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+10,Cumin seeds - ½ teaspoon,,,Dry_Season,0.3
+10,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+10,Black Pepper - ½ teaspoon,,,Inter_Monsoon,0.33
+10,Thick coconut milk - 18 3/4ml,,,Dry_Season,0.45
+10,Water - 25ml,,,Inter_Monsoon,0.33
+10,Curry leaves - Few,,,Year_Round,0.59
+10,Salt - As you want,,,Dry_Season,0.3
+10,Cooking oil - As you want,,,Dry_Season,0.3
+11,Grated coconut - 50g,,,Dry_Season,0.45
+11,Onion - 12 1/2g,,,Year_Round,0.64
+11,Green chili - 2 1/2 to 12,,,Year_Round,0.8
+11,Thick tamarind juice - 1/4 ½ tablespoon,,,Dry_Season,0.53
+11,Sugar - ½ teaspoon,,,Dry_Season,0.3
+11,Salt - As you need (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+12,=====For Curry=====,,,Year_Round,0.62
+12,Boneless mutton - 14 2/7g,,,Dry_Season,0.3
+12,Potato - 14 2/7g,,,Northeast_Monsoon,0.38
+12,Onion - 7 1/7g,,,Year_Round,0.64
+12,Green chili - 1/7 or 6,,,Year_Round,0.8
+12,Curry leaves - Few,,,Year_Round,0.59
+12,Minced ginger - 0.03 tablespoon,,,Year_Round,0.64
+12,Curry powder - 1/12 tablespoon,,,Year_Round,0.62
+12,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+12,Lime - ½,,,Dry_Season,0.56
+12,Salt - As you need,,,Dry_Season,0.3
+12,Cooking oil - As you need,,,Dry_Season,0.3
+12,=====For wrapper=====,,,Dry_Season,0.3
+12,All-purpose flour - 28 4/7g,,,Dry_Season,0.3
+12,Water - 50ml,,,Inter_Monsoon,0.33
+12,Breadcrumbs - 7 1/7g,,,Dry_Season,0.3
+12,Salt - as you want,,,Dry_Season,0.3
+13,Full cream milk powder - 5 1/3g,,,Dry_Season,0.3
+13,Sugar - 3 1/3g,,,Dry_Season,0.3
+13,Butter - 0.03 tablespoons,,,Dry_Season,0.3
+13,Grated coconut - 1/13 tablespoons,,,Dry_Season,0.45
+13,Water - 2/13 tablespoons,,,Dry_Season,0.3
+13,Ground cardamom - 0.01 ½ teaspoon,,,Dry_Season,0.3
+13,Vanilla extract - 0.01 tablespoon,,,Dry_Season,0.3
+13,Food coloring - 0.01 teaspoon,,,Dry_Season,0.3
+13,Cloves - 1 1/3,,,Dry_Season,0.3
+14,Spring onion flower - 83 1/3g,,,Year_Round,0.64
+14,Grated coconut - 2/3 tablespoons,,,Dry_Season,0.45
+14,Onion - 13 1/3g,,,Year_Round,0.64
+14,Green chili - 2/3 or 3,,,Year_Round,0.8
+14,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+14,Salt - As you wish,,,Dry_Season,0.3
+14,Cooking oil - 1/3 tablespoon,,,Dry_Season,0.3
+15,Fish - 2 or 5 pieces (Recommend to use fish head parts),,,Dry_Season,0.3
+15,Mango - 1/2 (Medium Size),,,Dry_Season,0.75
+15,Onion - 25g,,,Year_Round,0.67
+15,Green chili - 1 or 3,,,Year_Round,0.8
+15,Curry leaves - Few,,,Year_Round,0.59
+15,Salt - As you need,,,Dry_Season,0.3
+15,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+15,Thin coconut milk - 125ml,,,Dry_Season,0.45
+15,Thick coconut milk - 50ml,,,Dry_Season,0.45
+16,Grated coconut - 3 full tablespoons,,,Dry_Season,0.45
+16,Dried red chili - 3 to 8,,,Year_Round,0.73
+16,Shallot/Small onion - 25g,,,Year_Round,0.64
+16,Tamarind - Small portion with 1 1/2 or 4 seeds,,,Dry_Season,0.53
+16,Sugar - ½ teaspoon,,,Dry_Season,0.3
+16,Salt - As you want,,,Dry_Season,0.3
+16,Water - 1/2 or 2 teaspoons,,,Dry_Season,0.3
+17,Green Bean/Bonchi - 75g,,,Southwest_Monsoon,0.45
+17,Onion - 25g,,,Year_Round,0.67
+17,Green chili - 1 or 3,,,Year_Round,0.8
+17,Turmeric powder - Less than ¼ teaspoon,,,Dry_Season,0.3
+17,Water - 37 1/2ml,,,Dry_Season,0.3
+17,Thick coconut milk - 50ml,,,Dry_Season,0.45
+17,Curry leaves - Few,,,Year_Round,0.59
+17,Cooking oil - As you need,,,Dry_Season,0.3
+17,Salt - As you need,,,Dry_Season,0.3
+18,Cabbage - 1/8kg,,,Southwest_Monsoon,0.41
+18,Potato - 31 1/4g,,,Northeast_Monsoon,0.38
+18,Onion - 18 3/4g,,,Year_Round,0.64
+18,Green chili - 3/8 or 4,,,Year_Round,0.8
+18,Curry leaves - Few,,,Year_Round,0.59
+18,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+18,Salt - As you want,,,Dry_Season,0.3
+18,Thick coconut milk - 31 1/4ml,,,Dry_Season,0.45
+18,Cooking oil - 1/4 tablespoons,,,Dry_Season,0.3
+19,Bitter Gourd - 100g,,,Inter_Monsoon,0.91
+19,Onion - 41 2/3g,,,Year_Round,0.64
+19,Green chili - 5/6 or 6,,,Year_Round,0.8
+19,Thick coconut milk - 2/3 tablespoons,,,Dry_Season,0.45
+19,Very thick tamarind juice - 1/3 tablespoons,,,Dry_Season,0.53
+19,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+19,Sugar - 1/6 teaspoon,,,Dry_Season,0.3
+19,Salt - As you want,,,Dry_Season,0.3
+19,Cooking oil - As you want,,,Dry_Season,0.3
+20,Tapioca/Cassava - 208 1/3g,,,Northeast_Monsoon,0.59
+20,Onion - 20 5/6g,,,Year_Round,0.64
+20,Green chili - 1/2 or 4,,,Year_Round,0.8
+20,Lime - ½,,,Dry_Season,0.56
+20,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+20,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+20,Curry leaves - Few,,,Year_Round,0.59
+20,Salt - As you want,,,Dry_Season,0.3
+20,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+20,Water - 100ml,,,Dry_Season,0.3
+21,Chickpeas - 83 1/3g,,,Dry_Season,0.3
+21,Water - As needed,,,Dry_Season,0.3
+21,Onion - 50g,,,Year_Round,0.67
+21,Dried red chili - 2/3 or 3,,,Year_Round,0.73
+21,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+21,Salt - As you want,,,Dry_Season,0.3
+21,Curry leaves - Few,,,Year_Round,0.59
+21,Cooking oil - As you want,,,Dry_Season,0.3
+22,Potato - 16 2/3g,,,Northeast_Monsoon,0.38
+22,Pumpkin - 16 2/3g,,,Inter_Monsoon,0.44
+22,Carrot - 16 2/3g,,,Northeast_Monsoon,0.6
+22,Eggplant - 16 2/3g,,,Dry_Season,0.3
+22,Tomato - 16 2/3g,,,Inter_Monsoon,0.27
+22,Drumstick - 16 2/3g,,,Inter_Monsoon,0.79
+22,Onion - 16 2/3g,,,Year_Round,0.64
+22,Dhal - 33 1/3g,,,Year_Round,0.66
+22,Coriander leaves - As you need,,,Year_Round,0.33
+22,Green chili - 1/3 or 3,,,Year_Round,0.8
+22,Dried red chili - 1/3 or 3,,,Year_Round,0.73
+22,Garlic clove - 1/2 or 4,,,Year_Round,0.63
+22,Curry leaves - Few,,,Year_Round,0.59
+22,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+22,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+22,Curry powder - 1/6 tablespoon,,,Year_Round,0.62
+22,Thin tamarind juice - 33 1/3ml,,,Dry_Season,0.53
+22,Water - As you want (I used 333 1/3ml),,,Dry_Season,0.3
+22,Salt - As you need,,,Dry_Season,0.3
+22,Cooking oil - As you need,,,Dry_Season,0.3
+23,Pazhaya soru/Leftover rice - 2/3 cups,,,Year_Round,0.54
+23,Water - 166 2/3ml,,,Dry_Season,0.3
+23,Semi thick coconut milk - 116 2/3ml,,,Dry_Season,0.45
+23,Onion (Shallots) - 33 1/3g,,,Year_Round,0.64
+23,Green chili - 2/3,,,Year_Round,0.8
+23,Lime - ½,,,Dry_Season,0.56
+23,Salt - As you want,,,Dry_Season,0.3
+24,Fish pieces - 12 1/2g,,,Dry_Season,0.3
+24,Potatoes - 17 1/2g,,,Dry_Season,0.3
+24,Finely chopped onion - 2 1/2 to 75g,,,Year_Round,0.64
+24,Crushed ginger - ½ tablespoon,,,Year_Round,0.64
+24,Crushed garlic - 0.05 tablespoon,,,Year_Round,0.63
+24,Green chili - 1/5 or 5,,,Year_Round,0.8
+24,Chopped curry leaves - 1/10 sprigs,,,Year_Round,0.59
+24,Grounded black pepper - 0.05 ½ teaspoon,,,Inter_Monsoon,0.33
+24,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+24,Egg - 0.05,,,Inter_Monsoon,0.35
+24,Bread crumbs - 5g,,,Dry_Season,0.3
+24,Salt - As you need,,,Dry_Season,0.3
+24,Cooking oil - As you need,,,Dry_Season,0.3
+24,Lime - ½,,,Dry_Season,0.56
+25,Semolina/Rava - 17 6/7g,,,Dry_Season,0.3
+25,Sugar - 23 3/14g,,,Dry_Season,0.3
+25,Ghee - 5/14 tablespoons,,,Dry_Season,0.3
+25,Water - 44 9/14ml,,,Dry_Season,0.3
+25,Kesari powder - 0.04 teaspoon,,,Dry_Season,0.3
+25,Cardamom powder - 0.04 teaspoon,,,Dry_Season,0.3
+25,Cashew nuts - 1 11/14g,,,Dry_Season,0.78
+25,Raisins - 1 11/14g,,,Dry_Season,0.3
+26,Ash plantain - 133 1/3g,,,Dry_Season,0.3
+26,Onion - 16 2/3g,,,Year_Round,0.64
+26,Thin coconut milk - 66 2/3ml,,,Dry_Season,0.45
+26,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+26,Green chili - 1 1/3 or 5,,,Year_Round,0.8
+26,Lime - ½,,,Dry_Season,0.56
+26,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+26,Curry leaves - Few,,,Year_Round,0.59
+26,Salt - As you need,,,Dry_Season,0.3
+27,Country chicken - 1/5kg (After peeling off the skin),,,Dry_Season,0.3
+27,Onion - 20g,,,Year_Round,0.67
+27,Garlic paste - 1/5 tablespoon,,,Year_Round,0.63
+27,Ginger paste - 1/5 teaspoon,,,Year_Round,0.64
+27,Turmeric powder - ¾ teaspoon,,,Dry_Season,0.3
+27,Coriander seeds - 1/5 ½ tablespoon,,,Year_Round,0.37
+27,Fennel seeds - 1/5 tablespoon,,,Dry_Season,0.3
+27,Cumin seeds - ½ teaspoon,,,Dry_Season,0.3
+27,Black pepper - 1/5 tablespoon,,,Inter_Monsoon,0.33
+27,Dried red chili - 4 to 25 (About 30g),,,Year_Round,0.73
+27,Cardamom - 1 1/5 to 8,,,Dry_Season,0.3
+27,Crushed cinnamon - ¾ tablespoon,,,Dry_Season,0.3
+27,Thin coconut milk - 80ml,,,Dry_Season,0.45
+27,Salt - As you need,,,Dry_Season,0.3
+27,Curry leaves - Few,,,Year_Round,0.59
+27,Cooking oil - As you need,,,Dry_Season,0.3
+28,Tomato - 116 2/3g,,,Inter_Monsoon,0.27
+28,Onion - 33 1/3g,,,Year_Round,0.64
+28,Dried red chili - 1 2/3 or 6,,,Year_Round,0.73
+28,Curry leaves - Few,,,Year_Round,0.59
+28,Mustard seeds - 1/3 teaspoon,,,Dry_Season,0.3
+28,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+28,Salt - As you need,,,Dry_Season,0.3
+28,Cooking oil - As you need,,,Dry_Season,0.3
+29,Fish - 6 2/3g (Flesh only after boiled),,,Dry_Season,0.3
+29,Spring roll paper - 2/3 sheets,,,Dry_Season,0.3
+29,Potato - 16 2/3g,,,Northeast_Monsoon,0.38
+29,Onion - 5g,,,Year_Round,0.69
+29,Green chili - 1/6 to 7,,,Year_Round,0.8
+29,Garlic clove - 2/15 to 6,,,Year_Round,0.63
+29,Curry leaves - Few,,,Year_Round,0.59
+29,Curry powder - 0.03 tablespoon,,,Year_Round,0.62
+29,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+29,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+29,Lime - ½,,,Dry_Season,0.56
+29,Salt - As you wish,,,Dry_Season,0.3
+29,Water - As you wish,,,Dry_Season,0.3
+29,Cooking oil - As you wish,,,Dry_Season,0.3
+30,Noodles - 100g,,,Dry_Season,0.3
+30,Cabbage - 25g,,,Southwest_Monsoon,0.41
+30,Carrot - 31 1/4g,,,Northeast_Monsoon,0.6
+30,Banana pepper - 12 1/2g,,,Inter_Monsoon,0.47
+30,Leeks - 25g,,,Northeast_Monsoon,0.59
+30,Onion - 37 1/2g,,,Year_Round,0.64
+30,Soya meat - 30g (Optional),,,Dry_Season,0.3
+30,Curry leaves - 1/2 sprigs,,,Year_Round,0.59
+30,Ginger paste - ½ teaspoon,,,Year_Round,0.64
+30,Garlic paste - 1/4 teaspoon,,,Year_Round,0.63
+30,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+30,Salt - As you want,,,Dry_Season,0.3
+30,Cooking oil - As you need,,,Dry_Season,0.3
+31,All-purpose flour - 1/15kg,,,Dry_Season,0.3
+31,Green bean - 2 2/3g,,,Southwest_Monsoon,0.45
+31,Carrot - 3 1/3g,,,Northeast_Monsoon,0.6
+31,Leeks - 3 1/3g,,,Northeast_Monsoon,0.59
+31,Green chili - 3 1/3g,,,Year_Round,0.8
+31,Onion - 11 2/3g,,,Year_Round,0.64
+31,Grated coconut - 13 1/3g,,,Dry_Season,0.45
+31,Baking powder - 1/15 teaspoon,,,Dry_Season,0.3
+31,Sugar - 1/15 tablespoon,,,Dry_Season,0.3
+31,Salt - As you wish,,,Dry_Season,0.3
+31,Water - 26 2/3ml,,,Dry_Season,0.3
+31,Cooking oil - 4/15 tablespoons,,,Dry_Season,0.3
+32,Beetroot - 83 1/3g (After pealing of the skin),,,Northeast_Monsoon,0.69
+32,Onion - 16 2/3g,,,Year_Round,0.64
+32,Green chili - 2/3 to 4,,,Year_Round,0.8
+32,Thin coconut milk - 50ml,,,Dry_Season,0.45
+32,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+32,Salt - As you want,,,Dry_Season,0.3
+32,Curry leaves - Few,,,Year_Round,0.59
+32,Cooking oil - 2/3 tablespoons,,,Dry_Season,0.3
+33,Snake gourd - 116 2/3g,,,Inter_Monsoon,0.75
+33,Thick coconut milk - 58 1/3ml,,,Dry_Season,0.45
+33,Onion - 16 2/3g,,,Year_Round,0.64
+33,Green chili - 2/3 or 3,,,Year_Round,0.8
+33,Curry leaves - Few,,,Year_Round,0.59
+33,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+33,Salt - As you wish,,,Dry_Season,0.3
+33,Cooking oil - 2/3 tablespoons,,,Dry_Season,0.3
+34,Basmati rice - 87 1/2g,,,Year_Round,0.54
+34,Soy meat - 25g (Optional),,,Dry_Season,0.3
+34,Carrot - 25g,,,Northeast_Monsoon,0.63
+34,Leeks - 18 3/4g,,,Northeast_Monsoon,0.59
+34,Green bean - 18 3/4g,,,Southwest_Monsoon,0.45
+34,Onion - 31 1/4g,,,Year_Round,0.64
+34,Garlic paste - 1/4 teaspoon,,,Year_Round,0.63
+34,Ginger paste - ¼ teaspoon,,,Year_Round,0.64
+34,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+34,Curry leaves - 1/2 sprigs,,,Year_Round,0.59
+34,Salt - As you wish,,,Dry_Season,0.3
+34,Cooking oil - As you wish,,,Dry_Season,0.3
+35,Eggplant - 116 2/3g,,,Dry_Season,0.3
+35,Onion - 16 2/3g,,,Year_Round,0.64
+35,Sugar - 1/3 ¼ tablespoon,,,Dry_Season,0.3
+35,Crushed cardamom - 2/3 to 4,,,Dry_Season,0.3
+35,Crushed cinnamon - ½ teaspoon,,,Dry_Season,0.3
+35,Ginger paste - ¼ teaspoon,,,Year_Round,0.64
+35,Garlic paste - ½ teaspoon,,,Year_Round,0.63
+35,Chili powder - 1/3 teaspoon,,,Year_Round,0.69
+35,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+35,Thick coconut milk - 3 1/3 tablespoons,,,Dry_Season,0.45
+35,Very thick tamarind juice - 2/3 tablespoons,,,Dry_Season,0.53
+35,Salt - As you wish,,,Dry_Season,0.3
+35,Cooking oil - As you need,,,Dry_Season,0.3
+36,Drumstick leaves - 50g,,,Inter_Monsoon,0.73
+36,Grated coconut - 1 1/2 tablespoons,,,Dry_Season,0.45
+36,Onion - 25g,,,Year_Round,0.67
+36,Green chili - 1/2 or 2,,,Year_Round,0.8
+36,Dried red chili - 1/2 or 2,,,Year_Round,0.73
+36,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+36,Turmeric powder - 1 Pinches,,,Dry_Season,0.3
+36,Cooking oil - 1/2 tablespoon,,,Dry_Season,0.3
+36,Salt - As you wish,,,Dry_Season,0.3
+37,Soya meat packet - 30g,,,Dry_Season,0.3
+37,Onion - 30g,,,Year_Round,0.67
+37,Thick coconut milk - 41 2/3ml,,,Dry_Season,0.45
+37,Water - 100ml,,,Dry_Season,0.3
+37,Curry powder - 1/3 ½ tablespoon,,,Year_Round,0.62
+37,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+37,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+37,Garlic paste - ¾ tablespoon,,,Year_Round,0.63
+37,Lime - ½,,,Dry_Season,0.56
+37,Curry leaves - Few,,,Year_Round,0.59
+37,Salt - As you need,,,Dry_Season,0.3
+37,Cooking oil - As you need,,,Dry_Season,0.3
+38,Long Beans - 75g,,,Inter_Monsoon,0.78
+38,Onion - 18 3/4g,,,Year_Round,0.64
+38,Garlic Cloves - 3/4 or 4,,,Year_Round,0.63
+38,Curry Leaves - Few,,,Year_Round,0.59
+38,Curry Powder - 1/4 ½ tablespoon,,,Year_Round,0.62
+38,Thin coconut Milk - 50ml,,,Dry_Season,0.45
+38,Thin tamarind Juice - 25ml,,,Dry_Season,0.53
+38,Mustard Seeds - ¼ teaspoon,,,Dry_Season,0.3
+38,Fenugreek Seeds - ¼ teaspoon,,,Dry_Season,0.3
+38,Salt - As you need,,,Dry_Season,0.3
+38,Cooking Oil - As you need,,,Dry_Season,0.3
+39,Pennywort/Centella Asiatica/Gotu Kola/Vallarai - 12 1/2g,,,Dry_Season,0.3
+39,Carrot - 25g,,,Northeast_Monsoon,0.63
+39,Onion - 10g,,,Year_Round,0.67
+39,Green chili - 3/4 to 5,,,Year_Round,0.8
+39,Grated coconut - 1/2 tablespoons,,,Dry_Season,0.45
+39,Salt - As you need,,,Dry_Season,0.3
+39,Lime - ½,,,Dry_Season,0.56
+40,Bitter Gourd - 75g,,,Inter_Monsoon,0.91
+40,Onion - 25g,,,Year_Round,0.67
+40,Green Chili - 1 or 3,,,Year_Round,0.8
+40,Garlic Cloves - 1 or 3,,,Year_Round,0.63
+40,Curry Leaves - Few,,,Year_Round,0.59
+40,Thin Coconut Milk - 200ml,,,Dry_Season,0.45
+40,Tamarind Juice - 50ml,,,Dry_Season,0.53
+40,Curry Powder - 1/2 ¼ Tablespoon,,,Year_Round,0.62
+40,Fenugreek Seeds - ¼ Teaspoon,,,Dry_Season,0.3
+40,Turmeric Powder - ¼ Teaspoon,,,Dry_Season,0.3
+40,Sugar - ¼ Teaspoon,,,Dry_Season,0.3
+40,Cooking Oil - 1/2 Tablespoon,,,Dry_Season,0.3
+40,Salt - As you need,,,Dry_Season,0.3
+40,Water - As you need,,,Dry_Season,0.3
+41,Ponnanganni keerai/Alternanthera sessilis - 62 1/2g,,,Dry_Season,0.3
+41,Grated coconut - 1 tablespoons,,,Dry_Season,0.45
+41,Large onion - ½,,,Year_Round,0.64
+41,Green chili - 1/2 or 2,,,Year_Round,0.8
+41,Red chili - 1/2 or 2,,,Year_Round,0.73
+41,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+41,Salt - As you need,,,Dry_Season,0.3
+41,Cooking oil - As you need,,,Dry_Season,0.3
+42,Beef - 1/6kg,,,Inter_Monsoon,0.33
+42,Tomato - 25g,,,Inter_Monsoon,0.31
+42,Onion - 16 2/3g,,,Year_Round,0.64
+42,Garlic cloves - 5/6 or 6,,,Year_Round,0.63
+42,Ginger root - Small (About the size of a large garlic clove),,,Year_Round,0.46
+42,Curry Leaves - Few,,,Year_Round,0.59
+42,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+42,Curry powder - 1/2 tablespoons,,,Year_Round,0.62
+42,Thick coconut milk - 25ml,,,Dry_Season,0.45
+42,Water - 41 2/3ml,,,Dry_Season,0.3
+42,Salt - As you need (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+42,Cooking oil - As you need (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+43,Kurakkan noodles - 1/5 packet (400g),,,Dry_Season,0.3
+43,Carrot - 40g,,,Northeast_Monsoon,0.63
+43,Green beans - 10g,,,Inter_Monsoon,0.65
+43,Cabbage - 14g,,,Southwest_Monsoon,0.41
+43,Onion - 40g,,,Year_Round,0.67
+43,Curry leaves - 2/5 or 3 sprigs,,,Year_Round,0.59
+43,Cooking oil - As you need,,,Dry_Season,0.3
+43,Salt - As you need,,,Dry_Season,0.3
+43,Crushed garlic - ½ tablespoon,,,Year_Round,0.63
+43,Crushed ginger - ¼ tablespoon,,,Year_Round,0.64
+43,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+43,Maggi vegetable stock cube - 1/5 tablespoon,,,Dry_Season,0.3
+43,Dry roast grated coconut - 4/5 or 5 tablespoons,,,Dry_Season,0.45
+44,prawn/shrimp - 100g (Before peeling off the skin),,,Dry_Season,0.3
+44,Fenugreek seeds - 1/3 teaspoon,,,Dry_Season,0.3
+44,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+44,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+44,Onion - 16 2/3g,,,Year_Round,0.64
+44,Garlic cloves 1 2/3 or 6,,,Year_Round,0.63
+44,Curry leaves - Few,,,Year_Round,0.59
+44,Thick tamarind juice - 16 2/3ml to 75ml,,,Dry_Season,0.53
+44,Thin coconut milk - 83 1/3ml,,,Dry_Season,0.45
+44,Thick coconut milk - 16 2/3ml,,,Dry_Season,0.45
+44,Curry powder - 1/3 ½ tablespoon,,,Year_Round,0.62
+44,Salt - As you need,,,Dry_Season,0.3
+44,Cooking oil - As you need,,,Dry_Season,0.3
+45,Beef - 125g,,,Inter_Monsoon,0.37
+45,Potatoes - 62 1/2g,,,Dry_Season,0.3
+45,Basmati rice - 87 1/2g,,,Year_Round,0.54
+45,Onion - 25g,,,Year_Round,0.67
+45,Green chili - 1 1/2 to 8,,,Year_Round,0.8
+45,Garlic clove - 1 to 6,,,Year_Round,0.63
+45,Ginger root - Small (About the size of 1/4 garlic clove),,,Year_Round,0.46
+45,Thick coconut milk - 75ml,,,Dry_Season,0.45
+45,Curry leaves - Few,,,Year_Round,0.59
+45,Fennel seeds - 1/4 tablespoon,,,Dry_Season,0.3
+45,Cumin seeds - ½ teaspoon,,,Dry_Season,0.3
+45,Black pepper - 1/4 tablespoon,,,Inter_Monsoon,0.33
+45,Coriander seeds - 1/4 teaspoon,,,Year_Round,0.37
+45,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+45,Cardamom - 1 1/2 to 8,,,Dry_Season,0.3
+45,Crushed cinnamon - ½ tablespoon,,,Dry_Season,0.3
+45,Salt - As you need,,,Dry_Season,0.3
+45,Cooking oil - As you need,,,Dry_Season,0.3
+46,Dried red chili - 3 1/3 to 15,,,Year_Round,0.73
+46,Grated coconut - 33 1/3g,,,Dry_Season,0.45
+46,Onion - 10g,,,Year_Round,0.67
+46,Curry leaves - Few,,,Year_Round,0.59
+46,Split skinned black gram/Urad dal - 1/3 teaspoon,,,Inter_Monsoon,0.33
+46,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+46,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+46,Very thick tamarind juice - 1/3 ½ teaspoons,,,Dry_Season,0.53
+46,Water - 33 1/3ml,,,Dry_Season,0.3
+46,Cooking oil - As you need,,,Dry_Season,0.3
+46,Salt - As you need,,,Dry_Season,0.3
+47,Ingredients,,,Southwest_Monsoon,0.36
+47,Large onion - ½,,,Year_Round,0.64
+47,Garlic cloves - 1 to 6,,,Year_Round,0.63
+47,Ginger - Small (About the size of one garlic clove),,,Year_Round,0.65
+47,Coriander seeds - 1/4 tablespoon,,,Year_Round,0.37
+47,Cumin seeds - 1/4 ½ teaspoons,,,Dry_Season,0.3
+47,Black pepper - 1/4 teaspoon,,,Inter_Monsoon,0.33
+47,Dried red chili - 1/4 or 2,,,Year_Round,0.73
+47,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+47,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+47,Asafoetida/Hing powder - ¼ teaspoon,,,Dry_Season,0.3
+47,Salt - As you want,,,Dry_Season,0.3
+47,Thin tamarind juice - 87 1/2ml,,,Dry_Season,0.53
+47,Water - 87 1/2ml,,,Dry_Season,0.3
+48,Dal/Dhal/Parippu - 50g,,,Year_Round,0.66
+48,Onion - 33 1/3g,,,Year_Round,0.64
+48,Thin milk - 116 2/3ml,,,Dry_Season,0.3
+48,Water 133 1/3ml,,,Dry_Season,0.3
+48,Garlic paste - ½ tablespoon,,,Year_Round,0.63
+48,Dried red chili - 2/3 or 3,,,Year_Round,0.73
+48,Curry leaves - Few,,,Year_Round,0.59
+48,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+48,Cumin seeds - 2/3 pinches,,,Dry_Season,0.3
+48,Fennel seeds - ½ teaspoon,,,Dry_Season,0.3
+48,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+48,Salt - As you wish,,,Dry_Season,0.3
+48,Cooking oil - As you need,,,Dry_Season,0.3
+49,Toasted Semolina/Sooji/Rava - 125g,,,Dry_Season,0.3
+49,Carrot - 37 1/2g,,,Northeast_Monsoon,0.6
+49,Green bean - 15g,,,Southwest_Monsoon,0.45
+49,Leeks - 25g,,,Northeast_Monsoon,0.59
+49,Onion - 25g,,,Year_Round,0.67
+49,Curry leaves - Few,,,Year_Round,0.59
+49,Butter - 1/2 tablespoon,,,Dry_Season,0.3
+49,Thin coconut milk - 200ml,,,Dry_Season,0.45
+49,Dried red chili - 1 or 3,,,Year_Round,0.73
+49,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+49,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+49,Salt - As you wish,,,Dry_Season,0.3
+49,Cooking oil - As you need,,,Dry_Season,0.3
+50,Banana pepper - 100g,,,Inter_Monsoon,0.47
+50,Onion - 37 1/2g,,,Year_Round,0.64
+50,Garlic cloves - 2 to 6,,,Year_Round,0.63
+50,Curry leaves - Few,,,Year_Round,0.59
+50,Thin coconut milk - 125ml,,,Dry_Season,0.45
+50,Thick tamarind juice - 25ml,,,Dry_Season,0.53
+50,Curry powder - 1/2 ¼ tablespoons,,,Year_Round,0.62
+50,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+50,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+50,Salt - As you wish,,,Dry_Season,0.3
+50,Cooking oil - As you wish,,,Dry_Season,0.3
+51,Tapioca/Cassava/Manioc - 125g,,,Northeast_Monsoon,0.59
+51,Curry Powder - 1/4 tablespoon,,,Year_Round,0.62
+51,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+51,Onion - 12 1/2g,,,Year_Round,0.64
+51,Green chilies - 1/2 or 3,,,Year_Round,0.61
+51,Curry leaves - Few,,,Year_Round,0.59
+51,Thick coconut milk - 37 1/2ml,,,Dry_Season,0.45
+51,Tamarind juice - 12 1/2ml,,,Dry_Season,0.53
+51,Salt - As you need,,,Dry_Season,0.3
+51,Water - 62 1/2ml,,,Dry_Season,0.3
+52,Okra/Ladies finger - 41 2/3g,,,Inter_Monsoon,0.73
+52,Tomato - 41 2/3g,,,Inter_Monsoon,0.27
+52,Large onion - ½,,,Year_Round,0.64
+52,Green chilies - 2/3 or 3,,,Year_Round,0.61
+52,Thin coconut milk - 83 1/3ml,,,Dry_Season,0.45
+52,Salt - As you need,,,Dry_Season,0.3
+52,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+52,Curry leaves - Few,,,Year_Round,0.59
+53,Fish headpieces - 125g,,,Dry_Season,0.3
+53,Onion - 12 1/2g,,,Year_Round,0.64
+53,Thin tamarind juice - 50ml,,,Dry_Season,0.53
+53,Thin coconut milk - 100ml,,,Dry_Season,0.45
+53,Garlic cloves - 3/4 to 5,,,Year_Round,0.63
+53,Curry leaves - Few,,,Year_Round,0.59
+53,Curry powder - 1/4 ½ tablespoon,,,Year_Round,0.62
+53,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+53,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+53,Salt - As you wish,,,Dry_Season,0.3
+54,Radish - 50g,,,Northeast_Monsoon,0.62
+54,Onion - 10g,,,Year_Round,0.67
+54,Green chili - 2/3 or 3,,,Year_Round,0.8
+54,Curry leaves - Few,,,Year_Round,0.59
+54,Lime juice - 1/3 tablespoon,,,Dry_Season,0.47
+54,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+54,Salt - As you need,,,Dry_Season,0.3
+54,Thin coconut milk - 66 2/3ml,,,Dry_Season,0.45
+54,Thick coconut milk - 16 2/3ml,,,Dry_Season,0.45
+55,Split skinned black gram/Urad dal - 4 1/6g,,,Inter_Monsoon,0.33
+55,Idli rice/Parboiled rice - 12 1/2g,,,Year_Round,0.54
+55,Salt - As you need,,,Dry_Season,0.3
+55,Water - As you need,,,Dry_Season,0.3
+56,Carrot - 37 1/2g,,,Northeast_Monsoon,0.6
+56,Tomato - 18 3/4g,,,Inter_Monsoon,0.27
+56,Onion - 12 1/2g,,,Year_Round,0.64
+56,Green chili - 1/2 or 3,,,Year_Round,0.8
+56,Grated coconut - 1/2 tablespoons,,,Dry_Season,0.45
+56,Crushed black pepper - ½ teaspoon,,,Inter_Monsoon,0.33
+56,Lime - ½,,,Dry_Season,0.56
+56,Salt - As you need,,,Dry_Season,0.3
+57,Green Moong Dal - 25g,,,Southwest_Monsoon,0.45
+57,Water - 200ml + 100ml,,,Dry_Season,0.3
+57,Thin coconut milk - 100ml,,,Dry_Season,0.45
+57,Small onion - 2 to 6,,,Year_Round,0.64
+57,Red chili - 1 or 3,,,Year_Round,0.73
+57,Garlic cloves - 1 or 3,,,Year_Round,0.63
+57,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+57,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+57,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+57,Curry leaves - Few,,,Year_Round,0.59
+57,Salt - As you need,,,Dry_Season,0.3
+57,Cooking oil - As you need,,,Dry_Season,0.3
+58,Dal/Dhal - 33 1/3g,,,Year_Round,0.66
+58,Green chili - 2/3,,,Year_Round,0.8
+58,Onion - 16 2/3g,,,Year_Round,0.64
+58,Curry leaves - Few,,,Year_Round,0.59
+58,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+58,Black pepper - ¼ teaspoon,,,Inter_Monsoon,0.33
+58,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+58,Garlic - 1 or 4,,,Year_Round,0.63
+58,Salt - As you need,,,Dry_Season,0.3
+58,Water - 116 2/3ml,,,Dry_Season,0.3
+58,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+59,Grated coconut - 50g,,,Dry_Season,0.45
+59,Dried red chili - 4 to 12,,,Year_Round,0.73
+59,Small onion / Shallots - 2 1/2 to 7,,,Year_Round,0.64
+59,Lime - ½,,,Dry_Season,0.56
+59,Sugar - ¼ teaspoon,,,Dry_Season,0.3
+59,Salt - As you need,,,Dry_Season,0.3
+60,Carrot - 83 1/3g,,,Northeast_Monsoon,0.6
+60,Onion - 16 2/3g,,,Year_Round,0.64
+60,Green chilies - 2/3 or 3,,,Year_Round,0.61
+60,Curry leaves - Few,,,Year_Round,0.59
+60,Thick coconut milk - 50ml,,,Dry_Season,0.45
+60,Salt - As you need,,,Dry_Season,0.3
+60,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+60,Cooking oil - As you need,,,Dry_Season,0.3
+61,Split skinned black gram/Urad dal - 12 1/2g,,,Inter_Monsoon,0.33
+61,Cold water - 1 1/2ml to 50ml,,,Dry_Season,0.3
+61,Onion - 2g,,,Year_Round,0.69
+61,Green chili - 1/4 to 7,,,Year_Round,0.8
+61,Curry leaves - Few,,,Year_Round,0.59
+61,Water - As you need,,,Dry_Season,0.3
+61,Salt - As you need,,,Dry_Season,0.3
+61,Cooking oil - As you need,,,Dry_Season,0.3
+62,Eggplant - 83 1/3g,,,Dry_Season,0.3
+62,Tomato - 58 1/3g,,,Inter_Monsoon,0.27
+62,Onion - 16 2/3g,,,Year_Round,0.64
+62,Garlic clove - 1 or 4,,,Year_Round,0.63
+62,Curry leaves - Few,,,Year_Round,0.59
+62,Thick coconut milk - 83 1/3ml,,,Dry_Season,0.45
+62,Semi-thick tamarind juice - 16 2/3ml,,,Dry_Season,0.53
+62,Curry powder - 1/3 ½ tablespoon,,,Year_Round,0.62
+62,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+62,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+62,Salt - As you need (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+62,Cooking oil - As you need (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+63,Potatoes - 133 1/3g,,,Dry_Season,0.3
+63,Onion - 50g,,,Year_Round,0.67
+63,Split skinned black gram / Urad dal - 1/3 tablespoon,,,Inter_Monsoon,0.33
+63,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+63,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+63,Fennel seeds - ½ teaspoon,,,Dry_Season,0.3
+63,Green chili - 2 to 8,,,Year_Round,0.8
+63,Water - 83 1/3ml,,,Dry_Season,0.3
+63,Lime - 1/3,,,Dry_Season,0.48
+63,Curry leaves - Few,,,Year_Round,0.59
+63,Cooking oil - 1 1/3 to 5 tablespoon,,,Dry_Season,0.3
+63,Salt - As you need,,,Dry_Season,0.3
+64,Fish - 100g,,,Inter_Monsoon,0.37
+64,Onion - 12 1/2g,,,Year_Round,0.64
+64,Thin coconut milk - 125ml,,,Dry_Season,0.45
+64,Garlic clove - 1 1/4 or 6,,,Year_Round,0.63
+64,Ginger root - Small (About the size of one garlic clove),,,Year_Round,0.46
+64,Green chili - 3/4 or 4,,,Year_Round,0.8
+64,Curry Leaves - Few,,,Year_Round,0.59
+64,Fennel seeds - 1/4 tablespoon,,,Dry_Season,0.3
+64,Cumin seeds/powder - ¼ teaspoon,,,Dry_Season,0.3
+64,Coriander seeds - ½ tablespoon,,,Year_Round,0.37
+64,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+64,Black pepper - 1/4 ½ tablespoon,,,Inter_Monsoon,0.33
+64,Lime - ½,,,Dry_Season,0.56
+64,Salt - As you need,,,Dry_Season,0.3
+65,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+65,Fennel seeds - 1/4 ¼ teaspoon,,,Dry_Season,0.3
+65,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+65,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+65,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+65,Salt - As you need,,,Dry_Season,0.3
+65,Coriander seeds - 1/4 tablespoon,,,Year_Round,0.37
+65,Dried red chili - 1,,,Year_Round,0.73
+65,Curry leaves - Few,,,Year_Round,0.59
+65,Chopped onion - ½ large,,,Year_Round,0.64
+65,Garlic cloves - 1 to 6,,,Year_Round,0.63
+65,Ginger root - Small (About the size of one small garlic clove),,,Year_Round,0.46
+65,Black pepper - ½ teaspoon,,,Inter_Monsoon,0.33
+65,Sliced tomato - 1/2 large,,,Inter_Monsoon,0.27
+65,Thick tamarind juice - 37 1/2ml,,,Dry_Season,0.53
+65,Water - 137 1/2ml to 650ml,,,Dry_Season,0.3
+65,Cooking oil - As you need,,,Dry_Season,0.3
+66,Beef - 166 2/3g,,,Dry_Season,0.3
+66,Crushed black pepper - 1/3 tablespoon,,,Inter_Monsoon,0.33
+66,Onion - 33 1/3g,,,Year_Round,0.64
+66,Green chili - 2 to 8,,,Year_Round,0.8
+66,Garlic cloves - 2 to 8,,,Year_Round,0.63
+66,Ginger - A small piece (About the size of a large garlic clove),,,Year_Round,0.65
+66,Lime - ½,,,Dry_Season,0.56
+66,Curry leaves - Few,,,Year_Round,0.59
+66,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+66,Salt - As you need (KETO people use Himalayan pink salt),,,Inter_Monsoon,0.33
+66,Cooking oil - As you need (KETO people use Extra virgin coconut oil),,,Dry_Season,0.45
+67,Eggplant - 1/2 large,,,Dry_Season,0.3
+67,Ash plantain - 1/2 large,,,Dry_Season,0.3
+67,Onion - 15g,,,Year_Round,0.67
+67,Green chili - 1 or 3,,,Year_Round,0.8
+67,Curry leaves - Few,,,Year_Round,0.59
+67,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+67,Salt - As you need,,,Dry_Season,0.3
+67,Thin coconut milk - 100ml,,,Dry_Season,0.45
+67,Thick coconut milk - 25ml,,,Dry_Season,0.45
+68,Elephant foot yam - 125g,,,Northeast_Monsoon,0.61
+68,Onion - 18 3/4g,,,Year_Round,0.64
+68,Thick coconut milk - 75ml,,,Dry_Season,0.45
+68,Thin tamarind juice - 25ml,,,Dry_Season,0.53
+68,Curry powder - 1/4 tablespoon,,,Year_Round,0.62
+68,Garlic cloves - 1 or 5,,,Year_Round,0.63
+68,Curry leaves - Few,,,Year_Round,0.59
+68,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+68,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+68,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+68,Salt - As you need,,,Dry_Season,0.3
+68,Cooking oil - As you need,,,Dry_Season,0.3
+69,Banana flower - 100g,,,Inter_Monsoon,0.47
+69,Grated coconut - 3/5 to 4 tablespoons,,,Dry_Season,0.45
+69,Onion - 10g,,,Year_Round,0.67
+69,Dried red chili - 2/5 or 3,,,Year_Round,0.73
+69,Curry leaves - Few,,,Year_Round,0.59
+69,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+69,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+69,Salt - 1/5 tablespoon,,,Dry_Season,0.3
+69,Cooking oil - As you want,,,Dry_Season,0.3
+70,Drumsticks - 3/4 large,,,Inter_Monsoon,0.72
+70,Onion - 15g,,,Year_Round,0.67
+70,Garlic clove - 1 to 6,,,Year_Round,0.63
+70,Curry leaves - Few,,,Year_Round,0.59
+70,Curry powder - 1/4 ½ tablespoon,,,Year_Round,0.62
+70,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+70,Fennel seeds - ½ teaspoon,,,Dry_Season,0.3
+70,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+70,Cooking oil - As you need,,,Dry_Season,0.3
+70,Tamarind juice - 25ml,,,Dry_Season,0.53
+70,Thin coconut milk - 62 1/2ml,,,Dry_Season,0.45
+70,Thick coconut milk - 12 1/2ml,,,Dry_Season,0.45
+70,Salt - As you need,,,Dry_Season,0.3
+71,Ash plantains - 1/2 large,,,Dry_Season,0.3
+71,Dry roasted red chilies - 1 1/2 to 8,,,Year_Round,0.45
+71,Vinegar - 1/2 tablespoons,,,Dry_Season,0.3
+71,Mustard seeds - 1/4 teaspoon,,,Dry_Season,0.3
+71,Sugar - ½ tablespoon,,,Dry_Season,0.3
+71,Salt - As you need,,,Dry_Season,0.3
+71,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+71,Onion - 12 1/2g,,,Year_Round,0.64
+71,Green chilies - 1/4 or 2,,,Year_Round,0.61
+71,Very thick coconut milk - 1 tablespoons,,,Dry_Season,0.45
+71,Cooking oil - As you need,,,Dry_Season,0.3
+72,Sliced onion - 116 2/3g,,,Year_Round,0.64
+72,Red chili flakes - 1/3 ¼ tablespoon,,,Year_Round,0.73
+72,Thin tamarind juice - 33 1/3ml,,,Dry_Season,0.53
+72,Sugar - 1/3 ¼ tablespoon,,,Dry_Season,0.3
+72,Cooking oil - 1 1/3 tablespoons,,,Dry_Season,0.3
+72,Salt - As you need,,,Dry_Season,0.3
+73,Cabbage - 83 1/3g,,,Southwest_Monsoon,0.41
+73,Onions - 16 2/3g,,,Year_Round,0.62
+73,Green chilies - 2/3 or 3,,,Year_Round,0.61
+73,Curry leaves - Few,,,Year_Round,0.59
+73,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+73,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+73,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+73,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+73,Ground black pepper - ½ teaspoon,,,Inter_Monsoon,0.33
+73,Salt - As you need,,,Dry_Season,0.3
+73,Grated coconut - 1 2/3 tablespoons,,,Dry_Season,0.45
+73,Cooking oil - 1 tablespoons,,,Dry_Season,0.3
+74,Fenugreek seeds - 1/2 ½ tablespoon,,,Dry_Season,0.3
+74,Onion - 75g,,,Year_Round,0.67
+74,Green chili - 1/2 or 2,,,Year_Round,0.8
+74,Curry leaves - Few,,,Year_Round,0.59
+74,Garlic clove - 2 1/2 to 7,,,Year_Round,0.63
+74,Tamarind juice - 25ml,,,Dry_Season,0.53
+74,Thick coconut milk - 100ml,,,Dry_Season,0.45
+74,Salt - As you need,,,Dry_Season,0.3
+74,Curry powder - 1/2 ½ tablespoon,,,Year_Round,0.62
+74,Cooking oil - As you need,,,Dry_Season,0.3
+75,Fish - 2 to 8 pieces,,,Dry_Season,0.3
+75,Onion - 16 2/3g,,,Year_Round,0.64
+75,Garlic cloves - 1 1/3 or 5,,,Year_Round,0.63
+75,Curry leaves - Few,,,Year_Round,0.59
+75,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+75,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+75,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+75,Fenugreek seeds - ½ teaspoon,,,Dry_Season,0.3
+75,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+75,Thin tamarind juice - 50ml,,,Dry_Season,0.53
+75,Thin coconut milk - 83 1/3ml,,,Dry_Season,0.45
+75,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+75,Curry powder - 2/3 tablespoons,,,Year_Round,0.62
+75,Cooking oil - As you need,,,Dry_Season,0.3
+75,Salt - As you need,,,Dry_Season,0.3
+76,-----For Shrimp-----,,,Dry_Season,0.3
+76,Shrimp/Prawn - 62 1/2g (after clean),,,Dry_Season,0.3
+76,Garlic paste - ½ tablespoon,,,Year_Round,0.63
+76,Ginger paste - ½ teaspoon,,,Year_Round,0.64
+76,Semi thick tamarind juice - 1/2 tablespoons,,,Dry_Season,0.53
+76,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+76,Chili powder - ½ teaspoon,,,Year_Round,0.69
+76,Water - 25ml,,,Inter_Monsoon,0.33
+76,Salt - As you want,,,Dry_Season,0.3
+76,-----For Coating Batter-----,,,Dry_Season,0.3
+76,All-purpose flour - 18 3/4g,,,Dry_Season,0.3
+76,Cornstarch - 1/2 tablespoons,,,Dry_Season,0.3
+76,Garlic paste - 1/4 teaspoon,,,Year_Round,0.63
+76,Ginger paste - ½ teaspoon,,,Year_Round,0.64
+76,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+76,Baking powder - ¼ teaspoon,,,Dry_Season,0.3
+76,Sugar - ¼ teaspoon,,,Dry_Season,0.3
+76,Water - 37 1/2ml,,,Dry_Season,0.3
+76,Salt - As you need,,,Dry_Season,0.3
+77,Dried red chili - 400g,,,Year_Round,0.73
+77,Coriander seeds - 400g,,,Year_Round,0.37
+77,Black pepper - 80g,,,Inter_Monsoon,0.33
+77,Fennel seeds - 80g,,,Dry_Season,0.3
+77,Cumin seeds - 60g,,,Dry_Season,0.3
+77,Curry leaves - 20 to 25 sprigs,,,Year_Round,0.59
+77,Cooking oil - 1 tablespoon,,,Dry_Season,0.3
+78,Beef - 187 1/2g,,,Dry_Season,0.3
+78,Potato - 37 1/2g,,,Northeast_Monsoon,0.38
+78,Onion - 18 3/4g,,,Year_Round,0.64
+78,Black pepper - 3/8 tablespoons,,,Inter_Monsoon,0.33
+78,Fennel seeds - 1/8 ½ tablespoon,,,Dry_Season,0.3
+78,Cumin seeds - ¾ teaspoon,,,Dry_Season,0.3
+78,Turmeric powder - ¾ teaspoon,,,Dry_Season,0.3
+78,Garlic - 1 1/4 to 12,,,Year_Round,0.63
+78,Ginger - Medium size (about the size of 1/4 garlic cloves),,,Year_Round,0.65
+78,Green chili - 1 1/4 to 12,,,Year_Round,0.8
+78,Cardamom - 1 1/4 to 12,,,Dry_Season,0.3
+78,Cinnamon - 1/8 ½ tablespoon,,,Dry_Season,0.3
+78,Thick coconut milk - 50ml,,,Dry_Season,0.45
+78,Cooking oil - as you want,,,Dry_Season,0.3
+78,Salt - As you want,,,Dry_Season,0.3
+79,Potato - 125g,,,Northeast_Monsoon,0.38
+79,Onion - 25g,,,Year_Round,0.67
+79,Dried red chili flakes - 1/2 tablespoon,,,Year_Round,0.73
+79,Green chilies - 1 or 3,,,Year_Round,0.61
+79,Curry leaves - Few,,,Year_Round,0.59
+79,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+79,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+79,Cooking oil - As you wish,,,Dry_Season,0.3
+79,Salt - As you wish,,,Dry_Season,0.3
+79,Lime - ½,,,Dry_Season,0.56
+80,Nutella - 25g,,,Dry_Season,0.3
+80,Egg - 3/16,,,Inter_Monsoon,0.35
+80,Plain Flour - 3 1/8g,,,Dry_Season,0.3
+80,Cocoa Powder - 1/16 Tablespoon,,,Dry_Season,0.3
+81,Chicken - 166 2/3g,,,Dry_Season,0.3
+81,Thin coconut milk - 83 1/3ml,,,Dry_Season,0.45
+81,Onion - 25g,,,Year_Round,0.67
+81,Garlic cloves - 1 2/3 to 7,,,Year_Round,0.63
+81,Ginger - Small piece (About the size of one big garlic clove),,,Year_Round,0.65
+81,Dried red chilies - 3 1/3 to 15,,,Year_Round,0.64
+81,Curry leaves - Few,,,Year_Round,0.59
+81,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+81,Fennel seeds - ¾ teaspoon,,,Dry_Season,0.3
+81,Black pepper - ½ teaspoon,,,Inter_Monsoon,0.33
+81,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+81,Cardamom - 1 to 5,,,Dry_Season,0.3
+81,Crushed cinnamon - ¾ teaspoon,,,Dry_Season,0.3
+81,Coriander seeds - ½ teaspoon,,,Year_Round,0.37
+81,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+81,Salt - As you need,,,Dry_Season,0.3
+81,Cooking oil - As you need,,,Dry_Season,0.3
+82,Drumsticks - 2/3 large,,,Inter_Monsoon,0.72
+82,Onion - 16 2/3g,,,Year_Round,0.64
+82,Curry leaves - Few,,,Year_Round,0.59
+82,Green chili - 1/3 or 2,,,Year_Round,0.8
+82,Salt - As you need,,,Dry_Season,0.3
+82,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+82,Thin coconut milk - 66 2/3ml,,,Dry_Season,0.45
+82,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+83,Spinach - 1/4 bunches (about 1kg after clean),,,Southwest_Monsoon,0.36
+83,Onion - 12 1/2g,,,Year_Round,0.64
+83,Garlic clove - 3/8 or 4,,,Year_Round,0.63
+83,Green chili - 3/8 or 4,,,Year_Round,0.8
+83,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+83,Thick coconut milk - 18 3/4ml,,,Dry_Season,0.45
+83,Lime - 1/8,,,Dry_Season,0.48
+83,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+84,Chicken - 1/5kg,,,Dry_Season,0.3
+84,Tomato - 50g,,,Inter_Monsoon,0.31
+84,Onion - 30g,,,Year_Round,0.67
+84,Garlic paste - 1/5 tablespoon,,,Year_Round,0.63
+84,Ginger paste - ½ tablespoon,,,Year_Round,0.64
+84,Curry powder - 3/5 tablespoons,,,Year_Round,0.62
+84,Cardamom - 4/5,,,Dry_Season,0.3
+84,Crushed cinnamon - ½ tablespoon,,,Dry_Season,0.3
+84,Turmeric powder - 1/5 teaspoon,,,Dry_Season,0.3
+84,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+84,Curry leaves - Few,,,Year_Round,0.59
+84,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+84,Cooking oil - As you need (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+84,Water - 100ml,,,Dry_Season,0.3
+85,Chicken - 187 1/2g,,,Dry_Season,0.3
+85,Onion - 62 1/2g,,,Year_Round,0.64
+85,Tomato - 37 1/2g,,,Inter_Monsoon,0.27
+85,Banana pepper - 25g,,,Inter_Monsoon,0.47
+85,Green chili - 1 or 5,,,Year_Round,0.8
+85,Curry leaves - 1/2 sprigs,,,Year_Round,0.59
+85,Lime - ½,,,Dry_Season,0.56
+85,Garlic paste - 1/4 tablespoon,,,Year_Round,0.63
+85,Minced garlic - 1/4 tablespoon,,,Year_Round,0.63
+85,Ginger paste - ½ tablespoon,,,Year_Round,0.64
+85,Minced ginger - ¾ tablespoon,,,Year_Round,0.64
+85,Red chili flakes - 1/4 tablespoon,,,Year_Round,0.73
+85,Crushed black pepper - ½ tablespoon,,,Inter_Monsoon,0.33
+85,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+85,Tomato sauce - As you want,,,Inter_Monsoon,0.27
+85,Salt - As you want,,,Dry_Season,0.3
+85,Cooking oil - As you want,,,Dry_Season,0.3
+86,Mutton boti – 1/5kg,,,Dry_Season,0.3
+86,Onion - 20g,,,Year_Round,0.67
+86,Chopped ginger - 1/5 tablespoon,,,Year_Round,0.64
+86,Curry powder - 3/5 tablespoons,,,Year_Round,0.62
+86,Turmeric powder - 1/5 teaspoon,,,Dry_Season,0.3
+86,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+86,Cardamom - 4/5 or 5,,,Dry_Season,0.3
+86,Crushed cinnamon - ½ tablespoon,,,Dry_Season,0.3
+86,Curry leaves - Few,,,Year_Round,0.59
+86,Thick coconut milk - 60ml,,,Dry_Season,0.45
+86,Lime - ½,,,Dry_Season,0.56
+86,Salt - As you want,,,Dry_Season,0.3
+86,Cooking oil - As you want,,,Dry_Season,0.3
+87,Shrimp - 125g,,,Dry_Season,0.3
+87,Onion - 25g,,,Year_Round,0.67
+87,Garlic cloves - 2 or 5,,,Year_Round,0.63
+87,Curry powder - 1/2 ½ tablespoon,,,Year_Round,0.62
+87,Fenugreek seeds - ¾ teaspoon,,,Dry_Season,0.3
+87,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+87,Thick coconut milk - 50ml,,,Dry_Season,0.45
+87,Thin coconut milk - 100ml,,,Dry_Season,0.45
+87,Thin tamarind juice - 50ml,,,Dry_Season,0.53
+87,Curry leaves - Few,,,Year_Round,0.59
+87,Salt - As you want (KETO people use Himalayan Pink Salt),,,Inter_Monsoon,0.33
+87,Cooking oil - As you wish (KETO people use Organic Coconut Oil),,,Dry_Season,0.45
+88,Mutton Blood - 130g,,,Dry_Season,0.3
+88,Shallots/Small onion - 40g,,,Year_Round,0.64
+88,Green chili - 2/5 or 3,,,Year_Round,0.8
+88,Dried red chili - 4/5 or 5,,,Year_Round,0.73
+88,Curry leaves - 2/5 or 3 sprigs,,,Year_Round,0.59
+88,Turmeric powder - 1/5 teaspoon,,,Dry_Season,0.3
+88,Fennel seeds - 1/5 tablespoon,,,Dry_Season,0.3
+88,Mustard seeds - 1/5 teaspoon,,,Dry_Season,0.3
+88,Salt - As you want,,,Dry_Season,0.3
+88,Cooking oil - As you want,,,Dry_Season,0.3
+89,Noodle - 100g,,,Dry_Season,0.3
+89,Prawn/Shrimp - 75g (After clean),,,Dry_Season,0.3
+89,Carrot - 37 1/2g,,,Northeast_Monsoon,0.6
+89,Leeks - 18 3/4g,,,Northeast_Monsoon,0.59
+89,Cabbage - 18 3/4g,,,Southwest_Monsoon,0.41
+89,Green bean - 18 3/4g,,,Southwest_Monsoon,0.45
+89,Onion - 37 1/2g,,,Year_Round,0.64
+89,Curry leaves - 3/4 sprigs,,,Year_Round,0.59
+89,Garlic paste - 1/2 teaspoons,,,Year_Round,0.63
+89,Ginger paste - 1/4 teaspoon,,,Year_Round,0.64
+89,Turmeric powder - ½ + ½ teaspoon,,,Dry_Season,0.3
+89,Salt - As you need,,,Dry_Season,0.3
+89,Cooking oil - As you need,,,Dry_Season,0.3
+90,-----For Chicken Curry-----,,,Year_Round,0.62
+90,Chicken - 250g,,,Dry_Season,0.3
+90,Onion - 25g,,,Year_Round,0.67
+90,Tomato - 50g,,,Inter_Monsoon,0.31
+90,Garlic paste - 1/5 ½ tablespoon,,,Year_Round,0.63
+90,Ginger paste - ¾ tablespoon,,,Year_Round,0.64
+90,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+90,Turmeric powder - ¾ teaspoon,,,Dry_Season,0.3
+90,Curry leaves - Few,,,Year_Round,0.59
+90,Water - 30ml,,,Inter_Monsoon,0.33
+90,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+90,Cooking oil - As you want (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+90,-----For Curry Powder-----,,,Year_Round,0.62
+90,Dried red chili - 2 to 12,,,Year_Round,0.73
+90,Coriander seeds - 1/5 tablespoon,,,Year_Round,0.37
+90,Black pepper - 1/5 tablespoon,,,Inter_Monsoon,0.33
+90,Fennel seeds - ¾ tablespoon,,,Dry_Season,0.3
+90,Cumin seeds - ¼ tablespoon,,,Dry_Season,0.3
+90,Cardamom - 1,,,Inter_Monsoon,0.33
+90,Crushed cinnamon - 1/5 tablespoon,,,Dry_Season,0.3
+90,Curry leaves - 1/5 sprig,,,Year_Round,0.59
+91,Beef oxtail - 1/6kg,,,Dry_Season,0.3
+91,Tomato - 41 2/3g,,,Inter_Monsoon,0.27
+91,Onion - 25g,,,Year_Round,0.67
+91,Garlic paste - 1/6 tablespoon,,,Year_Round,0.63
+91,Ginger paste - ½ tablespoon,,,Year_Round,0.64
+91,Curry powder - 1/2 tablespoons,,,Year_Round,0.62
+91,Curry leaves - Few,,,Year_Round,0.59
+91,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+91,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+91,Water - As you want,,,Dry_Season,0.3
+91,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+91,Cooking oil - As you want (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+92,Boneless chicken - 14 2/7g,,,Dry_Season,0.3
+92,Potato - 10g,,,Northeast_Monsoon,0.39
+92,Onion - 7 1/7g,,,Year_Round,0.64
+92,Green chili - 1/9 to 6,,,Year_Round,0.8
+92,Garlic clove - 1/9 to 6,,,Year_Round,0.63
+92,Curry leaves - Few,,,Year_Round,0.59
+92,Spring roll paper - 1 1/7 sheets,,,Dry_Season,0.3
+92,Cardamom - 1/12 or 4,,,Dry_Season,0.3
+92,Crushed cinnamon - ¾ teaspoon,,,Dry_Season,0.3
+92,Chili powder - 0.03 tablespoon,,,Year_Round,0.69
+92,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+92,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+92,Salt - As you wish,,,Dry_Season,0.3
+92,Water - 2 6/7ml,,,Dry_Season,0.3
+92,Cooking oil - As you need,,,Dry_Season,0.3
+93,Whole fish - 1 medium size,,,Dry_Season,0.3
+93,Fenugreek seeds - ½ teaspoon,,,Dry_Season,0.3
+93,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+93,Sugar - ¼ teaspoon,,,Dry_Season,0.3
+93,Salt - As you need,,,Dry_Season,0.3
+93,Thin tamarind juice - 100ml,,,Dry_Season,0.53
+93,Red chili flakes - 1/2 tablespoon,,,Year_Round,0.73
+93,Onion - 25g to 75g,,,Year_Round,0.64
+93,Garlic cloves - 2 1/2 or 6,,,Year_Round,0.63
+93,Green chili - 2 or 5,,,Year_Round,0.8
+93,Cooking oil - 1 1/2 tablespoons,,,Dry_Season,0.3
+93,Water - As you need,,,Dry_Season,0.3
+94,Parotta/Roti - 2 1/7 (Each Roti is about 15cm diameter),,,Dry_Season,0.3
+94,Beef Curry - Curry from 71 3/7g of beef,,,Year_Round,0.62
+94,Eggs - 1,,,Dry_Season,0.38
+94,Leeks - 10 5/7g,,,Northeast_Monsoon,0.59
+94,Carrot - 14 2/7g,,,Northeast_Monsoon,0.6
+94,Curry leaves - Few,,,Year_Round,0.59
+94,Onion - 35 5/7g,,,Year_Round,0.64
+94,Green chili - 3 4/7g,,,Year_Round,0.8
+94,Salt - As you need,,,Dry_Season,0.3
+94,Cooking oil - As you need,,,Dry_Season,0.3
+95,Beef - 17g,,,Inter_Monsoon,0.35
+95,Potato - 6g,,,Northeast_Monsoon,0.36
+95,Onion - 6g,,,Year_Round,0.69
+95,Garlic cloves - 1/10 to 7,,,Year_Round,0.63
+95,Ginger - Small size (about the size of one large garlic clove),,,Year_Round,0.65
+95,Green chili - 1/13 to 6,,,Year_Round,0.8
+95,Curry leaves - Few,,,Year_Round,0.59
+95,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+95,Salt - As you want,,,Dry_Season,0.3
+95,Red chili powder - 0.02 tablespoon,,,Year_Round,0.73
+95,Coriander powder - 0.04 teaspoons,,,Year_Round,0.37
+95,Lemon - ½,,,Dry_Season,0.33
+95,Egg - 1/10,,,Inter_Monsoon,0.35
+95,Breadcrumbs - 5g,,,Dry_Season,0.3
+95,Spring roll wrapper - 1 (6” or 150mm square sheet),,,Dry_Season,0.3
+95,Cooking oil - As you need,,,Dry_Season,0.3
+96,Fish - 2 pieces (500g),,,Dry_Season,0.3
+96,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+96,Chili powder - ½ teaspoon,,,Year_Round,0.69
+96,Salt - As you need,,,Dry_Season,0.3
+96,Cooking oil - As needed,,,Dry_Season,0.3
+97,Chicken - 208 1/3g,,,Dry_Season,0.3
+97,Hot & spicy chicken fry mix powder - 2/3 tablespoons,,,Dry_Season,0.75
+97,Chili powder - 1/6 tablespoon,,,Year_Round,0.69
+97,Water - 16 2/3ml,,,Dry_Season,0.3
+97,Salt - As you want,,,Dry_Season,0.3
+97,Lime - As you want (Optional),,,Dry_Season,0.47
+97,Onion - As you want (Optional),,,Year_Round,0.64
+98,-----For Chicken Curry-----,,,Year_Round,0.62
+98,Chicken - 1/7kg,,,Dry_Season,0.3
+98,Tomato - 42 6/7g,,,Inter_Monsoon,0.27
+98,Onion - 14 2/7g,,,Year_Round,0.64
+98,Garlic paste - 1/7 tablespoon,,,Year_Round,0.63
+98,Ginger paste - ½ tablespoon,,,Year_Round,0.64
+98,Curry powder - 3/7 tablespoons,,,Year_Round,0.62
+98,Cardamom - 4/7,,,Dry_Season,0.3
+98,Crushed cinnamon - ½ tablespoon,,,Dry_Season,0.3
+98,Turmeric powder - 1/7 teaspoon,,,Dry_Season,0.3
+98,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+98,Curry leaves - Few,,,Year_Round,0.59
+98,Salt - As you want,,,Dry_Season,0.3
+98,Cooking oil - As you need,,,Dry_Season,0.3
+98,Water - 71 3/7ml,,,Dry_Season,0.3
+98,-----For Kottu Roti-----,,,Dry_Season,0.3
+98,Parotta/Paratha Roti - 2 6/7,,,Dry_Season,0.3
+98,Eggs - 1 3/7,,,Inter_Monsoon,0.33
+98,Carrot - 35 5/7g,,,Northeast_Monsoon,0.6
+98,Leek - 21 3/7g,,,Dry_Season,0.3
+98,Banana pepper - 14 2/7g,,,Inter_Monsoon,0.47
+98,Onion - 35 5/7g,,,Year_Round,0.64
+98,Green chili - 1 3/7 to 12,,,Year_Round,0.8
+98,Curry leaves - 2/7 or 3 sprigs,,,Year_Round,0.59
+98,Salt - As you want,,,Dry_Season,0.3
+98,Cooking oil - As you want,,,Dry_Season,0.3
+99,Fish - 125g,,,Inter_Monsoon,0.37
+99,Tomato - 50g,,,Inter_Monsoon,0.31
+99,Onion - 18 3/4g,,,Year_Round,0.64
+99,Green chili - 3/4 or 4,,,Year_Round,0.8
+99,Lime - ½,,,Dry_Season,0.56
+99,Curry leaves - Few,,,Year_Round,0.59
+99,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+99,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+99,Thick coconut milk - 75ml,,,Dry_Season,0.45
+99,Thin coconut milk - 150ml,,,Dry_Season,0.45
+99,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+100,Boneless chicken - 35g,,,Dry_Season,0.3
+100,Carrot - 25g,,,Northeast_Monsoon,0.63
+100,Green bean - 12 1/2g,,,Southwest_Monsoon,0.45
+100,Egg - 2/5 or 5,,,Dry_Season,0.3
+100,Cornstarch - 15g,,,Dry_Season,0.3
+100,Crushed black pepper - 1/10 ½ tablespoon,,,Inter_Monsoon,0.33
+100,Turmeric powder - ½ + ½ teaspoon,,,Dry_Season,0.3
+100,Salt - As you want,,,Dry_Season,0.3
+100,Water - 2/5 liters,,,Dry_Season,0.3
+101,Noodles - 100g,,,Dry_Season,0.3
+101,Boneless chicken - 100g,,,Dry_Season,0.3
+101,Carrot - 25g,,,Northeast_Monsoon,0.63
+101,Cabbage - 18 3/4g,,,Southwest_Monsoon,0.41
+101,Leeks - 18 3/4g,,,Northeast_Monsoon,0.59
+101,Banana pepper - 12 1/2g,,,Inter_Monsoon,0.47
+101,Onion - 25g,,,Year_Round,0.67
+101,Curry leaves - 1/2 sprigs,,,Year_Round,0.59
+101,Garlic paste - 1/4 teaspoon,,,Year_Round,0.63
+101,Ginger paste - ¼ teaspoon,,,Year_Round,0.64
+101,Turmeric powder - ½ + ¼ teaspoons,,,Dry_Season,0.3
+101,Cardamom - 3/4 to 5,,,Dry_Season,0.3
+101,Crushed cinnamon - ¾ teaspoon,,,Dry_Season,0.3
+101,Salt - As you want,,,Dry_Season,0.3
+101,Cooking oil - As you need,,,Dry_Season,0.3
+102,Tinned fish - 28 1/2g (Only Fish Chunks),,,Dry_Season,0.3
+102,Bread - 2 slices,,,Dry_Season,0.3
+102,Butter - As you wish,,,Dry_Season,0.3
+102,Potato - 50g,,,Northeast_Monsoon,0.39
+102,Onion - 20g,,,Year_Round,0.67
+102,Garlic cloves - 1/2 or 6,,,Year_Round,0.63
+102,Dried red chili - 2 to 25 (about 25g),,,Year_Round,0.73
+102,Curry leaves - Few,,,Year_Round,0.59
+102,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+102,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+102,Salt - As you need,,,Dry_Season,0.3
+102,Cooking oil - As you need,,,Dry_Season,0.3
+102,Lime - ½ Large,,,Dry_Season,0.47
+102,Water - 10ml,,,Inter_Monsoon,0.33
+103,"Squid arm, tentacles, and head - 25g",,,Dry_Season,0.3
+103,Squid ink - 3/4 or 4 portions,,,Dry_Season,0.3
+103,Water - 175ml,,,Dry_Season,0.3
+103,Onion - 12 1/2g,,,Year_Round,0.64
+103,Green chili - 1/2 or 3,,,Year_Round,0.8
+103,Garlic cloves - 1/2 or 3,,,Year_Round,0.63
+103,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+103,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+103,Lime - ½,,,Dry_Season,0.56
+103,Curry leaves - Few,,,Year_Round,0.59
+103,Salt - As you need,,,Dry_Season,0.3
+104,Grated coconut - 50g,,,Dry_Season,0.45
+104,Dried red chili - 4 to 12,,,Year_Round,0.73
+104,Crushed Maldives fish - 1 tablespoons,,,Dry_Season,0.3
+104,Onion - 2 1/2 to 7 small,,,Year_Round,0.64
+104,Sugar - ¼ teaspoon,,,Dry_Season,0.3
+104,Lime - ½,,,Dry_Season,0.56
+104,Salt - As you need,,,Dry_Season,0.3
+105,Tin fish pieces - 75g,,,Dry_Season,0.3
+105,Onion - 25g,,,Year_Round,0.67
+105,Garlic clove - 1 1/4 to 7,,,Year_Round,0.63
+105,Curry leaves - Few,,,Year_Round,0.59
+105,Thin coconut milk - 100ml,,,Dry_Season,0.45
+105,Thin tamarind juice - 37 1/2ml,,,Dry_Season,0.53
+105,Curry powder - 1/4 ¼ tablespoon,,,Year_Round,0.62
+105,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+105,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+105,Fenugreek seeds - 1/2 or 3 pinch,,,Dry_Season,0.3
+105,Salt - As you need,,,Dry_Season,0.3
+105,Cooking oil - As you need,,,Dry_Season,0.3
+106,Boneless chicken - 16 2/3g,,,Dry_Season,0.3
+106,Potato - 11 2/3g,,,Northeast_Monsoon,0.38
+106,Onion - 8 1/3g,,,Year_Round,0.64
+106,Spring roll paper - 2/3 sheets,,,Dry_Season,0.3
+106,Green chili - 2/15 to 6,,,Year_Round,0.8
+106,Garlic clove - 2/15 to 6,,,Year_Round,0.63
+106,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+106,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+106,Chili powder - 0.03 tablespoon,,,Year_Round,0.69
+106,Crushed cinnamon - ¾ teaspoon,,,Dry_Season,0.3
+106,Cardamom - 1/10 or 4,,,Dry_Season,0.3
+106,Curry leaves - Few,,,Year_Round,0.59
+106,Water - 3 1/3ml,,,Dry_Season,0.3
+106,Salt - As you wish,,,Dry_Season,0.3
+106,Cooking oil - As you need,,,Dry_Season,0.3
+107,Eggs - 1 1/2,,,Inter_Monsoon,0.33
+107,Onion - 25g,,,Year_Round,0.67
+107,Garlic cloves - 1 1/2 or 4,,,Year_Round,0.63
+107,Curry leaves - Few,,,Year_Round,0.59
+107,Thin coconut milk - 175ml,,,Dry_Season,0.45
+107,Thin tamarind juice - 50ml,,,Dry_Season,0.53
+107,Curry powder - 1/2 ¼ tablespoons,,,Year_Round,0.62
+107,Fenugreek seeds - ½ teaspoon,,,Dry_Season,0.3
+107,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+107,Salt - As you want,,,Dry_Season,0.3
+107,Cooking oil - As you want,,,Dry_Season,0.3
+108,Basmati rice - 100g,,,Year_Round,0.54
+108,Boneless chicken - 100g,,,Dry_Season,0.3
+108,Carrot - 25g,,,Northeast_Monsoon,0.63
+108,Green bean - 18 3/4g,,,Southwest_Monsoon,0.45
+108,Leeks - 18 3/4g,,,Northeast_Monsoon,0.59
+108,Onion - 25g,,,Year_Round,0.67
+108,Curry leaves - 1/4 or 2 sprigs,,,Year_Round,0.59
+108,Garlic paste - 1/4 teaspoon,,,Year_Round,0.63
+108,Ginger paste - ¼ teaspoon,,,Year_Round,0.64
+108,Turmeric powder - ¾ teaspoon,,,Dry_Season,0.3
+108,Cinnamon - 1 to 6,,,Dry_Season,0.3
+108,Crushed cardamom - ½ teaspoon,,,Dry_Season,0.3
+108,Salt - As you need,,,Dry_Season,0.3
+108,Cooking oil - As you need,,,Dry_Season,0.3
+109,Pork - 166 2/3g,,,Dry_Season,0.3
+109,Onion - 33 1/3g,,,Year_Round,0.64
+109,Curry leaves - Few,,,Year_Round,0.59
+109,Thin milk - 83 1/3ml,,,Dry_Season,0.3
+109,Water - 133 1/3ml,,,Dry_Season,0.3
+109,Curry powder - 2/3 tablespoons,,,Year_Round,0.62
+109,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+109,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+109,Fennel seeds - ½ teaspoon,,,Dry_Season,0.3
+109,Lime - ½,,,Dry_Season,0.56
+109,Salt - As you need,,,Dry_Season,0.3
+109,Cooking oil - As you need,,,Dry_Season,0.3
+110,Whole fish - 2 (350g),,,Dry_Season,0.3
+110,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+110,Curry powder/Chilli powder - ½ tablespoon,,,Year_Round,0.62
+110,Thin tamarind juice - 33 1/3ml,,,Dry_Season,0.53
+110,Water - As you need (I used 50ml),,,Dry_Season,0.3
+110,All-purpose flour - As you need (I used 33 1/3g),,,Dry_Season,0.3
+110,Breadcrumbs - As you need (I used 33 1/3g),,,Dry_Season,0.3
+110,Salt - As you need,,,Dry_Season,0.3
+110,Cooking oil - As you need,,,Dry_Season,0.3
+111,Crab - 175g (Before clean),,,Dry_Season,0.3
+111,Onion - 25g,,,Year_Round,0.67
+111,Garlic clove - 3/4 or 4,,,Year_Round,0.63
+111,Ginger - Small (About the size of a garlic clove),,,Year_Round,0.65
+111,Curry leaves - Few,,,Year_Round,0.59
+111,Curry powder - 3/4 tablespoons,,,Year_Round,0.62
+111,Fenugreek Seeds - ¾ teaspoon,,,Dry_Season,0.3
+111,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+111,Salt - As you wish,,,Dry_Season,0.3
+111,Thin coconut milk - 100ml,,,Dry_Season,0.45
+111,Thin tamarind juice - 50ml,,,Dry_Season,0.53
+111,Cooking oil - As you want,,,Dry_Season,0.3
+112,Fish - 3/16kg,,,Dry_Season,0.3
+112,Cuttlefish/Squid - 31 1/4g,,,Dry_Season,0.3
+112,Prawn/Shrimp - 31 1/4g,,,Dry_Season,0.3
+112,Crab - 62 1/2g,,,Dry_Season,0.3
+112,Long beans - 12 1/2g,,,Inter_Monsoon,0.78
+112,Tapioca - 43 3/4g,,,Dry_Season,0.3
+112,Jackfruit seeds - 25g,,,Dry_Season,0.8
+112,Palmyra tuber flour/Odiyal flour - 9 3/8g,,,Northeast_Monsoon,0.59
+112,Brown rice - 12 1/2g,,,Year_Round,0.54
+112,Red chili flakes - 9 3/8g,,,Year_Round,0.73
+112,Turmeric powder - 1/8 teaspoon,,,Dry_Season,0.3
+112,Salt - As you need,,,Dry_Season,0.3
+112,Thin tamarind juice - 75ml,,,Dry_Season,0.53
+112,Water - 250ml,,,Dry_Season,0.3
+113,Fish (Sprat) - 33 1/3g,,,Dry_Season,0.3
+113,Tomato - 25g,,,Inter_Monsoon,0.31
+113,Onion - 16 2/3g,,,Year_Round,0.64
+113,Green Chili - 1 to 5,,,Year_Round,0.8
+113,Thin Coconut Milk - 116 2/3ml,,,Dry_Season,0.45
+113,Water - 50ml,,,Inter_Monsoon,0.33
+113,Curry Leaves - Few,,,Year_Round,0.59
+113,Turmeric Powder - ¼ Teaspoon,,,Dry_Season,0.3
+113,Salt - As you need,,,Dry_Season,0.3
+113,Lime - ½,,,Dry_Season,0.56
+114,Fish - 133 1/3g,,,Dry_Season,0.3
+114,Onion - 16 2/3g,,,Year_Round,0.64
+114,Green chili - 2/3 or 3,,,Year_Round,0.8
+114,Garlic cloves - 1 or 4,,,Year_Round,0.63
+114,Curry leaves - Few,,,Year_Round,0.59
+114,Curry powder - 2/3 tablespoons,,,Year_Round,0.62
+114,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+114,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+114,Coconut milk - 66 2/3ml,,,Dry_Season,0.45
+114,Tamarind juice - 50ml,,,Dry_Season,0.53
+114,Salt - As you need,,,Dry_Season,0.3
+115,Fish egg (Grey Mullet Fish) - 100g,,,Dry_Season,0.3
+115,Onion - As you wish,,,Year_Round,0.64
+115,Green chili - As you wish,,,Year_Round,0.8
+115,Lime - As you wish,,,Dry_Season,0.47
+115,Curry powder - ½ tablespoon,,,Year_Round,0.62
+115,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+115,Water - 100ml,,,Dry_Season,0.3
+115,Salt - As you need,,,Dry_Season,0.3
+115,Cooking oil - As you need,,,Dry_Season,0.3
+116,Whole chicken - 1/5 ¼ kg,,,Dry_Season,0.3
+116,Chili powder - 1/5 ½ tablespoons,,,Year_Round,0.69
+116,Garlic paste - 1/5 tablespoon,,,Year_Round,0.63
+116,Ginger paste - ¾ tablespoon,,,Year_Round,0.64
+116,Maggi chicken soup cube - ¾ tablespoon,,,Dry_Season,0.3
+116,Butter - 3g,,,Inter_Monsoon,0.37
+116,Lime - ½,,,Dry_Season,0.56
+116,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+116,Salt - As you need,,,Dry_Season,0.3
+116,Cooking oil - As you need,,,Dry_Season,0.3
+117,Baby squid/calamari - 125g,,,Dry_Season,0.3
+117,Onion - 25g,,,Year_Round,0.67
+117,Thin coconut milk - 100ml,,,Dry_Season,0.45
+117,Thin tamarind juice - 50ml,,,Dry_Season,0.53
+117,Curry powder - 1 tablespoons,,,Year_Round,0.62
+117,Garlic paste - 1/2 teaspoon,,,Year_Round,0.63
+117,Ginger paste - ½ teaspoon,,,Year_Round,0.64
+117,Curry leaves - Few,,,Year_Round,0.59
+117,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+117,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+117,Salt - As you need,,,Dry_Season,0.3
+117,Cooking oil - As you need,,,Dry_Season,0.3
+118,Potato - 83 1/3g,,,Northeast_Monsoon,0.38
+118,Crushed Maldives dry fish - 1 to 4 tablespoons,,,Dry_Season,0.75
+118,Onion - 33 1/3g,,,Year_Round,0.64
+118,Tomato - 33 1/3g,,,Inter_Monsoon,0.27
+118,Curry powder - 1/3 tablespoon,,,Year_Round,0.62
+118,Thin coconut milk - 100ml,,,Dry_Season,0.45
+118,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+118,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+118,Turmeric Powder - ¼ teaspoon,,,Dry_Season,0.3
+118,Green chili - 2/3 or 3,,,Year_Round,0.8
+118,Lime - ½,,,Dry_Season,0.56
+118,Curry leaves - Few,,,Year_Round,0.59
+118,Salt - As you want,,,Dry_Season,0.3
+118,Cooking oil - As you want,,,Dry_Season,0.3
+119,Beef - 125g,,,Inter_Monsoon,0.37
+119,Garlic cloves - 2 to 10,,,Year_Round,0.63
+119,Ginger - Small piece (about the size of two garlic cloves),,,Year_Round,0.65
+119,Chili powder - 1/4 teaspoon,,,Year_Round,0.69
+119,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+119,Sugar - ¼ teaspoon,,,Dry_Season,0.3
+119,Ordinary vinegar - 3/4 tablespoons,,,Dry_Season,0.3
+119,Red chili flakes - 1/4 tablespoon,,,Year_Round,0.73
+119,Onions - 37 1/2g to 200g,,,Year_Round,0.62
+119,Banana pepper - 7 1/2g,,,Inter_Monsoon,0.47
+119,Tomato sauce - 1 or 5 tablespoons,,,Inter_Monsoon,0.27
+119,Lime - ½,,,Dry_Season,0.56
+119,Water - As you need (I used 32 1/2ml),,,Dry_Season,0.3
+119,Salt - As you need,,,Dry_Season,0.3
+119,Cooking oil - As you need,,,Dry_Season,0.3
+120,Dried sprats - 16 2/3g,,,Dry_Season,0.3
+120,Tomato - 33 1/3g,,,Inter_Monsoon,0.27
+120,Onion - 25g,,,Year_Round,0.67
+120,Garlic cloves - 1 2/3 to 7,,,Year_Round,0.63
+120,Curry powder - 1/3 tablespoon,,,Year_Round,0.62
+120,Thin coconut milk - 116 2/3ml,,,Dry_Season,0.45
+120,Thin tamarind juice - 16 2/3ml,,,Dry_Season,0.53
+120,Curry leaves - Few,,,Year_Round,0.59
+120,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+120,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+120,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+120,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+120,Salt - As you need,,,Dry_Season,0.3
+120,Cooking oil - As you need,,,Dry_Season,0.3
+121,Mutton - 1/6kg,,,Dry_Season,0.3
+121,Onion - 25g,,,Year_Round,0.67
+121,Crushed ginger - 1/6 ½ tablespoon,,,Year_Round,0.64
+121,Curry powder - 2/3 tablespoons,,,Year_Round,0.62
+121,Fenugreek Seeds - 1/6 ½ teaspoon,,,Dry_Season,0.3
+121,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+121,Thick coconut milk - 25ml,,,Dry_Season,0.45
+121,Thin coconut milk - 58 1/3ml,,,Dry_Season,0.45
+121,Cooking oil - As you need (KETO people use the Organic Coconut Oil),,,Dry_Season,0.45
+121,Salt - As you need (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+122,Prawn/Shrimp - 41 2/3g (After peeling off the skin),,,Dry_Season,0.3
+122,Grated coconut - 33 1/3g,,,Dry_Season,0.45
+122,Onion - 16 2/3g,,,Year_Round,0.64
+122,Red chilies - 1 1/3 or 5,,,Year_Round,0.64
+122,Garlic paste - ½ teaspoon,,,Year_Round,0.63
+122,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+122,Crushed cumin seed - ¼ teaspoon,,,Dry_Season,0.3
+122,Water - 16 2/3ml,,,Dry_Season,0.3
+122,Salt - As you want (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+123,Chicken - 1/6kg,,,Dry_Season,0.3
+123,Onion - 16 2/3g,,,Year_Round,0.64
+123,Potatoes - 16 2/3g,,,Dry_Season,0.3
+123,Green chilies - 5/6 to 7,,,Year_Round,0.61
+123,Semi-Thick coconut milk - 58 1/3ml,,,Dry_Season,0.45
+123,Black pepper - 1/6 ½ tablespoon,,,Inter_Monsoon,0.33
+123,Fennel seeds - 1/6 tablespoon,,,Dry_Season,0.3
+123,Cumin seeds - ½ teaspoon,,,Dry_Season,0.3
+123,Turmeric powder - 1/6 teaspoon,,,Dry_Season,0.3
+123,Mustard seeds - ¼ teaspoon (Optional),,,Dry_Season,0.3
+123,Garlic cloves - 1 1/3 to 10,,,Year_Round,0.63
+123,Ginger - A small piece (about the size of a garlic clove),,,Year_Round,0.65
+123,Curry leaves - Few,,,Year_Round,0.59
+123,Cardamom - 1/2 to 5,,,Dry_Season,0.3
+123,Cinnamon sticks - Few (about ½ tablespoon),,,Dry_Season,0.3
+123,Salt - As you need,,,Dry_Season,0.3
+123,Cooking oil - As you need,,,Dry_Season,0.3
+124,Fish pieces - 62 1/2g,,,Dry_Season,0.3
+124,Onion - 12 1/2g,,,Year_Round,0.64
+124,Black pepper - 1/4 tablespoon,,,Inter_Monsoon,0.33
+124,Fennel seeds - ¾ tablespoon,,,Dry_Season,0.3
+124,Cumin seeds - ¼ teaspoon,,,Dry_Season,0.3
+124,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+124,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+124,Garlic cloves - 1 1/4 or 6,,,Year_Round,0.63
+124,Ginger - Small piece (about the size of 1/4½ garlic cloves),,,Year_Round,0.65
+124,Curry leaves - Few,,,Year_Round,0.59
+124,Green chilies - 1 1/4 or 6,,,Year_Round,0.61
+124,Thick coconut milk - 56 1/4ml,,,Dry_Season,0.45
+124,Water - 25ml,,,Inter_Monsoon,0.33
+124,Salt - As you need,,,Dry_Season,0.3
+124,Lime - ½,,,Dry_Season,0.56
+124,Cooking oil - As you need,,,Dry_Season,0.3
+125,Squid/cuttlefish - 100g,,,Dry_Season,0.3
+125,Onion - 10g,,,Year_Round,0.67
+125,Garlic cloves - 1 or 5,,,Year_Round,0.63
+125,Crushed ginger - ½ teaspoon,,,Year_Round,0.64
+125,Curry leaves - Few,,,Year_Round,0.59
+125,Curry powder - 1/2 tablespoons,,,Year_Round,0.62
+125,Fenugreek seeds - ½ teaspoon,,,Dry_Season,0.3
+125,Mustard seeds - ¼ teaspoon,,,Dry_Season,0.3
+125,Fennel seeds - ¼ teaspoon,,,Dry_Season,0.3
+125,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+125,Salt - As you need,,,Dry_Season,0.3
+125,Thick coconut milk - 62 1/2ml,,,Dry_Season,0.45
+125,Thick tamarind juice - 12 1/2ml,,,Dry_Season,0.53
+125,Cooking oil - As you need,,,Dry_Season,0.3
+126,Beef - 1/6kg,,,Inter_Monsoon,0.33
+126,Black pepper - 1/3 tablespoons,,,Inter_Monsoon,0.33
+126,Fennel seeds - 1/6 tablespoon,,,Dry_Season,0.3
+126,Cumin seeds - ½ teaspoon,,,Dry_Season,0.3
+126,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+126,Garlic cloves - 1 1/6 or 8,,,Year_Round,0.63
+126,Ginger root - Medium (about the size of 1/3 garlic cloves),,,Year_Round,0.46
+126,Onion - 12 1/2 to 100g,,,Year_Round,0.64
+126,Whole green chili - 1 or 7,,,Year_Round,0.8
+126,Curry leaves - Few,,,Year_Round,0.59
+126,Cardamom - 5/6 or 6,,,Dry_Season,0.3
+126,Cinnamon - 1/6 tablespoon,,,Dry_Season,0.3
+126,Salt - As you need (KETO people use the Himalayan Pink Salt),,,Inter_Monsoon,0.33
+126,Thick coconut milk - 33 1/3ml,,,Dry_Season,0.45
+126,Cooking oil - As you need (KETO people use the coconut oil),,,Dry_Season,0.45
+127,-----For The Dough-----,,,Dry_Season,0.3
+127,All purpose flour - 12 1/2g,,,Dry_Season,0.3
+127,Butter - 2 1/2g,,,Dry_Season,0.3
+127,Salt - As you need,,,Dry_Season,0.3
+127,Cold water - 6 1/4ml,,,Dry_Season,0.3
+127,-----For The Curry-----,,,Year_Round,0.62
+127,Canned salmon fish - 8 3/4g(Fish only),,,Dry_Season,0.3
+127,Potatoes - 8 3/4g,,,Dry_Season,0.3
+127,Onion - 5g,,,Year_Round,0.69
+127,Green chili - 1/8 or 6,,,Year_Round,0.8
+127,Garlic cloves - 1/10 or 5,,,Year_Round,0.63
+127,Curry leaves - Few,,,Year_Round,0.59
+127,Lime - 0.03,,,Dry_Season,0.43
+127,Water - 2 1/2ml,,,Dry_Season,0.3
+127,Mustard seeds - ½ teaspoon,,,Dry_Season,0.3
+127,Turmeric powder - ¼ teaspoon,,,Dry_Season,0.3
+127,Chili powder - 0.03 tablespoon,,,Year_Round,0.69
+127,Cooking oil - As you need,,,Dry_Season,0.3
+127,Salt - As you need,,,Dry_Season,0.3
+127,-----For Make and Fry the Patties-----,,,Dry_Season,0.3
+127,Floured surface with the roller,,,Inter_Monsoon,0.33
+127,Patties cutter,,,Dry_Season,0.3
+127,All-purpose flour - 1 1/4g,,,Dry_Season,0.3
+127,Cooking oil - As you need,,,Dry_Season,0.3
+128,Fish - 3 to 15 Pieces,,,Dry_Season,0.3
+128,Shallots - 3 to 15,,,Dry_Season,0.3
+128,Garlic cloves - 1 1/4 to 7,,,Year_Round,0.63
+128,Dried red chili - 2 1/2 to 12,,,Year_Round,0.73
+128,Curry leaves - Few,,,Year_Round,0.59
+128,Black pepper - 1/4 tablespoon,,,Inter_Monsoon,0.33
+128,Coriander seeds - 1/4 tablespoon,,,Year_Round,0.37
+128,Cumin seeds - ½ tablespoon,,,Dry_Season,0.3
+128,Fennel seeds - ½ tablespoon,,,Dry_Season,0.3
+128,Fenugreek seeds - ¼ teaspoon,,,Dry_Season,0.3
+128,Salt - As you need,,,Dry_Season,0.3
+128,Thin coconut milk - 87 1/2ml,,,Dry_Season,0.45
+128,Thick coconut milk - 12 1/2ml,,,Dry_Season,0.45
+128,Tamarind juice - 12 1/2ml,,,Dry_Season,0.53
+129,Roasted red rice flour - 120g,,,Year_Round,0.56
+129,Hot water - 140ml,,,Dry_Season,0.75
+129,Salt - As you need,,,Dry_Season,0.3
+129,Grated coconut - As you wish,,,Dry_Season,0.45
+130,Steamed all-purpose flour - 150g,,,Dry_Season,0.3
+130,Hot water - 125ml,,,Dry_Season,0.75
+130,Salt - As you need,,,Dry_Season,0.3
+130,Grated coconut - As you need,,,Dry_Season,0.45
+131,Roasted red rice flour - 10g,,,Year_Round,0.56
+131,Roasted plain flour - 5g,,,Dry_Season,0.3
+131,Salt - As you need,,,Dry_Season,0.3
+131,Boiled water - 24ml,,,Dry_Season,0.3
+132,Roasted whole wheat flour/Atta flour - 17 9/14g,,,Dry_Season,0.3
+132,Hot water - 13 3/13ml,,,Dry_Season,0.75
+132,Normal water - 10 3/10ml,,,Dry_Season,0.3
+132,Salt - As you need,,,Dry_Season,0.3
+133,Whole wheat flour - 33 1/3g,,,Dry_Season,0.3
+133,Salt - As you wish,,,Dry_Season,0.3
+133,Water - 23 1/3ml,,,Dry_Season,0.3
+134,Split skinned black gram/Urad dal - 12 1/2g,,,Inter_Monsoon,0.33
+134,Basmati rice - 4 1/6g,,,Year_Round,0.54
+134,Steamed plain flour - 12 1/2g,,,Dry_Season,0.3
+134,Fenugreek seeds - ½ teaspoon,,,Dry_Season,0.3
+134,Turmeric powder - ½ teaspoon,,,Dry_Season,0.3
+134,Baking powder - ¼ teaspoon,,,Dry_Season,0.3
+134,Water - 29 1/6ml,,,Dry_Season,0.3
+134,Salt - As you need,,,Dry_Season,0.3
+135,Butter - 500g,,,Dry_Season,0.3
+135,All purpose flour - 500g,,,Dry_Season,0.3
+135,Granulated sugar - 500g,,,Dry_Season,0.3
+135,Egg - 10,,,Dry_Season,0.38
+135,Vanilla extract - 25ml,,,Dry_Season,0.3
+135,Baking powder - 2 teaspoon,,,Dry_Season,0.3
+136,Thick coconut milk - 500ml,,,Dry_Season,0.45
+136,Thin coconut milk - 1250ml,,,Dry_Season,0.45
+136,Jaggery - 500g,,,Dry_Season,0.3
+136,Toasted white rice flour - 100g,,,Year_Round,0.56
+136,Crushed roasted mung bean - 50g,,,Dry_Season,0.3
+136,Sago - 50g,,,Inter_Monsoon,0.35
+137,-----For Cake-----,,,Dry_Season,0.3
+137,Butter - 250g,,,Dry_Season,0.3
+137,Plain flour - 250g,,,Dry_Season,0.3
+137,Sugar - 250g,,,Inter_Monsoon,0.33
+137,Egg - 5,,,Inter_Monsoon,0.31
+137,Nescafe - 1 ½ teaspoon,,,Dry_Season,0.3
+137,Baking powder - 2 ½ teaspoons,,,Dry_Season,0.3
+137,Vanilla extract - 3 teaspoons,,,Dry_Season,0.3
+137,Hot water - 2 tablespoons,,,Dry_Season,0.75
+137,-----For Topping-----,,,Dry_Season,0.3
+137,Butter - 2 tablespoons,,,Dry_Season,0.3
+137,Icing sugar - 200g,,,Dry_Season,0.3
+137,Nescafe - 1 ½ teaspoon,,,Dry_Season,0.3
+137,Hot water - 1 tablespoon,,,Dry_Season,0.75
+138,Rava/Semolina - 13 1/3g,,,Dry_Season,0.3
+138,Condensed milk - 6 2/3g,,,Dry_Season,0.3
+138,Sugar - 3 1/3g,,,Dry_Season,0.3
+138,Cashew nuts - 1 1/3g,,,Dry_Season,0.78
+138,Raisins - 1 1/3g,,,Dry_Season,0.3
+138,Whole milk powder - 1/15 teaspoons,,,Dry_Season,0.3
+138,Warm water - 1 2/3ml,,,Dry_Season,0.3
+138,Ghee - 2/15 teaspoons,,,Dry_Season,0.3
+138,Vanilla - 1/10 teaspoons,,,Dry_Season,0.3
+138,Cardamom - 1/15,,,Dry_Season,0.3
+138,Nutmeg - ½,,,Inter_Monsoon,0.35
+139,-----For Cake-----,,,Dry_Season,0.3
+139,Butter - 250g,,,Dry_Season,0.3
+139,Plain flour - 200g,,,Dry_Season,0.3
+139,Sugar - 250g,,,Inter_Monsoon,0.33
+139,Egg - 5,,,Inter_Monsoon,0.31
+139,Cocoa powder - 50g,,,Dry_Season,0.3
+139,Baking powder - 2 ½ teaspoons,,,Dry_Season,0.3
+139,Vanilla extract - 3 teaspoons,,,Dry_Season,0.3
+139,-----For Toppings-----,,,Dry_Season,0.3
+139,Roasted cashew nuts - 50g,,,Dry_Season,0.78
+139,Butter - 2 tablespoons,,,Dry_Season,0.3
+139,Icing sugar - 150g,,,Dry_Season,0.3
+139,Cocoa powder - 1 tablespoon,,,Dry_Season,0.3
+139,Water - 1 tablespoon,,,Dry_Season,0.3
+140,Banana - 37 1/2g,,,Inter_Monsoon,0.47
+140,Wood apple - 62 1/2g,,,Dry_Season,0.66
+140,Papaya - 62 1/2g,,,Dry_Season,0.77
+140,Mango - 62 1/2g,,,Dry_Season,0.75
+140,Raisins - 6 1/4g,,,Dry_Season,0.3
+140,Roasted cashew nuts - 9 3/8g,,,Dry_Season,0.78
+140,Rose essence - ½ teaspoon,,,Dry_Season,0.3
+140,Milk powder - 1/2 tablespoons,,,Dry_Season,0.3
+140,Sugar - 5/8 tablespoons,,,Dry_Season,0.3
+141,Eggs - 1,,,Dry_Season,0.38
+141,Milkmaid condensed milk - 62 1/2ml,,,Dry_Season,0.3
+141,Lukewarm water - 62 1/2ml,,,Dry_Season,0.3
+141,Sugar - 32 1/2g,,,Dry_Season,0.3
+141,Vanilla essence - 1/2 teaspoon,,,Dry_Season,0.3
+141,Water - 1 1/2 teaspoons,,,Dry_Season,0.3
+142,Roasted white rice flour - 3/5g,,,Year_Round,0.56
+142,Cleaned sesame seeds - 1/13g,,,Dry_Season,0.3
+142,Egg - 0,,,Inter_Monsoon,0.31
+142,Salt - As you wish,,,Dry_Season,0.3
+142,Thick coconut milk - 3/13ml,,,Dry_Season,0.45
+142,Thin coconut milk - 3/5ml,,,Dry_Season,0.45
+142,Sugar - 2/5g,,,Inter_Monsoon,0.33
+142,Water - 0 tablespoons,,,Dry_Season,0.3
+142,Cooking oil - As you need,,,Dry_Season,0.3
+143,Ripe palmyra fruit juice - 10ml (3 Palmyra Fruits),,,Dry_Season,0.42
+143,Steamed flour - 6g,,,Dry_Season,0.3
+143,Sugar - 3g,,,Inter_Monsoon,0.35
+143,Water - As you want,,,Dry_Season,0.3
+143,Cooking oil - As you want,,,Dry_Season,0.3
+144,200gRice flour,,,Year_Round,0.54
+144,30gAll purpose flour,,,Dry_Season,0.3
+144,2cupcanned Coconut Milk(Or use fresh thick coconut milk),,,Year_Round,0.4
+144,1tspSalt,,,Dry_Season,0.33
+144,1⁄4tspSugar,,,Southwest_Monsoon,0.38
+144,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+144,"1⁄4cupWater(If you use fresh coconut milk, replace water with coconut milk)",,,Year_Round,0.4
+144,1literOil(Coconut/vegetable or any other neutral oil),,,Dry_Season,0.45
+144,1⁄4cupcoconut milk(to dilute the batter if it got thicker at the end. *see notes),,,Dry_Season,0.45
+145,2Condensed milk cans - 15oz/397g each,,,Dry_Season,0.3
+145,1CupWater,,,Year_Round,0.29
+145,400gSugar,,,Year_Round,0.29
+145,1tspVanilla Extract,,,Dry_Season,0.3
+145,"1⁄2cupChopped cashews (unsalted, roasted)(optional)",,,Dry_Season,0.75
+145,2tbspUnsalted Butter at room temperature,,,Dry_Season,0.3
+145,"1tbspButter to coat the baking sheet, knife and spatulas",,,Dry_Season,0.3
+146,"500gBeef Chuck, cut into bite size pieces(500g = 1.1 lb)",,,Dry_Season,0.3
+146,1⁄4tspSalt,,,Year_Round,0.29
+146,1⁄2tspFreshly ground black pepper,,,Southwest_Monsoon,0.4
+146,1tbspNeutral cooking oil,,,Dry_Season,0.3
+146,"5Cardamom pods, lightly crushed to open the pod",,,Dry_Season,0.3
+146,4Cloves,,,Southwest_Monsoon,0.43
+146,3inch piece of Ceylon Cinnamon(or 1 inch piece of Cassia),,,Dry_Season,0.3
+146,1⁄2cupChopped Onion,,,Year_Round,0.64
+146,1Sprig of curry leaves,,,Year_Round,0.59
+146,1tspGinger paste*,,,Year_Round,0.62
+146,1tspGarlic paste*,,,Year_Round,0.62
+146,1⁄4tspTurmeric powder,,,Dry_Season,0.3
+146,1tspCayenne pepper powder/Paprika,,,Dry_Season,0.3
+146,2tspCoriander powder,,,Dry_Season,0.3
+146,1tspCumin powder,,,Dry_Season,0.3
+146,1⁄2tspSalt,,,Year_Round,0.29
+146,1⁄4cupPlain yogurt,,,Dry_Season,0.3
+146,2cupsWater(might need more),,,Dry_Season,0.3
+147,350gString hopper Flour(red or white or mix of both),,,Inter_Monsoon,0.33
+147,6gsalt,,,Northeast_Monsoon,0.46
+147,400g/mlLuke warm water*(you may need more water depending on how dry the flour is),,,Dry_Season,0.75
+147,1tspcooking oil to apply on string hopper trays,,,Dry_Season,0.3
+148,"1lbPumpkin, Cut into roughly 2.5inch long cuboids(1lb = 450g)",,,Dry_Season,0.3
+148,1⁄4CupFinely chopped onion,,,Year_Round,0.64
+148,3Cloves of garlic chopped,,,Year_Round,0.63
+148,1Green chili thinly sliced,,,Year_Round,0.72
+148,1Sprig of curry leaves,,,Year_Round,0.59
+148,1Small pandan leaf broken into pieces,,,Year_Round,0.27
+148,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+148,1⁄2tspCayenne pepper powder/Paprika(or any red chili powder of your choice),,,Year_Round,0.73
+148,1tspUnroasted curry powder,,,Year_Round,0.62
+148,1⁄8tspFenugreek seeds,,,Dry_Season,0.3
+148,1Piece of cinnamon about 3 inches long,,,Dry_Season,0.3
+148,1⁄2tspSalt(adjust to your taste),,,Dry_Season,0.3
+148,1CupWater,,,Year_Round,0.29
+148,1cupCoconut milk(I use canned coconut milk),,,Dry_Season,0.45
+148,1⁄2tspblack mustard seeds,,,Inter_Monsoon,0.33
+148,1⁄2tspFreshly ground Black pepper powder,,,Southwest_Monsoon,0.4
+149,2tspChili flakes,,,Year_Round,0.62
+149,1tbspMaldive Fish Chips,,,Dry_Season,0.3
+149,1⁄2tspSalt,,,Year_Round,0.29
+149,"1⁄2tspChili powder(optional, make the lunu miris more red in color)",,,Year_Round,0.64
+149,1CupChopped red onion or Asian Shallots(1 cup is roughly about 120g),,,Year_Round,0.64
+149,2tspLime Juice,,,Dry_Season,0.3
+150,5medium pieces of Goraka/Garcinia cambogia(check the description for substitutes),,,Dry_Season,0.3
+150,1⁄4cupwater to soak Goraka pieces,,,Dry_Season,0.3
+150,6Cardamom pods,,,Dry_Season,0.3
+150,6Cloves,,,Southwest_Monsoon,0.43
+150,1tspBlack Peppercorns,,,Inter_Monsoon,0.33
+150,2inchPiece of Ginger,,,Year_Round,0.64
+150,6Garlic cloves,,,Year_Round,0.62
+150,3sprigs of Curry Leaves,,,Year_Round,0.59
+150,1tspSalt,,,Dry_Season,0.33
+150,3lbPork shoulder cut into small bite size pieces(3lb = 1.35kg),,,Dry_Season,0.3
+150,2tspOil(you can render some fat from a fatty pork piece as well),,,Dry_Season,0.3
+150,"3pieces of cinnamon, each about 3 inches long",,,Dry_Season,0.3
+150,4tspSri Lankan roasted curry powder(see description for substitutes),,,Year_Round,0.62
+150,1tspRoasted Chili powder or regular chili powder,,,Year_Round,0.69
+150,1⁄2tspSalt(adjust to your taste once the meat is cooked),,,Dry_Season,0.3
+150,1cupschopped onion,,,Year_Round,0.64
+150,"1Pandan Leaf, broken into pieces",,,Dry_Season,0.3
+150,1cupwater,,,Year_Round,0.29
+151,4tspLoose leaf tea/ Ground Tea(preferably Ceylon Tea),,,Dry_Season,0.3
+151,1⁄2cupsWater,,,Southwest_Monsoon,0.4
+151,21⁄2cupsFresh milk,,,Southwest_Monsoon,0.48
+151,3tspSugar(adjust to your preference),,,Dry_Season,0.3
+152,"450gFresh Salmon, Skin on, Cut into large 3 inch pieces or strips",,,Southwest_Monsoon,0.48
+152,1⁄2tspchili powder or paprika,,,Year_Round,0.62
+152,1⁄2tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+152,1⁄4tspsalt,,,Year_Round,0.29
+152,1Small wedge of lime,,,Dry_Season,0.47
+152,2tbspAvocado oil or other neutral cooking oil,,,Dry_Season,0.75
+152,4large cloves of garlic,,,Year_Round,0.63
+152,1⁄2Inch piece of ginger,,,Year_Round,0.64
+152,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+152,"2Pieces of Ceylon cinnamon, roughly 2 inches long",,,Dry_Season,0.3
+152,1large piece of goraka/garcinia(see the description for substitutes),,,Dry_Season,0.3
+152,"1⁄2cupOnion, finely chopped",,,Year_Round,0.62
+152,1Sprig of curry leaves,,,Year_Round,0.59
+152,1Small pandan leaf broken into pieces,,,Year_Round,0.27
+152,1tspchili powder or paprika,,,Year_Round,0.62
+152,1tspunroasted curry powder(see the description),,,Year_Round,0.62
+152,1⁄4tspturmeric powder,,,Dry_Season,0.3
+152,salt to your taste(start with about 1/4 of a tsp. You can adjust after tasting the curry later),,,Year_Round,0.62
+152,1⁄2cupthick coconut milk(I use canned),,,Dry_Season,0.45
+152,1cupwater(adjust as how thick or runny you like the curry),,,Year_Round,0.62
+152,1lime or lemon to make zest,,,Dry_Season,0.3
+152,3green chilies(optional),,,Year_Round,0.56
+153,2tspchili flakes,,,Year_Round,0.62
+153,1⁄2tspchili powder,,,Year_Round,0.62
+153,1⁄2tspsalt(adjust to your taste),,,Dry_Season,0.3
+153,2tspMaldive fish chips(optional),,,Dry_Season,0.3
+153,11 shallot chopped or 4 Asian shallots or 2 tbsp chopped onion,,,Year_Round,0.64
+153,1habanero/green chili chopped(optional),,,Year_Round,0.8
+153,1.5cupFresh shredded/ grated coconut(more info in the description),,,Year_Round,0.42
+153,2tspLime juice or small wedge of lime(adjust to your taste),,,Dry_Season,0.47
+154,500gpotatoes(Waxy type),,,Dry_Season,0.3
+154,1cupchopped onion,,,Year_Round,0.64
+154,2garlic cloves chopped,,,Year_Round,0.62
+154,3large green chilies chopped or sliced(reduce for low heat),,,Year_Round,0.61
+154,2sprigs of curry leaves chopped,,,Year_Round,0.59
+154,1can of mackerel (425g),,,Dry_Season,0.3
+154,2tspchili flakes(reduce for low heat),,,Year_Round,0.64
+154,2tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+154,1⁄4tspturmeric powder,,,Dry_Season,0.3
+154,1tbspcoconut oil,,,Dry_Season,0.45
+154,salt to your taste,,,Dry_Season,0.3
+154,450gall purpose flour,,,Dry_Season,0.3
+154,245glukewarm milk(yes measure in grams),,,Dry_Season,0.3
+154,1Egg,,,Year_Round,0.3
+154,22gsugar,,,Dry_Season,0.33
+154,20gbutter,,,Year_Round,0.29
+154,7ginstant dry yeast,,,Dry_Season,0.75
+154,9gsalt,,,Northeast_Monsoon,0.46
+154,1egg yolk,,,Dry_Season,0.33
+154,1tspmilk,,,Dry_Season,0.33
+155,500gChicken cut into pieces,,,Dry_Season,0.3
+155,1.5tspchili powder,,,Year_Round,0.62
+155,1⁄2tspBlack pepper powder,,,Inter_Monsoon,0.33
+155,1⁄8tspturmeric powder,,,Dry_Season,0.3
+155,2tsplemon/lime juice,,,Dry_Season,0.47
+155,3⁄4tspsalt(adjust to your taste),,,Dry_Season,0.3
+155,1tspoil,,,Southwest_Monsoon,0.43
+155,3garlic cloves finely chopped,,,Year_Round,0.62
+155,1inch ginger finely chopped,,,Year_Round,0.64
+155,1tspchili paste,,,Year_Round,0.62
+155,1.5tspchili flakes,,,Year_Round,0.62
+155,1⁄4cupketchup / chili sauce(add more if you want more gravy),,,Year_Round,0.69
+155,1⁄4cupwater(add more if you want more gravy),,,Dry_Season,0.3
+155,1⁄2tspsugar,,,Southwest_Monsoon,0.38
+155,salt(if needed),,,Dry_Season,0.3
+155,2Banana peppers/ Hungarian wax peppers(cut into diagonal pieces),,,Dry_Season,0.3
+155,1⁄2red onion(cut in to big pieces or rings),,,Year_Round,0.64
+155,1tspcorn starch dissolve in 2 tbsp of water((optional)),,,Dry_Season,0.3
+156,200gRice flour,,,Year_Round,0.54
+156,1pinch of yeast,,,Dry_Season,0.3
+156,3⁄4cupwater (175mg),,,Dry_Season,0.3
+156,200mlof coconut milk,,,Dry_Season,0.45
+156,1tspsugar,,,Year_Round,0.29
+156,salt as needed,,,Dry_Season,0.3
+157,650gbone-in chicken (about 5 drumsticks),,,Inter_Monsoon,0.72
+157,3⁄4cupplain full fat yogurt(room temp if possible),,,Dry_Season,0.3
+157,1cuponion thinly sliced (130g),,,Year_Round,0.62
+157,3green chilies,,,Year_Round,0.56
+157,1tbspghee,,,Year_Round,0.29
+157,1⁄2tbspcooking oil,,,Dry_Season,0.3
+157,1tomato diced (125g),,,Dry_Season,0.3
+157,1tbspginger garlic paste,,,Year_Round,0.63
+157,1tbspBiryani masala powder,,,Dry_Season,0.3
+157,1tspKashmiri red chili powder,,,Year_Round,0.73
+157,1tspcayenne powder/red chili powder,,,Year_Round,0.73
+157,1⁄4tspturmeric powder,,,Dry_Season,0.3
+157,1⁄3cupcilantro chopped,,,Dry_Season,0.3
+157,1⁄4cupmint chopped,,,Dry_Season,0.3
+157,1⁄2tsplime juice((optional)),,,Dry_Season,0.3
+157,1⁄4cupwater,,,Southwest_Monsoon,0.38
+157,11⁄2cupBasmati Rice,,,Year_Round,0.54
+157,1tspghee,,,Dry_Season,0.33
+157,1⁄4tspcumin seeds,,,Dry_Season,0.3
+157,3cardomom,,,Year_Round,0.29
+157,3cloves,,,Southwest_Monsoon,0.43
+157,1cinnamon stick,,,Dry_Season,0.3
+157,2bay leaf,,,Dry_Season,0.33
+157,2.5lwater (approximately),,,Dry_Season,0.3
+157,salt (a lot)(refer notes above),,,Dry_Season,0.3
+157,2tspghee,,,Dry_Season,0.33
+157,2dropyellow food coloring or few safron strands,,,Inter_Monsoon,0.33
+157,1tbspmilk,,,Year_Round,0.29
+157,1⁄3cupgolden fried onion for layering and garnish,,,Year_Round,0.64
+157,some cilantro leaves,,,Southwest_Monsoon,0.32
+157,some mint leaves,,,Southwest_Monsoon,0.27
+158,250gpork cut into small cubes (2cm),,,Dry_Season,0.3
+158,2tspSri Lankan roasted curry powder(see the description above),,,Year_Round,0.62
+158,1tsproasted chili powder(optional),,,Year_Round,0.69
+158,1⁄8tspturmeric powder(optional),,,Dry_Season,0.3
+158,1tspgoraka paste,,,Dry_Season,0.3
+158,1⁄2tspsalt as needed(adjust as you like),,,Dry_Season,0.3
+158,3cardomom pods (opened),,,Dry_Season,0.3
+158,3cloves,,,Southwest_Monsoon,0.43
+158,1sprig curry leaves,,,Year_Round,0.59
+158,1piece of pandan leaf,,,Year_Round,0.27
+158,1piece of cinnamon (3 inch),,,Dry_Season,0.3
+158,1tbspginger and garlic paste (freshly made),,,Year_Round,0.55
+158,2green chilies finely chopped,,,Year_Round,0.56
+158,1⁄4cupfinely chopped onion,,,Year_Round,0.64
+158,1tspWhite vinegar,,,Inter_Monsoon,0.33
+158,2tspFreshly ground black pepper,,,Southwest_Monsoon,0.4
+158,2tspoil,,,Southwest_Monsoon,0.43
+158,1⁄3cupwater,,,Southwest_Monsoon,0.38
+159,21⁄2cupfresh grated coconut,,,Year_Round,0.4
+159,21⁄2cupall purpose flour,,,Dry_Season,0.3
+159,1.5tbspbutter,,,Southwest_Monsoon,0.4
+159,2tbspthinly sliced shallot/onion,,,Year_Round,0.64
+159,1green chili(optional),,,Year_Round,0.72
+159,1sprig curry leaves (thinly sliced),,,Year_Round,0.59
+159,water as needed (room temp),,,Dry_Season,0.3
+159,salt as needed,,,Dry_Season,0.3
+160,150gcanned tuna (5oz can) drained,,,Dry_Season,0.3
+160,3cloves of garlic finely chopped,,,Year_Round,0.63
+160,1⁄4cupfinely chopped onion,,,Year_Round,0.64
+160,2green chilies finely sliced((skip if you don't like this spicy)),,,Year_Round,0.56
+160,1medium carrot finely diced,,,Northeast_Monsoon,0.6
+160,2medium potatoes boiled and mashed into small chunks,,,Dry_Season,0.3
+160,1⁄2cupleeks (green part only),,,Northeast_Monsoon,0.41
+160,2tspchili flakes((skip or reduce if you don't like this spicy)),,,Year_Round,0.64
+160,1⁄2tspblack pepper,,,Inter_Monsoon,0.33
+160,salt to your taste,,,Dry_Season,0.3
+160,1tbspoil,,,Dry_Season,0.33
+160,"5eggs boiled, peeled and cut into halves",,,Dry_Season,0.3
+160,240gall purpose flour,,,Dry_Season,0.3
+160,1⁄2cupmilk,,,Year_Round,0.29
+160,11⁄2cupwater (may need about 2 tbsp of more water),,,Dry_Season,0.3
+160,1⁄2tspsalt,,,Year_Round,0.29
+160,120gall purpose flour for the batter,,,Dry_Season,0.3
+160,1cupwater for the batter,,,Dry_Season,0.3
+160,1⁄4tspsalt for the batter,,,Dry_Season,0.3
+160,1pack of traditional bread crumbs,,,Dry_Season,0.3
+160,oil for deep frying,,,Dry_Season,0.3
+161,1tbspcoconut oil,,,Dry_Season,0.45
+161,5cardamom pods,,,Dry_Season,0.3
+161,5cloves,,,Southwest_Monsoon,0.43
+161,3pieces of cinnamon roughly 2 inch long,,,Dry_Season,0.3
+161,1tbspfinely chopped ginger,,,Year_Round,0.64
+161,11⁄2tbspfinely chopped garlic,,,Year_Round,0.63
+161,1sprig of curry leaves,,,Year_Round,0.59
+161,"1small pandan leaf, broken into pieces",,,Year_Round,0.27
+161,1piece garcinia cambogia/goraka piece(substitute: 2 tsp of tamarind),,,Dry_Season,0.53
+161,2sliced green chilies(adjust to your spice level),,,Year_Round,0.61
+161,1⁄3cupchopped shallots/onions,,,Year_Round,0.62
+161,11⁄2tbspmeat curry powder(more info in the recipe description),,,Year_Round,0.62
+161,1⁄2tspturmeric powder,,,Dry_Season,0.3
+161,"1tspfreshly ground black pepper, devided",,,Southwest_Monsoon,0.4
+161,1tspsalt(adjust to your taste),,,Dry_Season,0.3
+161,"1tomato, diced",,,Dry_Season,0.3
+161,600gskinless chicken cut into 2 inch pieces(both bone-in and boneless work. thighs are best),,,Dry_Season,0.3
+161,1⁄2cupwater(you may need more as the curry cooks down),,,Year_Round,0.62
+161,3green chilies slitted in the middle lengthwise,,,Year_Round,0.56
+161,1tspcoarse ground black pepper,,,Inter_Monsoon,0.33
+162,3tbspCoriander seeds,,,Dry_Season,0.3
+162,1tbspCumin seeds,,,Dry_Season,0.3
+162,2tspFennel seeds,,,Dry_Season,0.3
+162,3Pieces of Ceylon cinnamon(about 2 inches long each),,,Dry_Season,0.3
+162,1tspCardamom pods,,,Dry_Season,0.3
+162,1⁄2tspCloves,,,Southwest_Monsoon,0.4
+162,2tspBlack peppercorns,,,Inter_Monsoon,0.33
+162,5Dried Chilies,,,Year_Round,0.62
+162,2Sprig of curry leaves,,,Year_Round,0.59
+162,"1Pandan Leaf, broken into pieces",,,Dry_Season,0.3
+162,1⁄2tspBlack mustard seeds(usually fry with residual heat of the pan),,,Inter_Monsoon,0.33
+162,1tbspGrated coconut,,,Dry_Season,0.45
+163,1medium Ridge Gourd / Watakolu(about 430g each before cleaning),,,Inter_Monsoon,0.75
+163,"1⁄4of a medium onion, finely chopped",,,Year_Round,0.64
+163,"2garlic cloves, chopped",,,Year_Round,0.62
+163,2green chilies sliced,,,Year_Round,0.56
+163,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+163,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+163,1tspSri Lankan unroasted curry powder(check the description for substitutes),,,Year_Round,0.62
+163,2inch piece of Ceylon Cinnamon broken into pieces,,,Dry_Season,0.3
+163,"1sprig curry leaves, broken into halves",,,Year_Round,0.59
+163,1small pandan leaf broken into pieces,,,Year_Round,0.27
+163,1⁄2cupwater,,,Southwest_Monsoon,0.38
+163,1⁄2cupthick coconut milk(I used canned),,,Dry_Season,0.45
+163,salt to your taste,,,Dry_Season,0.3
+163,"1small piece of lime(optional, adjust to your taste)",,,Dry_Season,0.47
+164,2tbspcoconut/vegetable/avocado oil,,,Dry_Season,0.49
+164,3medium size Asian eggplants(roughly about 550g for 3)),,,Dry_Season,0.3
+164,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+164,Salt to your taste,,,Dry_Season,0.3
+164,5cloves of garlic minced,,,Year_Round,0.63
+164,1sprig of curry leaves,,,Year_Round,0.59
+164,1⁄2of a large onion sliced(about 130g),,,Year_Round,0.64
+164,3green chilies cut into halves lengthwise,,,Year_Round,0.56
+164,2tspchili flakes(adjust to your taste),,,Year_Round,0.62
+164,1.5tbspMaldive fish chips(check the description for substitutes),,,Dry_Season,0.3
+164,1medium size tomato cut into wedges,,,Inter_Monsoon,0.27
+165,1tbspBlack peppercorns,,,Inter_Monsoon,0.33
+165,1⁄2tspCumin seeds,,,Dry_Season,0.3
+165,1⁄4tspFennel seeds,,,Dry_Season,0.3
+165,"2pieces of cinnamon, 2 inch each",,,Dry_Season,0.3
+165,3cardamom pods,,,Dry_Season,0.3
+165,"500gChicken, bone-in, cut into pieces",,,Dry_Season,0.3
+165,1tspsalt,,,Dry_Season,0.33
+165,1⁄2tbspwhite vinegar,,,Inter_Monsoon,0.33
+165,1tbspginger garlic paste,,,Year_Round,0.63
+165,1⁄4tspturmeric powder,,,Dry_Season,0.3
+165,1tspghee or coconut oil,,,Dry_Season,0.45
+165,3⁄4cupsliced red onion,,,Year_Round,0.64
+165,2serrano or green chili,,,Year_Round,0.8
+165,1sprig of curry leaves,,,Year_Round,0.59
+165,2pinchsalt to add to onions,,,Year_Round,0.62
+166,150gPitted dates,,,Dry_Season,0.3
+166,1⁄2cuphot freshly brewed tea(no sugar added),,,Dry_Season,0.53
+166,150gAll purpose flour,,,Dry_Season,0.3
+166,1tspBaking powder,,,Dry_Season,0.3
+166,1⁄2tspBaking soda,,,Dry_Season,0.3
+166,1⁄4tspSalt,,,Year_Round,0.29
+166,6Cardamom pods(see notes),,,Dry_Season,0.3
+166,5Cloves,,,Southwest_Monsoon,0.43
+166,340gKithul Treacle or Coconut treacle,,,Dry_Season,0.45
+166,"310ggrated coconut(310g = 11 oz, see notes)",,,Dry_Season,0.45
+166,50gCashews cut into pieces,,,Dry_Season,0.75
+166,"55gButter, cut into cubes(55g equals to 4tbsp or half a stick)",,,Dry_Season,0.3
+166,3large eggs,,,Inter_Monsoon,0.37
+166,1tspVanilla extract,,,Dry_Season,0.3
+166,1tbspButter,,,Southwest_Monsoon,0.38
+167,1Large green unripened mango(about 430g before removing the seed),,,Dry_Season,0.46
+167,1⁄4tspsalt,,,Year_Round,0.29
+167,1⁄4tspblack pepper,,,Inter_Monsoon,0.33
+167,1⁄4tspturmeric powder,,,Dry_Season,0.3
+167,1tbspMaldives fish chips,,,Dry_Season,0.3
+167,3cloves,,,Southwest_Monsoon,0.43
+167,3cardamom,,,Year_Round,0.29
+167,2tbspcoconut oil(vegetable oil/canola oil works too),,,Dry_Season,0.45
+167,"4inch piece of cinnamon stick, broken into pieces",,,Dry_Season,0.3
+167,4cloves of garlic chopped,,,Year_Round,0.63
+167,1⁄3cupfinely chopped onion,,,Year_Round,0.64
+167,1sprig of curry leaves,,,Year_Round,0.59
+167,1small pandan leaf broken into pieces,,,Year_Round,0.27
+167,2tspchili powder,,,Year_Round,0.62
+167,1tbsproasted curry powder,,,Year_Round,0.62
+167,1⁄4tspsalt(you can adjust later to your taste),,,Dry_Season,0.3
+167,11⁄2cupwater,,,Southwest_Monsoon,0.4
+167,3tbspsugar,,,Year_Round,0.29
+168,1⁄2tspblack peppercorns,,,Inter_Monsoon,0.33
+168,1⁄2tspsalt(start with a smaller amount and adjust later to your taste),,,Dry_Season,0.3
+168,1⁄2tbspMaldive fish chips/Umbalakada(Optional. Adds umami flavor and aroma),,,Dry_Season,0.3
+168,1small sprig of curry leaves,,,Year_Round,0.59
+168,1clove of garlic,,,Year_Round,0.63
+168,2green habanero/green chili or any type of aromatic spicy chili peppers,,,Year_Round,0.74
+168,1⁄3cupchopped red onions(Asian shallots are great too),,,Year_Round,0.64
+168,1.5cupgrated coconut(fresh or frozen),,,Year_Round,0.4
+168,1large lime wedge(adjust to your taste),,,Dry_Season,0.47
+169,350gBread flour/strong white flour(flour with high gluten specifically to make bread/pizza),,,Inter_Monsoon,0.33
+169,150gWhole wheat flour,,,Dry_Season,0.3
+169,200gWarm water(shouldn't be too hot. (120f/48c is ideal)),,,Dry_Season,0.75
+169,140gwarm milk(shouldn't be too hot. (120f/48c is ideal)),,,Dry_Season,0.75
+169,20gSugar,,,Dry_Season,0.33
+169,20gButter,,,Year_Round,0.29
+169,7gRapid rise yeast/fast acting yeast(if you're using active dry yeast make sure to activate it. see notes.),,,Dry_Season,0.75
+169,10gsalt,,,Southwest_Monsoon,0.43
+169,10gbread flour,,,Dry_Season,0.3
+169,10gcoconut oil/vegetable oil(slightly warm if the oil is still in solid from),,,Dry_Season,0.45
+169,1⁄2a stick of butter,,,Dry_Season,0.3
+170,"375gpitted Dates, roughly chopped",,,Dry_Season,0.3
+170,2cupWhite vinegar/coconut vinegar((adjust to your taste. see notes*)),,,Year_Round,0.45
+170,2tbspblack mustard seeds,,,Inter_Monsoon,0.33
+170,5cloves of garlic,,,Year_Round,0.63
+170,1inch cube of ginger,,,Year_Round,0.64
+170,11⁄2tbspchili powder(reduce if you don't like heat),,,Year_Round,0.64
+170,1⁄2tspcinnamon powder(Preferably Ceylon cinnamon),,,Dry_Season,0.3
+170,11⁄2tspsalt(adust to your taste),,,Dry_Season,0.3
+170,2⁄3cupDark brown sugar/Brown Sugar,,,Dry_Season,0.3
+170,650gShallots/Pearl onions*(see notes),,,Year_Round,0.62
+170,"300gCarrot, peeled and cut into thick 1 inch long strips or wedges",,,Northeast_Monsoon,0.59
+170,"100gpitted dates, chopped into bite size pieces",,,Dry_Season,0.3
+170,100ggreen chilies slitted,,,Year_Round,0.56
+170,250gBanana peppers cut into 2cm thick slices,,,Dry_Season,0.3
+171,20gseedless tamarind,,,Dry_Season,0.53
+171,3tbspwarm water,,,Dry_Season,0.3
+171,1kgOnions*(1kg = a little over 2 pounds = about 5 yellow onions),,,Year_Round,0.64
+171,1⁄4cupCoconut Oil(or any neutral oil),,,Dry_Season,0.45
+171,6pieces of cinnamon (3 inch long each),,,Dry_Season,0.3
+171,10Cardamom pods,,,Dry_Season,0.3
+171,6cloves,,,Southwest_Monsoon,0.43
+171,2large sprigs of curry leaves,,,Year_Round,0.59
+171,1small pandan leaf broken into pieces,,,Year_Round,0.27
+171,1tbspchili flakes,,,Year_Round,0.62
+171,1⁄2tbspchili powder,,,Year_Round,0.62
+171,1tspturmeric powder,,,Dry_Season,0.3
+171,11⁄2tspSalt (adjust to your taste),,,Dry_Season,0.3
+171,1tbspSugar(adjust to your taste),,,Dry_Season,0.3
+172,200ggreen beans,,,Inter_Monsoon,0.69
+172,2medium yucan gold potatoes,,,Dry_Season,0.3
+172,1⁄4of an onion finely chopped(shallots are better if you have any),,,Year_Round,0.64
+172,2cloves of garlic chopped,,,Year_Round,0.63
+172,2green chilies sliced,,,Year_Round,0.56
+172,1small pandan leaf broken into pieces,,,Year_Round,0.27
+172,1sprig of curry leaves,,,Year_Round,0.59
+172,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+172,2pieces of ceylon cinnamon (about 2 inches long each),,,Dry_Season,0.3
+172,1⁄4tspturmeric powder(add more if you like the curry more yellow),,,Year_Round,0.64
+172,1tspcurry powder(I use Sri Lankan unroasted curry powder),,,Year_Round,0.62
+172,1tspMaldive fish flakes(optional but highly recommend),,,Dry_Season,0.3
+172,3⁄4tspsalt(adjust to your taste),,,Dry_Season,0.3
+172,11⁄2cupdiluted coconut milk(1 part canned coconut milk + 3 parts water),,,Dry_Season,0.45
+172,1⁄3cupthick coconut milk(directly from the can without diluting),,,Dry_Season,0.45
+172,"5curry leaves to add at the end(optional, for aroma)",,,Year_Round,0.59
+172,a few drops of lime juice(see notes),,,Dry_Season,0.47
+173,80ggrated or shredded fresh coconut,,,Year_Round,0.42
+173,1⁄3cupthinly sliced Pearl onions/Asian shallots/red onion(1/3 cup = 5 pearl onions),,,Year_Round,0.64
+173,1green chili thinly sliced,,,Year_Round,0.72
+173,1⁄2tspcoarse ground black pepper,,,Inter_Monsoon,0.33
+173,1⁄2tspsalt(adjust to your taste),,,Dry_Season,0.3
+173,1tbspMaldives fish chips(optional),,,Dry_Season,0.3
+173,1⁄4of a large lime for lime juice,,,Dry_Season,0.47
+173,80gGotu kola leaves with stalks(around 2 cups when sliced),,,Southwest_Monsoon,0.32
+173,1⁄2of a tomato sliced or diced*,,,Inter_Monsoon,0.27
+174,2tbspButter,,,Southwest_Monsoon,0.38
+174,2large cloves of garlic chopped,,,Year_Round,0.63
+174,1sprig of curry leaves broken into pieces,,,Year_Round,0.59
+174,1medium carrot sliced,,,Northeast_Monsoon,0.6
+174,1celery stalk sliced,,,Dry_Season,0.3
+174,1⁄2of a leek sliced*(only use the white and tender green part),,,Southwest_Monsoon,0.45
+174,1⁄4cupfinely chopped cabbage*(optional),,,Southwest_Monsoon,0.41
+174,1⁄4tspsalt(you can adjust salt at the end to your taste.),,,Dry_Season,0.3
+174,"2tbspred lentils, washed and drained(add more if you like the soup thicker)",,,Year_Round,0.69
+174,1medium potato diced,,,Northeast_Monsoon,0.38
+174,1medium tomato diced,,,Inter_Monsoon,0.27
+174,3.5cupchicken or vegetable broth/stock(3.5 cups = 29oz of),,,Dry_Season,0.3
+174,3⁄4cupegg noodles or ramen noodles,,,Dry_Season,0.3
+174,1⁄2tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+175,500gShrimp(cleaned and devained),,,Dry_Season,0.3
+175,1⁄2tspSalt,,,Year_Round,0.29
+175,1⁄2tspground black pepper,,,Inter_Monsoon,0.33
+175,2tsplime juice,,,Dry_Season,0.3
+175,2tbspavocado/canola/coconut/vegetable oil,,,Dry_Season,0.45
+175,1⁄2tspcorn starch,,,Dry_Season,0.3
+175,3tbspcold or room temperature water,,,Dry_Season,0.3
+175,3tbspketchup,,,Southwest_Monsoon,0.4
+175,1tsplight or regular soy sauce,,,Dry_Season,0.3
+175,1⁄4tspsugar,,,Southwest_Monsoon,0.38
+175,1tbspavocado/canola/vegetable/coconut oil if needed,,,Dry_Season,0.45
+175,6cloves of garlic chopped,,,Year_Round,0.63
+175,1inch piece of ginger finely chopped,,,Year_Round,0.64
+175,1tbspchili flakes,,,Year_Round,0.62
+175,1tbspSri Lankan-chinese chili paste(check the description for substitutes),,,Year_Round,0.69
+175,1⁄2of a red onion cut into large chunks,,,Year_Round,0.64
+175,1large banana pepper cut into thick slices(use more if you like more heat),,,Inter_Monsoon,0.47
+175,1tomato cut into wedges,,,Dry_Season,0.3
+176,255gLuke warm water,,,Dry_Season,0.3
+176,7gInstant dry/Fast acting yeast(Read the descrioption above for more info),,,Dry_Season,0.75
+176,450gAll purpose flour,,,Dry_Season,0.3
+176,25gDry milk powder(check the description for more info),,,Dry_Season,0.75
+176,"50gButter, softened",,,Dry_Season,0.3
+176,35gsugar,,,Dry_Season,0.33
+176,8gsalt,,,Northeast_Monsoon,0.46
+176,1⁄2cupWater,,,Southwest_Monsoon,0.38
+176,200gSugar((200g = 1 cup)),,,Dry_Season,0.3
+177,5cardomom,,,Year_Round,0.29
+177,5cloves,,,Southwest_Monsoon,0.43
+177,5cloves of garlic,,,Year_Round,0.63
+177,1piece of ginger (about 1 inch cube),,,Year_Round,0.64
+177,1tbspButter(both salted and unsalted are fine),,,Dry_Season,0.3
+177,2pieces of cinnamon (about 3 inches long each),,,Dry_Season,0.3
+177,1⁄2tspblack peppercorns,,,Inter_Monsoon,0.33
+177,2sprigs of curry leaves,,,Year_Round,0.59
+177,1small pandan leaf broken into pieces,,,Year_Round,0.27
+177,1⁄2of a yellow onion,,,Year_Round,0.64
+177,1⁄2tspturmeric powder,,,Dry_Season,0.3
+177,11⁄2tspsalt(adjust to your taste),,,Dry_Season,0.3
+177,1.5lbchicken bone-in(I use drumsticks - skin on),,,Inter_Monsoon,0.72
+177,12⁄3cupwater,,,Southwest_Monsoon,0.4
+177,"2cupbasmati rice, washed and drained",,,Year_Round,0.54
+177,1⁄4cupcoconut milk(substitute: water),,,Dry_Season,0.45
+177,1tbspbutter,,,Southwest_Monsoon,0.38
+177,1cupjulienned or grated carrot,,,Northeast_Monsoon,0.6
+177,1⁄2cupthinly sliced green beans,,,Inter_Monsoon,0.65
+177,1cupthinly sliced leeks,,,Northeast_Monsoon,0.59
+177,salt to your taste,,,Dry_Season,0.3
+177,2tsplime juice(lemon pepper seasoning works too),,,Dry_Season,0.3
+177,salt to sprinkle chicken with(to your taste),,,Dry_Season,0.3
+177,oil spray(I use avocado oil),,,Dry_Season,0.8
+177,1⁄3cupfried/toasted cashews for garnishing,,,Dry_Season,0.75
+178,1lbBeef cut into cubes,,,Dry_Season,0.3
+178,1⁄2cupchopped onion,,,Year_Round,0.64
+178,1green chili splitted in half,,,Year_Round,0.72
+178,1tbspfinely chopped garlic,,,Year_Round,0.63
+178,1⁄2tbspminced/grated or finely chopped ginger,,,Year_Round,0.64
+178,1sprig of curry leaves,,,Year_Round,0.59
+178,1⁄3of a pandan leaf broken into pieces,,,Year_Round,0.27
+178,3cardomom pods (crushed to open the pod),,,Dry_Season,0.3
+178,3cloves,,,Southwest_Monsoon,0.43
+178,1piece of cinnamon stick about 3 inches long,,,Dry_Season,0.3
+178,1⁄2tspcumin powder,,,Dry_Season,0.3
+178,1tbspSri Lankan unroasted curry powder,,,Year_Round,0.62
+178,1tbsppaprika(use a chili powder of your choice),,,Year_Round,0.69
+178,1⁄2tspturmeric powder,,,Dry_Season,0.3
+178,3⁄4tspsalt,,,Year_Round,0.29
+178,2tspcoconut oil/canola oil/vegetable oil/avocado oil,,,Dry_Season,0.49
+178,1cupwater,,,Year_Round,0.29
+178,2tbspbutter,,,Southwest_Monsoon,0.38
+178,1tbspchopped garlic,,,Year_Round,0.63
+178,1sprig of curry leaf,,,Year_Round,0.62
+178,1⁄3of a pandan leaf broken,,,Year_Round,0.27
+178,2⁄3cupjulianned carrot,,,Northeast_Monsoon,0.6
+178,3pinchsalt,,,Year_Round,0.29
+178,1cupshredded beef from the beef curry you're making now,,,Year_Round,0.64
+178,2tspchili flakes,,,Year_Round,0.62
+178,1⁄4cupsliced onion,,,Year_Round,0.64
+178,2⁄3cupsliced leeks(both tender green part and white park are okay),,,Northeast_Monsoon,0.42
+178,3eggs,,,Year_Round,0.29
+178,1lbfrozen ceylon parata(usually one box = 1 lb),,,Dry_Season,0.3
+178,2tspoyster sauce(my secret ingredient!),,,Inter_Monsoon,0.33
+178,2⁄3cupbeef curry from the curry you're making now (just the liquid)*(adjust to your liking),,,Year_Round,0.62
+179,500gTuna Fish(500g = 1.1lb),,,Dry_Season,0.3
+179,2tsppaprika or chili powder(use more if you like it hot),,,Year_Round,0.52
+179,2tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+179,1tspsalt,,,Dry_Season,0.33
+179,2tbsplime juice,,,Dry_Season,0.3
+179,1tbspwater,,,Year_Round,0.29
+179,2tspcorn starch,,,Dry_Season,0.3
+179,1⁄4cupwater,,,Southwest_Monsoon,0.38
+179,1⁄4cupketchup,,,Southwest_Monsoon,0.4
+179,2tbspchili sauce,,,Year_Round,0.62
+179,2tsplight or regular soy sauce,,,Dry_Season,0.3
+179,1⁄2tspsugar,,,Southwest_Monsoon,0.38
+179,1⁄4tspsalt,,,Year_Round,0.29
+179,"1tbspcoconut, avocado or canola oil(for stir-frying)",,,Dry_Season,0.49
+179,1piece of cinnamon(prerarably true Ceylon cinnamon),,,Dry_Season,0.3
+179,6cloves of garlic,,,Year_Round,0.63
+179,1inch piece of ginger,,,Year_Round,0.64
+179,1sprig of curry leaves,,,Year_Round,0.59
+179,1⁄2of a small pandan leaf broken into pieces,,,Year_Round,0.27
+179,11⁄2tbspchili flakes(reduce for less heat),,,Year_Round,0.64
+179,2tspSri Lankan- chinese chili paste(substitute: Malaysian crispy prawn chili),,,Year_Round,0.69
+179,"1tspblack pepper, freshly ground",,,Southwest_Monsoon,0.4
+179,1large banana pepper,,,Inter_Monsoon,0.47
+179,1⁄4of a red onion,,,Year_Round,0.64
+179,1tomato,,,Southwest_Monsoon,0.43
+179,enough oil for deep frying fish,,,Dry_Season,0.3
+179,salt to your taste,,,Dry_Season,0.3
+180,1cupunroasted dried cashews,,,Dry_Season,0.75
+180,1large garlic clove minced,,,Year_Round,0.63
+180,1⁄4cupfinely chopped onions,,,Year_Round,0.62
+180,1small green chili sliced,,,Year_Round,0.8
+180,1sprig of curry leaves(remove the stem and break the leaves),,,Year_Round,0.59
+180,1small pandan leaf broken into pieces,,,Year_Round,0.27
+180,1piece (3 inch) of cinnamon stick(preferably true Ceylon cinnamon),,,Dry_Season,0.3
+180,1tspcurry powder,,,Year_Round,0.62
+180,1⁄4tspturmeric powder,,,Dry_Season,0.3
+180,salt to your taste,,,Dry_Season,0.3
+180,1cupcanned coconut milk,,,Dry_Season,0.45
+181,2Chicken leg quaters(skin removed),,,Dry_Season,0.3
+181,1tbspPaprika(substitute with cayenne for more heat),,,Dry_Season,0.3
+181,2tspcourse ground black pepper(freshly ground is better),,,Southwest_Monsoon,0.4
+181,1⁄2tspgarlic powder,,,Year_Round,0.62
+181,1tspsalt,,,Dry_Season,0.33
+181,2tbspfreshly squeezedlime juice,,,Southwest_Monsoon,0.48
+181,2tspavocado oil(or any neutral oil of your choice),,,Dry_Season,0.75
+182,2Medium beetroots(roughly 200 EACH beetroot),,,Northeast_Monsoon,0.69
+182,1tbspcoconut oil,,,Dry_Season,0.45
+182,1⁄2tspmustard seeds,,,Dry_Season,0.3
+182,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+182,"2pieces of cinnamon, about 3 inches long(True ceylon cinnamon preferably)",,,Dry_Season,0.3
+182,"2dried chilies seeds removed, broken into pieces",,,Year_Round,0.62
+182,4cloves of garlic finely chopped,,,Year_Round,0.63
+182,1⁄3cupfinely chopped onions,,,Year_Round,0.62
+182,1large sprig of curry leaves,,,Year_Round,0.59
+182,1⁄2of a pandan leaf broken into pieces,,,Year_Round,0.27
+182,2tspcurry powder*,,,Year_Round,0.62
+182,1⁄4tspturmeric powder,,,Dry_Season,0.3
+182,3⁄4tspsalt(adjust to your taste),,,Dry_Season,0.3
+182,2tspwhite vinegar,,,Inter_Monsoon,0.33
+182,1⁄4tspsugar(adjust to your taste),,,Dry_Season,0.3
+182,2tbspwater,,,Year_Round,0.29
+182,1cupdiluted canned coconut milk*(2/3 coconut milk mixed with 1/3 cup water),,,Inter_Monsoon,0.36
+183,1lbcauliflower florets(1lb = 1 medium head of cauliflower),,,Dry_Season,0.3
+183,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+183,1⁄4tspSalt,,,Year_Round,0.29
+183,1tspAvocado oil(or a neutral oil of your choice such as Canola oil),,,Dry_Season,0.75
+183,1⁄4cupfinely chopped onion,,,Year_Round,0.64
+183,2cloves of garlic finely chopped,,,Year_Round,0.63
+183,1green chili sliced,,,Year_Round,0.72
+183,1⁄2of a small pandan leaf broken into pieces,,,Year_Round,0.27
+183,1sprig of curry leaves,,,Year_Round,0.59
+183,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+183,1tspcurry powder*,,,Year_Round,0.62
+183,1⁄4tspturmeric powder,,,Dry_Season,0.3
+183,1cupcanned coconut milk(use less if you want a thinner curry),,,Dry_Season,0.45
+183,1⁄2cupwater*(use less water if you're using a taller sauce pan),,,Dry_Season,0.3
+183,1⁄2tspsalt(adjust to your taste),,,Dry_Season,0.3
+183,1small wedge of lime(adjust the lime juice to your taste),,,Dry_Season,0.47
+184,1medium broccoli crown(about 200g),,,Dry_Season,0.3
+184,1green chili broken into pieces,,,Year_Round,0.72
+184,2roughly cut garlic cloves,,,Year_Round,0.63
+184,1⁄8of a yellow onion(roughly 25g),,,Year_Round,0.64
+184,1⁄3cupgrated coconut(freshly grated or frozen),,,Year_Round,0.4
+184,1⁄2tspsalt,,,Year_Round,0.29
+184,2tspcoconut oil(or any other neutral oil),,,Dry_Season,0.45
+184,1⁄2tspbrown mustard seeds,,,Dry_Season,0.3
+184,"4dried chilies broken into 1 inch pieces, seeds removed",,,Year_Round,0.62
+184,1sprig curry leaves,,,Year_Round,0.59
+185,600gBeef chuck,,,Dry_Season,0.3
+185,1tbspSri Lankan roasted curry powder,,,Year_Round,0.62
+185,1tspfreshly grounded black pepper,,,Southwest_Monsoon,0.4
+185,1⁄2tspturmeric powder,,,Dry_Season,0.3
+185,1tbspwhite vinegar,,,Inter_Monsoon,0.33
+185,1tspsalt,,,Dry_Season,0.33
+185,2tbspcoconut oil,,,Dry_Season,0.45
+185,1tspcumin seeds,,,Dry_Season,0.3
+185,1⁄4tspmustard seeds(optional),,,Dry_Season,0.3
+185,1⁄4tspfenugreek seeds(optional),,,Dry_Season,0.3
+185,5green cardamom,,,Southwest_Monsoon,0.4
+185,5cloves,,,Southwest_Monsoon,0.43
+185,4pieces of cinnamon sticks,,,Dry_Season,0.3
+185,2sprigs of curry leaves,,,Year_Round,0.59
+185,"1pandan leaf, broken into pieces",,,Dry_Season,0.3
+185,"6cloves of garlic, roughly chopped",,,Year_Round,0.63
+185,"1inch piece of ginger, minced",,,Year_Round,0.64
+185,"1cuponion, chopped",,,Year_Round,0.62
+185,1tbspchili powder,,,Year_Round,0.62
+185,2tspunroasted curry powder,,,Year_Round,0.62
+185,1cupwater(adjust as you need),,,Dry_Season,0.3
+185,2⁄3cupcoconut milk(I use canned),,,Dry_Season,0.45
+185,salt as needed,,,Dry_Season,0.3
+186,1.5lbThai eggplants(1.5 lb = 680 g),,,Dry_Season,0.3
+186,1cupthinly sliced onion,,,Year_Round,0.64
+186,5cloves of chopped garlic,,,Year_Round,0.63
+186,1sprig of curry leaves,,,Year_Round,0.59
+186,1small pandan leaf broken into pieces,,,Year_Round,0.27
+186,3small green chilies,,,Year_Round,0.61
+186,2tspunroasted curry powder*,,,Year_Round,0.62
+186,1⁄4tspturmeric powder,,,Dry_Season,0.3
+186,2tspMaldive fish flakes/Umbalakada(optional),,,Dry_Season,0.3
+186,1tbspthick coconut milk(I use directly from a can of coconut milk),,,Dry_Season,0.45
+186,1tbspcoconut milk,,,Dry_Season,0.45
+186,1tbspwater,,,Year_Round,0.29
+186,salt to your taste,,,Dry_Season,0.3
+187,2Golden Pompano fish Cleaned,,,Dry_Season,0.3
+187,5tspChili powder*(Adjust to your liking),,,Year_Round,0.62
+187,2tspBlack Pepper freshly cracked,,,Southwest_Monsoon,0.4
+187,1⁄2tspTurmeric Powder,,,Dry_Season,0.3
+187,1⁄2tspGarlic powder(optional),,,Year_Round,0.62
+187,3tbspLime juice from fresh limes(no bottled lime),,,Southwest_Monsoon,0.42
+187,2tspSalt(adjust to your taste),,,Dry_Season,0.3
+187,Frying oil as needed(I use peanut oil but any frying oil is good),,,Dry_Season,0.3
+187,2lime wedges,,,Inter_Monsoon,0.33
+188,1⁄2cupRed lentils,,,Year_Round,0.69
+188,1⁄2cupcoconut milk(dilute if you're using canned),,,Dry_Season,0.45
+188,1⁄3cupfinely chopped shallots or onions,,,Year_Round,0.62
+188,1sliced green chili,,,Year_Round,0.8
+188,2finely chopped garlic cloves,,,Year_Round,0.63
+188,1sprig of curry leaves,,,Year_Round,0.59
+188,1small pandan leaf broken into pieces,,,Year_Round,0.27
+188,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+188,1⁄2tspchili powder(adjust to your liking),,,Year_Round,0.62
+188,1⁄2tspSri Lankan unroasted curry powder(or use a mild curry powder),,,Year_Round,0.62
+188,1⁄4tspturmeric powder,,,Dry_Season,0.3
+188,salt to your taste,,,Dry_Season,0.3
+189,1.5ozBaby arugula washed and completely drained(1.5 oz = 45g or about 2.5 - 3 cups)),,,Dry_Season,0.3
+189,1⁄2tomato diced,,,Dry_Season,0.3
+189,1⁄4cupfresh or frozengrated coconut(Thaw completely if you use frozen),,,Year_Round,0.4
+189,5pearl onions or Asian shallots(chopped red onions works too),,,Year_Round,0.64
+189,1green chili(adjust to your preferred heat level),,,Year_Round,0.72
+189,11⁄2tsplime juice,,,Dry_Season,0.3
+189,1⁄2tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+189,1⁄4tspsalt(adjust to your taste),,,Dry_Season,0.3
+190,300gtender okra,,,Inter_Monsoon,0.73
+190,1cuponion thinly sliced,,,Year_Round,0.62
+190,5cloves of garlic finely chopped,,,Year_Round,0.63
+190,2green chilies slitted or cut into long diagonal pieces(optional),,,Year_Round,0.56
+190,1sprig of curry leaves(break the leaves if they are too big),,,Year_Round,0.59
+190,1small pandan leaf broken into pieces,,,Year_Round,0.27
+190,2pieces of cinnamon(roughly 3 inches),,,Dry_Season,0.3
+190,1tbspchili flakes(reduce or skip if you don't like heat),,,Year_Round,0.64
+190,1tspcoarse ground black pepper powder,,,Inter_Monsoon,0.33
+190,1⁄2tspturmeric powder,,,Dry_Season,0.3
+190,1tspvinegar,,,Southwest_Monsoon,0.38
+190,1tbspcoconut oil,,,Dry_Season,0.45
+190,salt to your taste,,,Dry_Season,0.3
+191,500gBoneless skinless chicken thighs(bone in chicken works too),,,Dry_Season,0.3
+191,2large onions thinly sliced(about two cups),,,Year_Round,0.62
+191,1tbspchopped garlic,,,Year_Round,0.63
+191,1Habanero cut into thick slices(or 3 green chilies slit),,,Year_Round,0.61
+191,3green chilies(optional),,,Year_Round,0.56
+191,1tspwhite vinegar,,,Inter_Monsoon,0.33
+191,2tspchili flakes(adjust to your heat tolerence),,,Year_Round,0.62
+191,1tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+191,1⁄2tspturmeric powder,,,Dry_Season,0.3
+191,1large sprig of curry leaves(or 2 for small sprigs),,,Year_Round,0.59
+191,1small pandan leaf broken into pieces,,,Year_Round,0.27
+191,Cardamom,,,Dry_Season,0.33
+191,cloves,,,Northeast_Monsoon,0.46
+191,cinnamon,,,Dry_Season,0.33
+191,1tspsalt(adjust to your taste),,,Dry_Season,0.3
+191,11⁄2tbspcoconut oil,,,Dry_Season,0.45
+192,3⁄4cupFresh grated coconut,,,Year_Round,0.4
+192,2tspchili powder(roasted/smoked chili powder can also be used),,,Year_Round,0.69
+192,1tbsproasted Sri Lankan curry powder,,,Year_Round,0.62
+192,6cloves of garlic,,,Year_Round,0.63
+192,1thumb size piece of ginger,,,Year_Round,0.64
+192,4cloves,,,Southwest_Monsoon,0.43
+192,4cardamom,,,Year_Round,0.29
+192,2tspblack peppercorns,,,Inter_Monsoon,0.33
+192,2tspvinegar,,,Southwest_Monsoon,0.38
+192,1⁄2tspsugar,,,Southwest_Monsoon,0.38
+192,"1tbsptamarind seedless(substitute: tamarind paste, goraka paste)",,,Dry_Season,0.53
+192,1⁄8tspcinnamon powder(substitute: cinnamon stick),,,Dry_Season,0.3
+192,salt to your taste,,,Dry_Season,0.3
+192,600gchicken drumsticks or cut up bone-in chicken,,,Inter_Monsoon,0.72
+192,2sprigs of curry leaves,,,Year_Round,0.59
+192,1small Pandan lef broken into pieces,,,Year_Round,0.27
+192,1lemongrass crushed a little bit(use only about 4 inches of the tender part),,,Dry_Season,0.3
+192,1cupthinned coconut milk((1 coconut milk : 3 water ratio)),,,Dry_Season,0.45
+193,350gEggplants,,,Southwest_Monsoon,0.4
+193,1⁄2tspturmerci powder,,,Dry_Season,0.3
+193,1tbspcooking oil,,,Dry_Season,0.3
+193,1⁄4cupfinely chopped onion,,,Year_Round,0.64
+193,2small green chilies(or to your spice level),,,Year_Round,0.61
+193,3cloves of garlic chopped,,,Year_Round,0.63
+193,1sprig curry leaves,,,Year_Round,0.59
+193,1small pandan leaf broken into pieces,,,Year_Round,0.27
+193,2tspSri Lankan roasted curry powder(more info on description above),,,Year_Round,0.62
+193,1tspsugar(may need more),,,Dry_Season,0.3
+193,11⁄2tspwhite vinegar(may need more),,,Inter_Monsoon,0.33
+193,1tspsalt(or to your taste),,,Dry_Season,0.3
+193,1tbspcoconut oil(less if you make with deep-fried eggplants),,,Dry_Season,0.45
+193,1⁄2cupthick coconut milk,,,Dry_Season,0.45
+193,1⁄4cupwater,,,Southwest_Monsoon,0.38
+194,1cupJulienned carrots,,,Northeast_Monsoon,0.59
+194,1⁄4cupgrated fresh coconut(thawed frozen coconut is also fine),,,Year_Round,0.4
+194,11⁄2tbspchopped or sliced shallots/pearl onions/red pearl onion,,,Year_Round,0.64
+194,1green chili sliced,,,Year_Round,0.72
+194,"1⁄2tspMaldive fish flakes/ umbalakada(non-veg, optional)",,,Dry_Season,0.3
+194,1⁄4tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+194,1wedge of lime(to your taste),,,Dry_Season,0.47
+194,salt(to your taste),,,Dry_Season,0.3
+195,1mackerel can (425g/15 oz),,,Dry_Season,0.3
+195,1⁄3cupchopped onion,,,Year_Round,0.64
+195,1large tomato diced (or 2 small),,,Inter_Monsoon,0.27
+195,4garlic cloves minced,,,Year_Round,0.62
+195,3green chilies slitted(adjust to your spice level),,,Year_Round,0.56
+195,2sprigs of curry leaves,,,Year_Round,0.59
+195,3pieces of Pandan leaf (3-inch long),,,Year_Round,0.27
+195,2cinnamon pieces (about 3 inches long),,,Dry_Season,0.3
+195,1tbspchili powder(adjust to your spice level),,,Year_Round,0.62
+195,2tspSri Lankan unroasted curry powder,,,Year_Round,0.62
+195,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+195,1tspfreshly ground (coarse) black pepper,,,Southwest_Monsoon,0.4
+195,1⁄8tspFenugreek seeds,,,Dry_Season,0.3
+195,1piece of Garcinia cambogia(Goraka),,,Dry_Season,0.3
+195,3⁄4cupThin coconut milk(use less if you want less gravy),,,Dry_Season,0.45
+195,1⁄4cupThick coconut milk,,,Dry_Season,0.45
+195,1small wedge of lime,,,Dry_Season,0.47
+195,1tbspcoconut oil,,,Dry_Season,0.45
+195,salt to your taste,,,Dry_Season,0.3
+196,500gmeatballs,,,Southwest_Monsoon,0.4
+196,2medium potatoes peeled and cut into chunks,,,Dry_Season,0.3
+196,2tomatoes diced,,,Dry_Season,0.3
+196,11⁄2cupthinly sliced onion cut into 1inch in length,,,Year_Round,0.64
+196,1⁄2cupplain yogurt(can use less sour curd instead),,,Dry_Season,0.3
+196,11⁄2tbspginger garlic paste,,,Year_Round,0.63
+196,3green chilies broken into large pieces,,,Year_Round,0.56
+196,1tspcumin seeds,,,Dry_Season,0.3
+196,1tbspcoriander powder,,,Dry_Season,0.3
+196,2tspcumin powder,,,Dry_Season,0.3
+196,2tspchili powder(adjust to your heat level),,,Year_Round,0.62
+196,1tspkashmiri chili powder(substitute with regular chili powder/cayanne/paprika),,,Year_Round,0.69
+196,1⁄2tspTurmeric powder,,,Dry_Season,0.3
+196,21⁄2cupwater,,,Southwest_Monsoon,0.4
+196,1⁄3cupcilantro chopped,,,Dry_Season,0.3
+196,1tbspcooking oil,,,Dry_Season,0.3
+196,salt to your taste,,,Dry_Season,0.3
+197,400gThai eggplants,,,Dry_Season,0.3
+197,1⁄2tspSri Lankan unroasted curry powder(can substitute a mild curry powder of your choice),,,Year_Round,0.62
+197,1⁄4tspturmeric powder,,,Dry_Season,0.3
+197,1tspMaldive fish flakes/umbalakada,,,Dry_Season,0.3
+197,1⁄2tspsalt,,,Year_Round,0.29
+197,2large cloves of garlic chopped,,,Year_Round,0.63
+197,3tbspfinely chopped shallots or onions,,,Year_Round,0.62
+197,2green chilies sliced(adjust to your preference.),,,Year_Round,0.56
+197,1⁄8tspFenugreek seeds,,,Dry_Season,0.3
+197,1sprig curry leaves,,,Year_Round,0.59
+197,22-inch pieces of pandan leaves,,,Southwest_Monsoon,0.29
+197,"1⁄2cupthin coconut milk(if using canned, mix 1 part coconut milk with 2 part water)",,,Dry_Season,0.45
+197,"1⁄2cupthick coconut milk(if using canned, dilute with a little bit of water)",,,Dry_Season,0.45
+197,2tspcoconut oil,,,Dry_Season,0.45
+197,a few drops of lime juice (5 - 6 drops to your taste),,,Dry_Season,0.47
+197,salt to your taste,,,Dry_Season,0.3
+198,4cupCabbage sliced and then cut into 1 - 1.5 inches.,,,Dry_Season,0.3
+198,1cupOnion sliced and cut into half,,,Year_Round,0.62
+198,5cloves of Garlic chopped,,,Year_Round,0.63
+198,3Green chilies split into 2 - 4 pieces,,,Year_Round,0.56
+198,2pieces of Cinnamon(roughly 2 inches long),,,Dry_Season,0.3
+198,2sprigs of Curry leaves,,,Year_Round,0.59
+198,1Pandan leaf broken into pieces,,,Dry_Season,0.3
+198,1⁄4tspTurmeric powder,,,Dry_Season,0.3
+198,1tbspChili flakes(adjust to your spice level),,,Year_Round,0.62
+198,1tbspMaldive fish flakes(vegans/vegetarians can skip this ingredient),,,Inter_Monsoon,0.33
+198,1tspRegular/light soy sauce,,,Dry_Season,0.3
+198,1⁄2tspWhite vinegar,,,Inter_Monsoon,0.33
+198,11⁄2tbspcoconut oil,,,Dry_Season,0.45
+198,salt to your taste,,,Dry_Season,0.3
+199,900gBread Flour,,,Dry_Season,0.3
+199,"350gLukewarm Water(yes, measure everything in grams)",,,Dry_Season,0.3
+199,235gLukewarm Milk,,,Dry_Season,0.3
+199,36gSugar,,,Dry_Season,0.33
+199,36gButter((salted/ unsalted both are fine)),,,Dry_Season,0.3
+199,7gRapid rise/instant dry yeast (1 sachet or 2 tsp)(Active dry yeast works too),,,Dry_Season,0.75
+199,20gSalt,,,Southwest_Monsoon,0.43
+199,30gBread flour or All purpose flour,,,Dry_Season,0.3
+199,30gcoconut oil,,,Dry_Season,0.45
+199,3tbspMelted/soft Butter or coconut oil,,,Dry_Season,0.45
+200,400gYucon gold Potatoes(about 4 medium ptatoes),,,Dry_Season,0.3
+200,1Can of Mackerel completely drained((450g or 15oz)),,,Dry_Season,0.3
+200,1cupOnion very finely chopped(about 1 yellow onion),,,Year_Round,0.64
+200,2Green chilies very finely chopped(add more for more heat),,,Year_Round,0.56
+200,1large garlic clove very finely chopped(optional),,,Year_Round,0.63
+200,2sprigs of curry leaves very finely chopped,,,Year_Round,0.59
+200,2tspcoarse ground Black pepper,,,Inter_Monsoon,0.33
+200,1⁄2tspturmeric powder,,,Dry_Season,0.3
+200,1tbspchili flakes(reduce if you don't like heat),,,Year_Round,0.64
+200,1tbspcooking oil(I use canola oil),,,Dry_Season,0.3
+200,salt to your taste,,,Dry_Season,0.3
+200,1tbsplime or lemon juice(optional),,,Dry_Season,0.3
+200,1⁄2cupall purpose flour,,,Dry_Season,0.3
+200,3⁄4cupwater(may need to ajdust),,,Dry_Season,0.3
+200,a few pinches of salt,,,Dry_Season,0.3
+200,2cupbreadcrumbs,,,Southwest_Monsoon,0.4
+200,enough oil to deep fry,,,Dry_Season,0.3
+201,500gBeef(Chuck),,,Southwest_Monsoon,0.4
+201,2tspSri Lankan roasted curry powder(check the description for substitutes),,,Year_Round,0.62
+201,1tbspSri Lankan roasted chili powder(check the description for substitutes),,,Year_Round,0.69
+201,3Cardamoms crushed to open the pod,,,Dry_Season,0.3
+201,3cloves,,,Southwest_Monsoon,0.43
+201,1piece of cinnamon,,,Dry_Season,0.3
+201,1small pandan leaf broken into pieces,,,Year_Round,0.27
+201,2garlic cloves minced,,,Year_Round,0.62
+201,1small piece of ginger minced(roughly same as garlic by the volume),,,Year_Round,0.65
+201,3tbspchopped onion,,,Year_Round,0.64
+201,2tspwhite vinegar,,,Inter_Monsoon,0.33
+201,1⁄2tspsalt,,,Year_Round,0.29
+201,1⁄2cup onion rings or slices,,,Year_Round,0.64
+201,1⁄4tspcumin seeds,,,Dry_Season,0.3
+201,1tspchili flakes(adjust to your likings),,,Year_Round,0.62
+201,3sprigs of curry leaves,,,Year_Round,0.59
+201,1tbspcoconut oil,,,Dry_Season,0.45
+201,salt to your taste,,,Dry_Season,0.3
+201,1small wedge of lime(to your taste),,,Dry_Season,0.47
+202,4Medium potatoes,,,Dry_Season,0.3
+202,3tbsponions/shallots finely chopped,,,Year_Round,0.62
+202,1large garlic clove minced,,,Year_Round,0.63
+202,3pieces of pandan leaves (about 4 inches each),,,Southwest_Monsoon,0.29
+202,1sprig of curry leaves,,,Year_Round,0.59
+202,1green chili sliced,,,Year_Round,0.72
+202,1⁄4tspturmeric powder,,,Dry_Season,0.3
+202,1⁄2tspunroasted curry powder,,,Year_Round,0.62
+202,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+202,3⁄4tspsalt(adjust to your taste),,,Dry_Season,0.3
+202,1cupwater(you may need more or less),,,Dry_Season,0.3
+202,11⁄2cupthick coconut milk,,,Dry_Season,0.45
+202,3droplime juice(optional),,,Dry_Season,0.3
+203,5sausages/hot dogs cut into 1 inch pieces,,,Dry_Season,0.75
+203,1⁄4cupyellow onion/shallots finely chopped,,,Year_Round,0.64
+203,2garlic finely chopped,,,Year_Round,0.62
+203,1tomato diced,,,Dry_Season,0.3
+203,1small sprig of curry leaves,,,Year_Round,0.59
+203,1tspfreshly ground black pepper(adjust as you like),,,Southwest_Monsoon,0.4
+203,1⁄4red onion cut into long thick slices,,,Year_Round,0.64
+203,3green chilies cut into long slices or slit,,,Year_Round,0.56
+203,1⁄4cupwater,,,Southwest_Monsoon,0.38
+203,2tspcooking oil,,,Dry_Season,0.3
+203,tspsalt to your taste,,,Dry_Season,0.3
+204,1⁄2cupsplit red lentils,,,Year_Round,0.69
+204,2cloves of garlic chopped,,,Year_Round,0.63
+204,1⁄4cuponion finely chopped,,,Year_Round,0.62
+204,1green chili sliced,,,Year_Round,0.72
+204,1small sprig of curry leaves,,,Year_Round,0.59
+204,1⁄2of a small Pandan leaf broken into 1 inch long pieces,,,Year_Round,0.27
+204,1⁄8tspmustard seeds,,,Dry_Season,0.3
+204,1⁄4tspturmeric powder,,,Dry_Season,0.3
+204,2tspred chili powder(adjust as you please),,,Year_Round,0.73
+204,1⁄2tspsalt(adjust to your taste),,,Dry_Season,0.3
+204,2tspcoconut oil,,,Dry_Season,0.45
+204,1⁄2cupthick coconut milk,,,Dry_Season,0.45
+204,3⁄4cupwater,,,Southwest_Monsoon,0.38
+205,1tbspButter,,,Southwest_Monsoon,0.38
+205,1tbspflour,,,Year_Round,0.29
+205,250gGranulated Sugar,,,Dry_Season,0.3
+205,225gUnsalted Butter (room temp)(equals to 2 * 4 oz sticks),,,Dry_Season,0.3
+205,225gCake flour or all purpose flour(not self-raising flour),,,Dry_Season,0.3
+205,4Eggs (room temp)(about 55g each egg),,,Dry_Season,0.3
+205,1Egg yolk (room temp),,,Dry_Season,0.3
+205,1⁄3cupMilk (room temp),,,Dry_Season,0.3
+205,2tspPure vanilla extract (or 1tsp vanilla essence),,,Dry_Season,0.3
+205,2tspBaking powder,,,Dry_Season,0.3
+205,1pinchSalt,,,Year_Round,0.29
+206,1cupRice ( Basmati or short grain non-sticky rice like 'keeri samba')(thoroughly washed and drained),,,Year_Round,0.54
+206,1cupCurry leaves (stems removed),,,Year_Round,0.59
+206,3cardomom,,,Year_Round,0.29
+206,3cloves,,,Southwest_Monsoon,0.43
+206,1⁄4tspblack pepper corns,,,Inter_Monsoon,0.33
+206,1piece of cinnamon,,,Dry_Season,0.3
+206,1pandan leaf broken,,,Dry_Season,0.3
+206,1small piece of ginger,,,Year_Round,0.64
+206,3cloves of garlic,,,Year_Round,0.63
+206,1⁄4cuponion chopped or sliced,,,Year_Round,0.62
+206,1⁄2cupcoconut milk,,,Dry_Season,0.45
+206,3⁄4cupwater(you might need a little bit more. Read the recipe description),,,Dry_Season,0.3
+206,1tbspButter,,,Southwest_Monsoon,0.38
+206,salt to your taste,,,Dry_Season,0.3
+206,1⁄3cupcarrot cut into rounds or julienned,,,Northeast_Monsoon,0.59
+206,1⁄3cupcabbage julienned,,,Dry_Season,0.3
+206,1⁄4cupspring onions or leeks sliced,,,Northeast_Monsoon,0.4
+206,1tbspButter,,,Southwest_Monsoon,0.38
+206,salt to your taste,,,Dry_Season,0.3
+206,pepper to your taste,,,Dry_Season,0.3
+207,600gPotatoes (roughly 6 medium potatoes),,,Dry_Season,0.3
+207,11⁄2cupCarrot chopped/ diced into small pieces,,,Northeast_Monsoon,0.59
+207,1cupLeek sliced,,,Dry_Season,0.3
+207,1cuponion finely chopped,,,Year_Round,0.62
+207,2tspdried tiny shrimp chopped finely if they're too big(completely optional),,,Dry_Season,0.3
+207,2sprigs curry leaves chopped,,,Year_Round,0.59
+207,2tsproasted chili powder(substitute: smoked paprika),,,Year_Round,0.69
+207,1tsproasted curry powder,,,Year_Round,0.62
+207,2tspchili flakes(reduce or skip for low heat),,,Year_Round,0.64
+207,1⁄4tspturmeric powder,,,Dry_Season,0.3
+207,1⁄2tspground black pepper,,,Inter_Monsoon,0.33
+207,5cardomom,,,Year_Round,0.29
+207,5cloves,,,Southwest_Monsoon,0.43
+207,1tspsalt(or to your taste),,,Dry_Season,0.3
+207,2tbspcoconut oil,,,Dry_Season,0.45
+207,500gbread flour,,,Dry_Season,0.3
+207,310gwater,,,Year_Round,0.29
+207,10goil,,,Northeast_Monsoon,0.46
+207,10gsalt,,,Southwest_Monsoon,0.43
+207,1⁄2cupoil to cover the dough balls and discs,,,Dry_Season,0.3
+208,1⁄4tspturmeric powder,,,Dry_Season,0.3
+208,1⁄2tspcrushed black pepper,,,Inter_Monsoon,0.33
+208,1tbspTamarind paste,,,Dry_Season,0.3
+208,1tspsalt,,,Dry_Season,0.33
+208,"4chicken thighs bone-in, skin removed cut into pieces((4 thighs = 1.5lb = 680g))",,,Dry_Season,0.3
+208,1⁄3cupchopped onion,,,Year_Round,0.64
+208,1⁄3cupchopped tomato,,,Inter_Monsoon,0.27
+208,4large cloves of garlic,,,Year_Round,0.63
+208,1inch piece of ginger,,,Year_Round,0.64
+208,1sprig of curry leaves,,,Year_Round,0.59
+208,1pandan leaf broken into pieces,,,Dry_Season,0.3
+208,3cardamom,,,Year_Round,0.29
+208,3cloves,,,Southwest_Monsoon,0.43
+208,1piece of Garcinia cambogia/Goraka,,,Dry_Season,0.3
+208,1tbsproasted chili powder,,,Year_Round,0.69
+208,2tsproasted curry powder,,,Year_Round,0.62
+208,1⁄2tspcrushed black pepper,,,Inter_Monsoon,0.33
+208,1tbspcoconut oil,,,Dry_Season,0.45
+208,1cupwater((substitute with thin coconut milk for a creamier curry)),,,Dry_Season,0.45
+208,salt to taste,,,Dry_Season,0.3
+209,5Cardomom,,,Year_Round,0.29
+209,5Cloves,,,Southwest_Monsoon,0.43
+209,5Garlic cloves,,,Year_Round,0.62
+209,1inch cube of Ginger,,,Year_Round,0.64
+209,1green chili(adjust as your liking),,,Year_Round,0.72
+209,1tbspCorriander powder,,,Dry_Season,0.3
+209,1tspRed chili powder,,,Year_Round,0.73
+209,1tspCumin powder,,,Dry_Season,0.3
+209,1⁄2tspGaram masala powder,,,Dry_Season,0.3
+209,1⁄3tspTurmeric powder,,,Dry_Season,0.3
+209,11⁄2tspSalt,,,Southwest_Monsoon,0.38
+209,"400g""Keeri Samba"" Rice (400g = 2 cups)(substitute: Sona masoori, Basmati)",,,Year_Round,0.54
+209,750gchicken drumsticks or legs bone-in,,,Inter_Monsoon,0.72
+209,1cupPlain yogurt,,,Dry_Season,0.3
+209,1⁄2cupCilantro leaves,,,Southwest_Monsoon,0.32
+209,2tbspButter or Ghee or Oil,,,Dry_Season,0.3
+209,1cupOnion chopped,,,Year_Round,0.62
+209,1Rampe/ Pandan leaf broken into pieces,,,Year_Round,0.27
+209,1sprig of curry leaves,,,Year_Round,0.59
+209,2cupwater,,,Year_Round,0.29
+209,salt as needed,,,Dry_Season,0.3
+209,1tspchili powder(adjust as your likings),,,Year_Round,0.62
+209,1⁄2tspcrushed black pepper,,,Inter_Monsoon,0.33
+209,1⁄4tspturmeric powder,,,Dry_Season,0.3
+209,2tsplime juice,,,Dry_Season,0.3
+209,1⁄2tspsalt,,,Year_Round,0.29
+209,1tspoil only if you air-fry or bake(optional),,,Dry_Season,0.3
+210,"2cup""Kekulu"" Rice(Substitute : Basmati, Jasmine)",,,Year_Round,0.54
+210,33⁄4cupWater,,,Southwest_Monsoon,0.4
+210,400mlThick coconut milk ( 400ml = 1 2/3 cups = 1 can),,,Dry_Season,0.45
+210,2tspSalt,,,Dry_Season,0.33
+211,500gEggplant (asian variety),,,Dry_Season,0.3
+211,1⁄2tspTurmeric,,,Southwest_Monsoon,0.4
+211,12pearl onions/ asian shallots (you can add more or less),,,Year_Round,0.62
+211,oil for deep frying,,,Dry_Season,0.3
+211,1⁄2of an onion finely chopped,,,Year_Round,0.64
+211,3green chilies finely sliced,,,Year_Round,0.56
+211,3springs of curry leaves sliced,,,Year_Round,0.59
+211,11⁄2tbspMaldive fish flakes,,,Dry_Season,0.3
+211,1tspchili flakes,,,Year_Round,0.62
+211,2tbspTomato ketchup,,,Dry_Season,0.3
+211,1tbspVinegar,,,Southwest_Monsoon,0.4
+211,21⁄2tspsugar,,,Southwest_Monsoon,0.4
+211,3⁄4tspsalt,,,Year_Round,0.29
+211,1tbspcoconut oil,,,Dry_Season,0.45
+212,200gonion (roughly equals to 1 onion) cut into chunks,,,Year_Round,0.64
+212,40ggarlic (6 - 8 cloves),,,Year_Round,0.62
+212,20gginger (1.5 inch cube),,,Year_Round,0.62
+212,2habaneros/kochchi (reduce if you can't handle heat),,,Inter_Monsoon,0.33
+212,2tbspwhite vinegar,,,Inter_Monsoon,0.33
+212,1⁄2tspsugar,,,Southwest_Monsoon,0.38
+212,1⁄4tspmustard powder,,,Dry_Season,0.3
+212,2tspchili powder,,,Year_Round,0.62
+212,1⁄4tspturmeric powder,,,Dry_Season,0.3
+212,2tspfreshly crushed black pepper,,,Southwest_Monsoon,0.4
+212,1tbspoil,,,Dry_Season,0.33
+212,1tspsalt,,,Dry_Season,0.33
+212,1⁄4tspcumin seeds,,,Dry_Season,0.3
+212,1⁄4tspmustard seeds,,,Dry_Season,0.3
+212,1piece of cinnamon,,,Dry_Season,0.3
+212,4cardamom pods lightly crushed,,,Dry_Season,0.3
+212,4cloves,,,Southwest_Monsoon,0.43
+212,"4dried chilies, broken, seeds removed",,,Year_Round,0.62
+212,1sprig of curry leaves,,,Year_Round,0.59
+212,1small Pandan leaf broken into pieces,,,Year_Round,0.27
+212,1.5lbChicken drumsticks (700g / 6 -8 drumsticks),,,Inter_Monsoon,0.72
+213,500gSalmon fish. (a little more than 1lb),,,Dry_Season,0.3
+213,4asian shallots/ 3tbsp onion finely chopped,,,Year_Round,0.64
+213,2cloves of garlic finely chopped,,,Year_Round,0.63
+213,1green chili (use more if you like heat),,,Year_Round,0.72
+213,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+213,1sprig curry leaves,,,Year_Round,0.59
+213,1small pandan leaf break into pieces,,,Year_Round,0.27
+213,1garcinia cambogia (goraka) piece,,,Dry_Season,0.3
+213,1piece of cinnamon,,,Dry_Season,0.3
+213,1pinchmustard powder(optional),,,Dry_Season,0.3
+213,1⁄4turmeric powder,,,Dry_Season,0.3
+213,1⁄2tspunroasted curry powder,,,Year_Round,0.62
+213,3⁄4cupthin coconut milk (use more if you need more gravy),,,Dry_Season,0.45
+213,1⁄2cupthick coconut milk,,,Dry_Season,0.45
+213,1⁄2tsplime juice,,,Dry_Season,0.3
+213,salt as needed,,,Dry_Season,0.3
+214,2cupGrated fresh coconut,,,Year_Round,0.4
+214,1.5cupDark brown sugar,,,Dry_Season,0.3
+214,1⁄8tspSalt ( taste the filling and adjust as you like),,,Dry_Season,0.3
+214,3Cardomom,,,Year_Round,0.29
+214,3tbspwater,,,Year_Round,0.29
+214,2cupAll purpose flour,,,Dry_Season,0.3
+214,2Eggs,,,Year_Round,0.29
+214,3cupRegular milk/Coconut milk(Dilute if you use canned coconut milk),,,Dry_Season,0.45
+214,1⁄4tspSalt,,,Year_Round,0.29
+214,1⁄4tspTurmeric powder,,,Dry_Season,0.3
+214,3dropVanilla Essence (optional)(or 1/2 tsp vanilla extract),,,Dry_Season,0.3
+214,Oil as needed,,,Dry_Season,0.3
+215,400gBeef cut into small cubes,,,Dry_Season,0.3
+215,2tspwhite vinegar,,,Inter_Monsoon,0.33
+215,2tspSri Lankan roasted curry powder,,,Year_Round,0.62
+215,1⁄2tspblack pepper powder,,,Inter_Monsoon,0.33
+215,1⁄4tspturmeric powder,,,Dry_Season,0.3
+215,1⁄2tspsalt,,,Year_Round,0.29
+215,2tbspcoconut oil,,,Dry_Season,0.45
+215,1⁄4tspcumin seeds,,,Dry_Season,0.3
+215,2tspred chili powder(substitute with paprika for low heat),,,Year_Round,0.73
+215,3cardomom,,,Year_Round,0.29
+215,3cloves,,,Southwest_Monsoon,0.43
+215,1small sprig of curry leaves,,,Year_Round,0.59
+215,1pandan leaf cut broken into pieces,,,Dry_Season,0.3
+215,1cinnamon stick (2 inches long),,,Dry_Season,0.3
+215,1⁄4tspfenugreek seeds,,,Dry_Season,0.3
+215,4cloves of garlic chopped,,,Year_Round,0.63
+215,1⁄3cuponion finely chopped,,,Year_Round,0.62
+215,1cupthin coconut milk,,,Dry_Season,0.45
+215,1⁄2cupcoconut milk,,,Dry_Season,0.45
+215,water as needed,,,Dry_Season,0.3
+215,salt to taste,,,Dry_Season,0.3
+216,1lbMeatballs,,,Southwest_Monsoon,0.4
+216,1small piece of ginger(about 1 inch),,,Year_Round,0.64
+216,3cloves of garlic,,,Year_Round,0.63
+216,1⁄3cupFinely chopped onion,,,Year_Round,0.64
+216,1Sprig of curry leaves,,,Year_Round,0.59
+216,1Small pandan leaf broken into pieces,,,Year_Round,0.27
+216,1Piece of Ceylon cinnamon(about 3 inches long),,,Dry_Season,0.3
+216,3Cardamom pods,,,Dry_Season,0.3
+216,1⁄2tbspSri Lankan unroasted curry powder,,,Year_Round,0.62
+216,1⁄2tbspRed chili powder,,,Year_Round,0.73
+216,1⁄4tspTurmeric powder,,,Dry_Season,0.3
+216,1Green chili,,,Year_Round,0.74
+216,1Medium tomato diced,,,Inter_Monsoon,0.27
+216,1⁄2cupwater,,,Southwest_Monsoon,0.38
+216,1⁄2cupcoconut milk(I use canned),,,Dry_Season,0.45
+216,2tspCoconut oil/canola oil/vegetable oil,,,Dry_Season,0.45
+216,Salt as needed,,,Dry_Season,0.3
+217,12small-medium banana peppers,,,Inter_Monsoon,0.47
+217,2cupfinely chopped onions,,,Year_Round,0.62
+217,1⁄4cupMaldive fish flakes,,,Dry_Season,0.3
+217,1tspSri Lankan roasted curry powder,,,Year_Round,0.62
+217,1⁄2tspsalt,,,Year_Round,0.29
+217,1⁄2tsplime juice,,,Dry_Season,0.3
+217,2tspoil,,,Southwest_Monsoon,0.43
+217,some salt and pepper to sprinkle,,,Dry_Season,0.3
+218,600gpork shoulder cut into small bite size pieces,,,Dry_Season,0.3
+218,2tspsri lankan roasted curry powder(more if you love the flavor of the spices),,,Year_Round,0.62
+218,1tspsri lankan roasted chili powder(adjust to your taste),,,Year_Round,0.69
+218,2tspgoraka/garcinia cambogia paste(freshly made from soaked goraka is the best),,,Southwest_Monsoon,0.48
+218,1tspblack pepper powder,,,Inter_Monsoon,0.33
+218,1tspsalt,,,Dry_Season,0.33
+218,4cloves of garlic,,,Year_Round,0.63
+218,1thumb size piece of ginger (2cm),,,Year_Round,0.64
+218,1⁄3cupfinely chopped onion,,,Year_Round,0.64
+218,3cardamoms crushed or powdered,,,Inter_Monsoon,0.33
+218,3cloves crushed or powdered,,,Inter_Monsoon,0.33
+218,14-inch piece of lemon grass (white part) lightly crushed,,,Inter_Monsoon,0.33
+218,1small pandan leaf broken into pieces,,,Year_Round,0.27
+218,1sprig of curry leaves,,,Year_Round,0.59
+218,2tspchili powder(adjust to your liking),,,Year_Round,0.62
+218,2tspsri lankan unroasted curry powder,,,Year_Round,0.62
+218,1⁄4tspsalt,,,Year_Round,0.29
+218,1tbspcoconut oil,,,Dry_Season,0.45
+218,1⁄4cupwater,,,Southwest_Monsoon,0.38
+219,300gPrawns/shrimp (cleaned and deveined),,,Dry_Season,0.3
+219,1⁄4cuponion,,,Year_Round,0.77
+219,3garlic,,,Year_Round,0.82
+219,1Pandan leaf (break into large pieces),,,Dry_Season,0.3
+219,1spring of Curry leaves,,,Year_Round,0.59
+219,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+219,1cinnamon piece (3 inches long),,,Dry_Season,0.3
+219,1medium tomatoes diced,,,Dry_Season,0.3
+219,2green chilies sliced,,,Year_Round,0.56
+219,11⁄2tspred chili powder,,,Year_Round,0.73
+219,1⁄4tspturmeric powder,,,Dry_Season,0.3
+219,2tspSri Lankan unroasted curry powder,,,Year_Round,0.62
+219,3⁄4cupcoconut milk,,,Dry_Season,0.45
+219,1tsplemon juice,,,Dry_Season,0.3
+219,1⁄2tspfreshly ground black pepper,,,Southwest_Monsoon,0.4
+219,1tbspcoconut oil,,,Dry_Season,0.45
+219,Salt to taste,,,Dry_Season,0.3
+220,2Godamba roti pieces(check description for substitutes),,,Dry_Season,0.3
+220,1cupchicken curry (broth only),,,Year_Round,0.62
+220,4chicken pieces from the curry or roast chicken,,,Year_Round,0.62
+220,1⁄2cupcarrot julianned,,,Northeast_Monsoon,0.59
+220,1⁄2cupleek green part sliced,,,Southwest_Monsoon,0.45
+220,1⁄4cupdiced tomatoes/ 1 small tomato,,,Inter_Monsoon,0.27
+220,3inch leek white/light green part cut into rings,,,Southwest_Monsoon,0.45
+220,2chilies sliced (can substitute with chili flakes),,,Year_Round,0.69
+220,1tspgarlic minced,,,Year_Round,0.62
+220,1tspginger minced,,,Year_Round,0.62
+220,2tbsponion,,,Year_Round,0.81
+220,1egg,,,Year_Round,0.3
+220,1tbspoil,,,Dry_Season,0.33
+220,salt as needed,,,Dry_Season,0.3
+221,1tspvinegar,,,Southwest_Monsoon,0.38
+221,1tspsalt,,,Dry_Season,0.33
+221,200gLotus root,,,Northeast_Monsoon,0.59
+221,1⁄4tspmustard seeds,,,Dry_Season,0.3
+221,1⁄8tspfenugreek seeds,,,Dry_Season,0.3
+221,5dried red chilies,,,Year_Round,0.64
+221,1sprig of curry leaves,,,Year_Round,0.59
+221,1⁄4cupchopped onion,,,Year_Round,0.64
+221,2garlic cloves chopped,,,Year_Round,0.62
+221,1garcinia cambogia (goraka),,,Dry_Season,0.3
+221,1tspcurry powder,,,Year_Round,0.62
+221,1tspred chili powder(skip or reduce if you don't like heat),,,Year_Round,0.73
+221,1⁄4tspturmeric powder,,,Dry_Season,0.3
+221,1cupvery thin coconut milk or water (enough to cover),,,Dry_Season,0.45
+221,3⁄4cupthick coconut milk,,,Dry_Season,0.45
+221,2tspcoconut oil/any other cooking oil,,,Dry_Season,0.45
+221,salt to your taste,,,Dry_Season,0.3
+222,250gboiled and roughly mashed potatoes,,,Dry_Season,0.3
+222,3⁄4cupLeek (green part thinly sliced),,,Southwest_Monsoon,0.45
+222,1⁄2flozonion chopped,,,Year_Round,0.62
+222,3green chilies finely chopped(adjust to your likings),,,Year_Round,0.56
+222,"1spring curry leaves, finely chopped",,,Year_Round,0.59
+222,1tspchili powder/paprika,,,Year_Round,0.62
+222,1tspchili flakes,,,Year_Round,0.62
+222,1⁄4tspturmeric,,,Southwest_Monsoon,0.4
+222,1⁄3tspmustard seeds,,,Dry_Season,0.3
+222,1⁄3tspcumin seeds,,,Dry_Season,0.3
+222,1tbspcoconut oil,,,Dry_Season,0.45
+222,salt to your taste,,,Dry_Season,0.3
+222,300gbread flour,,,Dry_Season,0.3
+222,170gmilk,,,Dry_Season,0.33
+222,20gbutter,,,Year_Round,0.29
+222,15gsugar,,,Dry_Season,0.33
+222,5ginstant dry yeast,,,Dry_Season,0.75
+222,6gsalt,,,Northeast_Monsoon,0.46
+222,1egg yolk,,,Dry_Season,0.33
+222,1tbspmilk,,,Year_Round,0.29
+223,1⁄4cupgarcinia cambogia paste,,,Dry_Season,0.3
+223,1tbspfreshly crushed black pepper,,,Southwest_Monsoon,0.4
+223,11⁄2tspsalt,,,Southwest_Monsoon,0.38
+223,1tspred chili powder,,,Year_Round,0.73
+223,1⁄4tspgarlic powder(optional),,,Year_Round,0.62
+223,1⁄2cupwater,,,Southwest_Monsoon,0.38
+223,1.5lbTuna fish,,,Dry_Season,0.3
+223,3sprigs curry leaves,,,Year_Round,0.59
+223,few ceylon cinnamon pieces (about 12),,,Dry_Season,0.3
+224,2long eggplants,,,Dry_Season,0.3
+224,1⁄4tspturmeric powder(optional),,,Dry_Season,0.3
+224,"oil, enough to coat eggplant slices",,,Dry_Season,0.3
+224,1⁄4cupthinly sliced shallots or red onions,,,Year_Round,0.64
+224,1green chili sliced(adjust to your liking),,,Year_Round,0.72
+224,1⁄2cupcherry tomatoes/ sliced regular tomatoes,,,Dry_Season,0.3
+224,1tspmaldive fish flakes(optional),,,Dry_Season,0.3
+224,1tsplime juice,,,Dry_Season,0.3
+224,salt as needed,,,Dry_Season,0.3
+224,pepper as needed,,,Dry_Season,0.3
+225,9 -10Small banana peppers/malu miris,,,Inter_Monsoon,0.47
+225,1⁄8tspturmeric powder,,,Dry_Season,0.3
+225,1tspcurry powder,,,Year_Round,0.62
+225,11⁄2tspMaldive fish flakes(Umbalakada),,,Dry_Season,0.3
+225,1⁄8tspmustard powder,,,Dry_Season,0.3
+225,1⁄2tspsugar,,,Southwest_Monsoon,0.38
+225,1tspvinegar,,,Southwest_Monsoon,0.38
+225,salt to taste,,,Dry_Season,0.3
+225,2tspoil,,,Southwest_Monsoon,0.43
+225,3tbspchopped onion or sliced shallots,,,Year_Round,0.64
+225,1⁄2cupthick coconut milk,,,Dry_Season,0.45
+225,bit of black pepper to sprinkle,,,Inter_Monsoon,0.33
+226,100gor a cup of dry fish cut into 2 cm pieces.,,,Dry_Season,0.75
+226,1⁄2large shallot or 2 Asian shallots chopped,,,Dry_Season,0.3
+226,1Garcinia Cambodia/ goraka(substitute: 1 diced tomato),,,Inter_Monsoon,0.27
+226,2garlic cloves chopped,,,Year_Round,0.62
+226,1small habanero (kochchi) OR 2 green chilies(adjust to your liking.),,,Year_Round,0.61
+226,1sprig curry leaves,,,Year_Round,0.59
+226,24 inch pieces of Pandan leaves,,,Southwest_Monsoon,0.29
+226,1⁄2tspcurry powder,,,Year_Round,0.62
+226,1⁄2tspchili powder(adjust to your liking),,,Year_Round,0.62
+226,1⁄4tspturmeric powder,,,Dry_Season,0.3
+226,1cupthin coconut milk,,,Dry_Season,0.45
+226,1cupthick coconut milk,,,Dry_Season,0.45
+226,1⁄4tsplime juice,,,Dry_Season,0.3
+227,1tbspcoriander seeds,,,Dry_Season,0.3
+227,1tspcumin seeds,,,Dry_Season,0.3
+227,1⁄2tspfennel seeds,,,Dry_Season,0.3
+227,1tspblack peppercorns,,,Inter_Monsoon,0.33
+227,3cloves,,,Southwest_Monsoon,0.43
+227,3cardamom,,,Year_Round,0.29
+227,1shallot chopped or 1/4 of an onion,,,Year_Round,0.64
+227,3garlic cloves chopped,,,Year_Round,0.62
+227,3inch piece of lemongrass thinly sliced or finely chopped,,,Year_Round,0.39
+227,1sprig curry leaves,,,Year_Round,0.59
+227,1small piece of garcinia cambogia aka Goraka(alternative: 1 tsp white vinegar),,,Inter_Monsoon,0.33
+227,1tbspchili powder(adjust to your likings),,,Year_Round,0.62
+227,salt,,,Year_Round,0.3
+227,water as needed,,,Dry_Season,0.3
+227,600gpork(Pork shoulder or belly or mix of both),,,Dry_Season,0.3
+228,2cupbeans cut into 1 inch pieces,,,Inter_Monsoon,0.72
+228,1⁄2cuponion chopped,,,Year_Round,0.62
+228,2green chilies chopped(adjust to your liking),,,Year_Round,0.56
+228,3garlic cloves chopped,,,Year_Round,0.62
+228,few curry leaves,,,Year_Round,0.59
+228,2tspsri lankan unroasted curry powder,,,Year_Round,0.62
+228,1tspchili powder(adjust to your liking),,,Year_Round,0.62
+228,1⁄4tspturmeric powder,,,Dry_Season,0.3
+228,salt(to your taste),,,Dry_Season,0.3
+228,1⁄2cupthin coconut milk,,,Dry_Season,0.45
+228,1cupthick coconut milk,,,Dry_Season,0.45
+228,1tbspcoconut oil,,,Dry_Season,0.45
+229,1habanero,,,Year_Round,0.29
+229,1⁄2tspgarlic powder,,,Year_Round,0.62
+229,1⁄2tspsugar,,,Southwest_Monsoon,0.38
+229,1tspvinegar,,,Southwest_Monsoon,0.38
+229,1⁄2tsponion powder,,,Year_Round,0.62
+229,1tspblack peppercorns,,,Inter_Monsoon,0.33
+229,1sprig curry leaves,,,Year_Round,0.59
+229,1tspchili powder((use more or less according to your liking)),,,Year_Round,0.62
+229,3garlic cloves,,,Year_Round,0.62
+229,1inch ginger cube,,,Year_Round,0.64
+229,2green chilis,,,Year_Round,0.56
+229,Salt to your taste,,,Dry_Season,0.3
+229,1tbspcoconut oil,,,Dry_Season,0.45
+230,1.5cupWashed and drained rice(more info about the rice variety in the description),,,Year_Round,0.54
+230,3cloves of garlic,,,Year_Round,0.63
+230,1inch piece of ginger,,,Year_Round,0.64
+230,1tbspbutter,,,Southwest_Monsoon,0.38
+230,4cardamom,,,Year_Round,0.29
+230,4cloves,,,Southwest_Monsoon,0.43
+230,10black peppercorns,,,Inter_Monsoon,0.33
+230,1⁄4tspturmeric powder,,,Dry_Season,0.3
+230,1sprig of curry leaves,,,Year_Round,0.59
+230,1pandan leaf,,,Inter_Monsoon,0.33
+230,1⁄4cupchopped onion,,,Year_Round,0.64
+230,2cupchicken or vegetable stock,,,Dry_Season,0.3
+230,1⁄4cupunsweetened coconut cream(or thick coconut milk),,,Dry_Season,0.45
+231,200ggreen beans thinly sliced,,,Inter_Monsoon,0.69
+231,1⁄4tspblack pepper or more if you like the peppery flavor,,,Inter_Monsoon,0.33
+231,1⁄4tspturmeric powder,,,Dry_Season,0.3
+231,2tspMaldive fish flakes/Umbalakada,,,Dry_Season,0.3
+231,1⁄2tspsalt,,,Year_Round,0.29
+231,1green chili thinly sliced(use more if you like this hot),,,Year_Round,0.57
+231,1⁄4gonion thinly sliced (50g)(50g),,,Year_Round,0.62
+231,3garlic cloves sliced,,,Year_Round,0.62
+231,1sprig curry leaves sliced,,,Year_Round,0.59
+231,2tspcoconut oil,,,Dry_Season,0.45
+232,200gFlour,,,Year_Round,0.29
+232,360gWater,,,Year_Round,0.29
+232,12gSalt,,,Southwest_Monsoon,0.43
+232,7gYeast,,,Southwest_Monsoon,0.43
+232,15gSugar,,,Dry_Season,0.33
+232,15gCoconut oil,,,Dry_Season,0.45
+232,1⁄2cupSeeni sambal for the filling,,,Dry_Season,0.3
+233,350gSmall potatoes,,,Dry_Season,0.3
+233,120gSliced onions,,,Year_Round,0.62
+233,3Green chilies (slitted),,,Year_Round,0.56
+233,1tbspChili flakes,,,Year_Round,0.62
+233,1⁄4tspTurmeric powder,,,Dry_Season,0.3
+233,1⁄4tspBlack pepper,,,Inter_Monsoon,0.33
+233,1tbspDried Maldive fish flakes/ umbalakada,,,Dry_Season,0.3
+233,1sprig Curry leaves,,,Year_Round,0.59
+233,1pandan leaf,,,Inter_Monsoon,0.33
+233,1Cinnamon stick,,,Dry_Season,0.3
+233,1tbspCoconut oil,,,Dry_Season,0.45
+234,1cupred lentils,,,Year_Round,0.69
+234,1⁄2cupchopped onion,,,Year_Round,0.64
+234,2green chilies,,,Year_Round,0.56
+234,2garlic cloves,,,Year_Round,0.62
+234,1sprig of curry leaves,,,Year_Round,0.59
+234,1piece of Pandan leaf,,,Year_Round,0.27
+234,11⁄2tspchili powder((adjust according to your liking)),,,Year_Round,0.62
+234,1⁄2tspsri lankan curry powder,,,Year_Round,0.62
+234,1⁄4tspturmeric powder,,,Dry_Season,0.3
+234,3⁄4tspsalt((adjust to your taste)),,,Dry_Season,0.3
+234,1cupcoconut milk,,,Dry_Season,0.45
+234,1tbspcoconut oil,,,Dry_Season,0.45
+234,1⁄2tspmustard seeds,,,Dry_Season,0.3
+234,few curry leaves,,,Year_Round,0.59
+234,6dried chilies((break and remove seeds)),,,Year_Round,0.62
+234,1⁄2cupsliced onions,,,Year_Round,0.62
+234,3cloves of garlic chopped,,,Year_Round,0.63
+234,1tspchili flakes,,,Year_Round,0.62
+234,1⁄2tspchili powder,,,Year_Round,0.62
+235,1cupfinely shredded chicken,,,Inter_Monsoon,0.33
+235,3⁄4cupboiled and mashed potatoes,,,Dry_Season,0.3
+235,1⁄2cupshredded cheddar cheese,,,Inter_Monsoon,0.33
+235,1⁄2tspgarlic powder,,,Year_Round,0.62
+235,1⁄2tsponion powder,,,Year_Round,0.62
+235,1⁄2tspchili flakes,,,Year_Round,0.62
+235,1habanero,,,Year_Round,0.29
+235,"1⁄3cuppanko bread crumbs((optional, Don't use regular breadcrumbs instead))",,,Dry_Season,0.3
+235,Saltper taste,,,Dry_Season,0.3
+235,10Mozzarella cubes,,,Dry_Season,0.3
+235,Thick battermade with flour water and salt,,,Dry_Season,0.3
+235,Bread crumbsas needed,,,Dry_Season,0.3
+235,Oilfor deep frying,,,Dry_Season,0.3
+236,2cupfinely shredded chicken,,,Inter_Monsoon,0.33
+236,11⁄2cupboiled potatoes mashed with a fork,,,Dry_Season,0.3
+236,1cupsharp cheddar cheese shredded,,,Inter_Monsoon,0.33
+236,2habanero / (නයි මිරිස්),,,Dry_Season,0.3
+236,1green chili((optional)),,,Year_Round,0.72
+236,1tspgarlic powder,,,Year_Round,0.62
+236,1tsponion powder,,,Year_Round,0.62
+236,1tspchili flakes((optional)),,,Year_Round,0.62
+236,salt as needed,,,Dry_Season,0.3
+236,240gflour,,,Year_Round,0.29
+236,1⁄2cupmilk,,,Year_Round,0.29
+236,"11⁄2cupwater, (you may need more)",,,Dry_Season,0.3
+236,1⁄2tspsalt,,,Year_Round,0.29
+236,oil for deep frying,,,Dry_Season,0.3
+236,a thick batter made with flour and water,,,Dry_Season,0.3
+236,bread crumbs as needed,,,Dry_Season,0.3
+237,750gbone in chicken pieces,,,Dry_Season,0.3
+237,1tbspunroasted Sri Lankan curry powder,,,Year_Round,0.62
+237,1⁄2tbspred chili powder (adjust to your liking),,,Year_Round,0.73
+237,1⁄2cuponion,,,Year_Round,0.77
+237,4cloves of garlic,,,Year_Round,0.63
+237,1inch piece of ginger,,,Year_Round,0.64
+237,1spring curry leaves,,,Year_Round,0.59
+237,2pieces of Pandan leaves,,,Southwest_Monsoon,0.29
+237,4inch piece of lemongrass crushed to release oils,,,Year_Round,0.39
+237,2inch piece of cinnamon,,,Dry_Season,0.3
+237,3cardamom,,,Year_Round,0.29
+237,3cloves,,,Southwest_Monsoon,0.43
+237,1tsptamarind paste,,,Dry_Season,0.3
+237,1medium tomato diced,,,Inter_Monsoon,0.27
+237,1tspsalt (divided),,,Dry_Season,0.3
+237,1tbspoil,,,Dry_Season,0.33
+237,1cupwater (divided),,,Dry_Season,0.3
+238,2cupsliced green beans,,,Inter_Monsoon,0.65
+238,1green chili (optional) chopped for heat,,,Year_Round,0.72
+238,2inch piece of cinnamon,,,Dry_Season,0.3
+238,2pearl onions/ Asian shallots sliced((can use onion too)),,,Year_Round,0.64
+238,10seeds fenugreek,,,Dry_Season,0.3
+238,1tspSri Lankan unroasted curry powder,,,Year_Round,0.62
+238,1⁄4tspturmeric powder,,,Dry_Season,0.3
+238,3⁄4cupthin coconut milk,,,Dry_Season,0.45
+238,1⁄4cupthick coconut cream,,,Dry_Season,0.45
+238,2-3droplemon/lime juice,,,Dry_Season,0.47
+238,salt to taste,,,Dry_Season,0.3
+239,2cupcooked rice,,,Year_Round,0.54
+239,2boiled eggs,,,Inter_Monsoon,0.33
+239,1tbspghee/cooking oil,,,Dry_Season,0.3
+239,1⁄2onion sliced((about 1/2 cup)),,,Year_Round,0.62
+239,1tbspginger garlic paste,,,Year_Round,0.63
+239,1Serrano/green chili(sliced),,,Year_Round,0.8
+239,1⁄3cupplain yogurt/curd,,,Dry_Season,0.3
+239,1 tsplemon juice,,,Dry_Season,0.3
+239,saltto taste,,,Inter_Monsoon,0.33
+239,1⁄4tspcumin seeds,,,Dry_Season,0.3
+239,fewblack peppercorns,,,Inter_Monsoon,0.33
+239,1bay leaf,,,Dry_Season,0.33
+239,2cardamom,,,Year_Round,0.29
+239,2cloves,,,Southwest_Monsoon,0.43
+239,piece of cinnamon,,,Dry_Season,0.3
+239,2tspcoriander powder,,,Dry_Season,0.3
+239,1⁄2tspgaram masala powder,,,Dry_Season,0.3
+239,1⁄4tspturmeric powder,,,Dry_Season,0.3
+239,1⁄3cupcilantro chopped,,,Dry_Season,0.3
+239,1⁄3cupmint chopped,,,Dry_Season,0.3
+240,240gflour,,,Year_Round,0.29
+240,1⁄2cupmilk(can use water as well),,,Dry_Season,0.3
+240,11⁄2cupwater,,,Southwest_Monsoon,0.4
+240,1⁄2tspsalt,,,Year_Round,0.29
+240,250gTuna (drained)(/ two 5oz cans),,,Dry_Season,0.3
+240,2medium potatoes boiled and mashed,,,Dry_Season,0.3
+240,1carrot(shredded),,,Northeast_Monsoon,0.59
+240,1⁄2cupleek thinly sliced,,,Dry_Season,0.3
+240,1⁄2onion chopped,,,Year_Round,0.62
+240,2green chilies chopped,,,Year_Round,0.56
+240,3cloves of garlic,,,Year_Round,0.63
+240,1tspchili flakes,,,Year_Round,0.62
+240,1⁄2tspblack pepper,,,Inter_Monsoon,0.33
+240,1tbspoil,,,Dry_Season,0.33
+240,Oil,,,Year_Round,0.3
+240,Breadcrumbs,,,Southwest_Monsoon,0.38
+241,1cupUrad dal/Undu (split matpe beans),,,Inter_Monsoon,0.78
+241,1⁄4cupRice flour,,,Year_Round,0.54
+241,1⁄4cupall purpose flour/bread flour,,,Dry_Season,0.3
+241,1⁄8tspsalt,,,Year_Round,0.29
+241,Thick coconut milk as needed(Depends on the consistency of the mixture),,,Dry_Season,0.45
+241,2cupDark brown sugar,,,Dry_Season,0.3
+241,1⁄2cupwater,,,Southwest_Monsoon,0.38
+241,2pinchsalt,,,Year_Round,0.29
+241,Oil for deep frying,,,Dry_Season,0.3
+242,tbspcoconut oil,,,Dry_Season,0.45
+242,1⁄4tspfenugreek seeds,,,Dry_Season,0.3
+242,3dried red chilies(remove seeds and break into pieces),,,Year_Round,0.64
+242,6-7curry leaves,,,Year_Round,0.59
+242,1pandan leaf break into pieces,,,Dry_Season,0.3
+242,1piece on cinnamon(about 2 inches long),,,Dry_Season,0.3
+242,2cloves of garlic minced,,,Year_Round,0.63
+242,3-4tbspchopped onion,,,Year_Round,0.64
+242,1tomato diced,,,Dry_Season,0.3
+242,3mediam Yukon gold potatoes (about 250g)(cut into large pieces),,,Dry_Season,0.3
+242,1tspred chili powder ( reduce if you don't like it hot),,,Year_Round,0.56
+242,1tspcurry powder,,,Year_Round,0.62
+242,1⁄2tspturmeric powder,,,Dry_Season,0.3
+242,salt to taste,,,Dry_Season,0.3
+242,1cupcoconut cream or thick coconut milk(add more if you want love gravy),,,Dry_Season,0.45
+243,250gall-purpose flour,,,Dry_Season,0.3
+243,4gInstant dry yeast,,,Dry_Season,0.75
+243,20gsugar,,,Dry_Season,0.33
+243,25gsoftened butter or margarine,,,Dry_Season,0.3
+243,5gsalt,,,Northeast_Monsoon,0.46
+243,1egg (approx 50g),,,Dry_Season,0.3
+243,50gwarm water,,,Dry_Season,0.3
+243,55gwarm milk,,,Inter_Monsoon,0.33
+243,1egg york,,,Dry_Season,0.33
+243,2tspmilk,,,Dry_Season,0.33
+243,boiled eggs cut into quarters length wise((about 5 for 6 buns)),,,Dry_Season,0.3
+243,onions,,,Year_Round,0.87
+243,peppers,,,Southwest_Monsoon,0.43
+243,salt to sprink on eggs,,,Dry_Season,0.3
+243,"any condiment of your choice such as mayo, ketchup",,,Dry_Season,0.3

@@ -1,0 +1,33 @@
+{
+  "pipeline_completed": false,
+  "total_rounds": 3,
+  "final_aliases_count": 73,
+  "timestamp": "2025-08-16T16:44:20.342434",
+  "final_normalization": {
+    "total_tokens": 641,
+    "pct_digit_or_unit": 100.0,
+    "glued_count": 0,
+    "parentheses_count": 0
+  },
+  "final_nutrition_coverage": 40.3,
+  "final_pricing": {
+    "baseline": 27.2,
+    "strict": 14.4,
+    "very_strict": 10.3
+  },
+  "gates_passed": false,
+  "output_files": {
+    "recipes_base_normalized.csv": {
+      "exists": true,
+      "size_kb": 559.6
+    },
+    "recipes_base_normalized_improved_nutrition.csv": {
+      "exists": true,
+      "size_kb": 563.7
+    },
+    "recipes_base_normalized_improved_nutrition_with_costs.csv": {
+      "exists": true,
+      "size_kb": 570.5
+    }
+  }
+}

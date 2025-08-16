@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:www.hungrylankan.com)",
+      "WebFetch(domain:foodcnr.com)",
+      "WebFetch(domain:pulse.lk)",
+      "Bash(rm:*)",
+      "Bash(grep:*)",
+      "Bash(timeout:*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(echo:*)"
+    ],
+    "deny": [],
+    "defaultMode": "acceptEdits"
+  }
+}

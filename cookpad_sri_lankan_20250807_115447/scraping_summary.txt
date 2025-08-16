@@ -1,0 +1,64 @@
+COOKPAD SRI LANKAN RECIPES SCRAPING SUMMARY
+==================================================
+
+Scraping Date: 2025-08-07 12:01:13
+Total Recipes Successfully Scraped: 52
+Failed URLs: 0
+Success Rate: 100.0%
+
+DATA COMPLETENESS
+-----------------
+Recipes with ingredients: 52 (100.0%)
+Recipes with instructions: 0 (0.0%)
+Recipes with cook time: 43 (82.7%)
+Recipes with servings: 32 (61.5%)
+Recipes with author: 0 (0.0%)
+
+SAMPLE RECIPES
+---------------
+1. Quick,Healthy And tasty Appam
+   Cook Time: 25 min
+   Servings: Not specified
+   Ingredients: 16 items
+   Instructions: 0 steps
+   Author: Unknown
+   URL: https://cookpad.com/eng/recipes/24423569
+
+2. Beetroot puttu
+   Cook Time: Not specified
+   Servings: Not specified
+   Ingredients: 4 items
+   Instructions: 0 steps
+   Author: Unknown
+   URL: https://cookpad.com/eng/recipes/9688400
+
+3. Palappam recipe | Appam recipe without yeast | Kerala Appam recipe
+   Cook Time: 8 hours
+   Servings: 10
+   Ingredients: 5 items
+   Instructions: 0 steps
+   Author: Unknown
+   URL: https://cookpad.com/eng/recipes/9184916
+
+4. Paneer Cheese Rava Appe With Vegetables RecipePaniyaram/ Appam
+   Cook Time: 15 min
+   Servings: 4
+   Ingredients: 15 items
+   Instructions: 0 steps
+   Author: Unknown
+   URL: https://cookpad.com/eng/recipes/16676383
+
+5. Quinoa in upma style
+   Cook Time: 8 min
+   Servings: 1
+   Ingredients: 14 items
+   Instructions: 0 steps
+   Author: Unknown
+   URL: https://cookpad.com/eng/recipes/22614979
+
+
+Files created in: cookpad_sri_lankan_20250807_115447/
+- sri_lankan_recipes.json (detailed data)
+- sri_lankan_recipes.csv (spreadsheet format)
+- recipe_urls.txt (list of scraped URLs)
+- scraping_summary.txt (this report)

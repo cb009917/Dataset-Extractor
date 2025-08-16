@@ -1,0 +1,48 @@
+# Unit Rules for DCS Unit Normalization
+# Converts DCS pack sizes to per-kg pricing
+
+# Per-kg units (treat these as already per-kg, case & punctuation variants)
+per_kg_units:
+  - "1 kg"
+  - "1Kg" 
+  - "1 Kg"
+  - "1 kg."
+  - "1Kg."
+  - "1Kg.Pkt."  # Salt special case
+  - "1 Kg."
+  - "1kg."
+
+# Gram packs → per-kg: multiply price by conversion factor
+gram_packs:
+  "100g": 10.0      # 1000g / 100g = 10
+  "200g": 5.0       # 1000g / 200g = 5
+  "250g": 4.0       # 1000g / 250g = 4
+  "300g": 3.333     # 1000g / 300g = 3.333
+  "400g": 2.5       # 1000g / 400g = 2.5
+  "400g.": 2.5      # with period
+  "425g.": 2.353    # 1000g / 425g = 2.353
+  "450g.": 2.222    # 1000g / 450g = 2.222
+  "500g": 2.0       # 1000g / 500g = 2
+  "50g": 20.0       # 1000g / 50g = 20
+
+# ml/liter → per-kg via density (from densities.yaml)
+volume_units:
+  "100 ml": 100
+  "100ml": 100
+  "200 ml": 200
+  "200ml": 200
+  "250ml": 250
+  "400 ml": 400
+  "400ml": 400
+  "500 ml": 500
+  "500ml": 500
+  "750 ml": 750
+  "1 liter": 1000
+  "1L": 1000
+
+# Bunch/Each via piece_weights.yaml:
+# e.g., gotukola: 100g, kankun: 120g, egg: 60g, coconut: 1200g whole / 400g edible
+# See piece_weights.yaml for detailed mappings
+
+# Unknown unit → log to unit_warnings.csv (do not crash the run)
+unknown_unit_handling: "log_warning"

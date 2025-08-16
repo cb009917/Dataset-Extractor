@@ -1,0 +1,34 @@
+SIMPLE SRI LANKAN RECIPE SCRAPER RESULTS
+=============================================
+
+Date: 2025-08-07 12:36:55
+Authentic recipes found: 10
+Rejected recipes: 101
+Failed URLs: 0
+
+SAMPLE RECIPES:
+1. Sri Lankan Yellow Rice (Kaha Bath)
+   Ingredients: 15
+   Instructions: 22
+   URL: https://cookpad.com/eng/recipes/14282812
+
+2. Hoppers
+   Ingredients: 10
+   Instructions: 17
+   URL: https://cookpad.com/eng/recipes/7146787
+
+3. Beetroot String Hoppers
+   Ingredients: 15
+   Instructions: 19
+   URL: https://cookpad.com/eng/recipes/17217457
+
+4. Stuffed Sweet Idiyappam (Sweet String Hoppers)
+   Ingredients: 15
+   Instructions: 26
+   URL: https://cookpad.com/eng/recipes/17094307
+
+5. String hoppers with chicken curry
+   Ingredients: 15
+   Instructions: 22
+   URL: https://cookpad.com/eng/recipes/13963394
+

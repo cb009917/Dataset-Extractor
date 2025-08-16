@@ -1,0 +1,47 @@
+{
+  "pipeline_status": "COMPLETED_WITH_LIMITATIONS",
+  "timestamp": "2025-08-16T17:43:46.967009",
+  "final_metrics": {
+    "normalization": {
+      "digit_unit_coverage": 100.0,
+      "glued_count": 0,
+      "parentheses_count": 0,
+      "status": "PASSED"
+    },
+    "nutrition": {
+      "coverage_pct": 91.4,
+      "recipes_matched": 222,
+      "recipes_total": 243,
+      "recipes_missing": 21,
+      "status": "BELOW_TARGET"
+    },
+    "pricing": {
+      "baseline_coverage": 78.6,
+      "strict_coverage": 57.6,
+      "very_strict_coverage": 16.9,
+      "status": "BELOW_TARGET"
+    }
+  },
+  "improvements_made": [
+    "Implemented shared canonicalizer (common_text.py)",
+    "Added 157 ingredient aliases for better matching",
+    "Created auto-iteration pipeline with learning loop",
+    "Fixed UTF-8 encoding issues throughout",
+    "Improved price baseline from ~69% to 78.6%",
+    "Achieved perfect normalization (100% digit/unit coverage)"
+  ],
+  "remaining_challenges": [
+    "21 recipes have zero nutrition due to micro-quantities or excluded ingredients",
+    "~21% of recipes missing price data for stubborn ingredient mappings",
+    "Conservative safety rules exclude very small quantities (<2g)",
+    "A-list/B-list exclusions prevent some ingredients from contributing"
+  ],
+  "files_generated": [
+    "recipes_base_normalized.csv",
+    "recipes_base_normalized_improved_nutrition.csv",
+    "recipes_base_normalized_improved_nutrition_with_costs.csv",
+    "config/item_alias_user.json (157 aliases)",
+    "reports/nutrition_coverage.json",
+    "reports/pricing_coverage_report.json"
+  ]
+}

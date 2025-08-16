@@ -1,0 +1,69 @@
+2025-08-07 11:19:44,317 - INFO - Selenium WebDriver initialized successfully
+2025-08-07 11:19:44,317 - INFO - Starting to scrape 500 Sri Lankan recipes from Cookpad
+2025-08-07 11:19:44,317 - INFO - Using Selenium to handle infinite scroll...
+2025-08-07 11:19:44,317 - INFO - Loading search page: https://cookpad.com/eng/search/sri%20lankan
+2025-08-07 11:19:47,412 - INFO - Scroll 1: Found 30 total recipe URLs
+2025-08-07 11:19:50,992 - INFO - Scroll 2: Found 60 total recipe URLs
+2025-08-07 11:19:54,423 - INFO - Scroll 3: Found 90 total recipe URLs
+2025-08-07 11:19:59,206 - INFO - Scroll 4: Found 120 total recipe URLs
+2025-08-07 11:20:03,085 - INFO - Scroll 5: Found 149 total recipe URLs
+2025-08-07 11:20:07,405 - INFO - Scroll 6: Found 179 total recipe URLs
+2025-08-07 11:20:12,485 - INFO - Scroll 7: Found 209 total recipe URLs
+2025-08-07 11:20:18,692 - INFO - Scroll 8: Found 239 total recipe URLs
+2025-08-07 11:20:24,417 - INFO - Scroll 9: Found 269 total recipe URLs
+2025-08-07 11:20:32,053 - INFO - Scroll 10: Found 299 total recipe URLs
+2025-08-07 11:20:37,695 - INFO - Scroll 11: Found 329 total recipe URLs
+2025-08-07 11:20:45,628 - INFO - Scroll 12: Found 359 total recipe URLs
+2025-08-07 11:20:53,973 - INFO - Scroll 13: Found 389 total recipe URLs
+2025-08-07 11:21:02,788 - INFO - Scroll 14: Found 419 total recipe URLs
+2025-08-07 11:21:12,231 - INFO - Scroll 15: Found 449 total recipe URLs
+2025-08-07 11:21:22,645 - INFO - Scroll 16: Found 479 total recipe URLs
+2025-08-07 11:21:33,629 - INFO - Scroll 17: Found 509 total recipe URLs
+2025-08-07 11:21:45,974 - INFO - Scroll 18: Found 539 total recipe URLs
+2025-08-07 11:21:59,953 - INFO - Scroll 19: Found 569 total recipe URLs
+2025-08-07 11:22:13,456 - INFO - Scroll 20: Found 599 total recipe URLs
+2025-08-07 11:22:21,938 - INFO - Finished scrolling. Total recipe URLs collected: 599
+2025-08-07 11:22:21,938 - INFO - Will scrape 500 recipes
+2025-08-07 11:24:09,662 - INFO - Progress: 25/500 processed (100.0% success rate)
+2025-08-07 11:25:59,527 - INFO - Progress: 50/500 processed (100.0% success rate)
+2025-08-07 11:27:49,860 - INFO - Progress: 75/500 processed (100.0% success rate)
+2025-08-07 11:29:31,310 - INFO - Progress: 100/500 processed (100.0% success rate)
+2025-08-07 11:54:49,760 - INFO - Selenium WebDriver initialized successfully
+2025-08-07 11:54:49,761 - INFO - Starting to scrape 500 Sri Lankan recipes from Cookpad
+2025-08-07 11:54:49,761 - INFO - Using Selenium to handle infinite scroll...
+2025-08-07 11:54:49,761 - INFO - Loading search page: https://cookpad.com/eng/search/sri%20lankan
+2025-08-07 11:54:51,932 - INFO - Scroll 1: Found 30 total recipe URLs
+2025-08-07 11:54:55,733 - INFO - Scroll 2: Found 60 total recipe URLs
+2025-08-07 11:54:59,754 - INFO - Scroll 3: Found 90 total recipe URLs
+2025-08-07 11:55:02,757 - INFO - Scroll 4: Found 120 total recipe URLs
+2025-08-07 11:55:06,811 - INFO - Scroll 5: Found 149 total recipe URLs
+2025-08-07 11:55:10,739 - INFO - Scroll 6: Found 179 total recipe URLs
+2025-08-07 11:55:15,288 - INFO - Scroll 7: Found 209 total recipe URLs
+2025-08-07 11:55:21,920 - INFO - Scroll 8: Found 239 total recipe URLs
+2025-08-07 11:55:27,943 - INFO - Scroll 9: Found 269 total recipe URLs
+2025-08-07 11:55:34,857 - INFO - Scroll 10: Found 299 total recipe URLs
+2025-08-07 11:55:43,298 - INFO - Scroll 11: Found 329 total recipe URLs
+2025-08-07 11:55:52,001 - INFO - Scroll 12: Found 359 total recipe URLs
+2025-08-07 11:56:02,593 - INFO - Scroll 13: Found 389 total recipe URLs
+2025-08-07 11:56:13,311 - INFO - Scroll 14: Found 419 total recipe URLs
+2025-08-07 11:56:26,397 - INFO - Scroll 15: Found 449 total recipe URLs
+2025-08-07 11:56:36,450 - INFO - Scroll 16: Found 479 total recipe URLs
+2025-08-07 11:56:45,114 - INFO - Scroll 17: Found 509 total recipe URLs
+2025-08-07 11:56:54,198 - INFO - Scroll 18: Found 539 total recipe URLs
+2025-08-07 11:57:04,116 - INFO - Scroll 19: Found 569 total recipe URLs
+2025-08-07 11:57:14,200 - INFO - Scroll 20: Found 599 total recipe URLs
+2025-08-07 11:57:23,288 - INFO - Finished scrolling. Total recipe URLs collected: 599
+2025-08-07 11:57:23,288 - INFO - Will scrape 500 recipes
+2025-08-07 11:59:06,728 - INFO - Progress: 25/500 processed (100.0% success rate)
+2025-08-07 12:00:49,836 - INFO - Progress: 50/500 processed (100.0% success rate)
+2025-08-07 12:01:01,384 - INFO - Scraping interrupted by user
+2025-08-07 12:01:01,391 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/8547ca1cdb3c0e9e89d1cc0f17ac28b6
+2025-08-07 12:01:05,426 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000188CEF707D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8547ca1cdb3c0e9e89d1cc0f17ac28b6
+2025-08-07 12:01:09,477 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000188CEF702D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8547ca1cdb3c0e9e89d1cc0f17ac28b6
+2025-08-07 12:01:13,546 - INFO - Scraping completed! Successfully scraped 52 recipes
+2025-08-07 12:01:13,553 - INFO - Recipes saved to cookpad_sri_lankan_20250807_115447\sri_lankan_recipes.json
+2025-08-07 12:01:13,575 - INFO - Recipes saved to cookpad_sri_lankan_20250807_115447\sri_lankan_recipes.csv
+2025-08-07 12:01:13,578 - INFO - Summary report saved to cookpad_sri_lankan_20250807_115447\scraping_summary.txt
+2025-08-07 12:01:17,625 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000188CE65BA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8547ca1cdb3c0e9e89d1cc0f17ac28b6
+2025-08-07 12:01:21,702 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000188CF179910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8547ca1cdb3c0e9e89d1cc0f17ac28b6
+2025-08-07 12:01:25,747 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000188CE683680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8547ca1cdb3c0e9e89d1cc0f17ac28b6

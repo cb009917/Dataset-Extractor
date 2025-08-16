@@ -1,0 +1,21 @@
+{
+  "round": 2,
+  "gates_passed": false,
+  "gate_failures": [
+    "Nutrition coverage: 91.4% < 100.0% ⚠️ REQUIRED",
+    "Price baseline: 79.4% < 100.0% ⚠️ REQUIRED"
+  ],
+  "normalization": {
+    "total_tokens": 1351,
+    "pct_digit_or_unit": 100.0,
+    "glued_count": 0,
+    "parentheses_count": 0
+  },
+  "nutrition_coverage": 91.4,
+  "pricing": {
+    "baseline": 79.4,
+    "strict": 57.2,
+    "very_strict": 17.7
+  },
+  "timestamp": "2025-08-16T18:24:43.102127"
+}

@@ -1,0 +1,20 @@
+{
+  "total_recipes_scraped": 148,
+  "failed_scrapes": 0,
+  "failed_urls": [],
+  "recipes_by_category": {
+    "vegetarian": 85,
+    "non-vegetarian": 44,
+    "starch": 7,
+    "dessert": 8,
+    "snacks": 3,
+    "keto": 1
+  },
+  "quality_stats": {
+    "recipes_with_ingredients": 120,
+    "recipes_with_instructions": 80,
+    "recipes_with_both": 67,
+    "avg_ingredients_per_recipe": 8.47972972972973,
+    "avg_instructions_per_recipe": 4.763513513513513
+  }
+}

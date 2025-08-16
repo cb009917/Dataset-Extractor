@@ -1,0 +1,86 @@
+# Pack sizes and standard units for ingredients
+# Format: "package_description": "standard_quantity unit"
+
+# Canned goods
+coconut milk can: "400 ml"
+coconut milk tin: "400 ml"
+small coconut milk can: "200 ml"
+large coconut milk can: "800 ml"
+tuna can: "150 g"
+sardines can: "120 g"
+salmon can: "200 g"
+tomato can: "400 g"
+tomato paste can: "70 g"
+condensed milk can: "397 g"
+
+# Egg packaging
+eggs 10 pcs: "10 piece"
+eggs dozen: "12 piece"
+eggs 6 pcs: "6 piece"
+eggs half dozen: "6 piece"
+
+# Dairy packaging
+milk packet: "1000 ml"
+milk carton: "1000 ml"
+small milk packet: "500 ml"
+large milk packet: "2000 ml"
+yogurt cup: "125 g"
+butter packet: "500 g"
+cheese packet: "200 g"
+
+# Spice packets
+curry powder packet: "50 g"
+chili powder packet: "100 g"
+turmeric packet: "50 g"
+coriander powder packet: "100 g"
+cumin powder packet: "50 g"
+cinnamon packet: "25 g"
+cardamom packet: "25 g"
+
+# Rice and grain packaging
+rice bag: "5000 g"
+small rice bag: "1000 g"
+large rice bag: "10000 g"
+flour bag: "1000 g"
+sugar bag: "1000 g"
+
+# Oil packaging
+oil bottle: "1000 ml"
+small oil bottle: "500 ml"
+large oil bottle: "2000 ml"
+coconut oil bottle: "500 ml"
+
+# Sauce and condiment packaging
+soy sauce bottle: "250 ml"
+fish sauce bottle: "200 ml"
+vinegar bottle: "500 ml"
+ketchup bottle: "340 g"
+chili sauce bottle: "200 g"
+
+# Fresh produce typical sizes
+onion large: "200 g"
+onion medium: "150 g"
+onion small: "100 g"
+tomato large: "200 g"
+tomato medium: "150 g"
+tomato small: "100 g"
+potato large: "300 g"
+potato medium: "200 g"
+potato small: "100 g"
+lemon: "50 g"
+lime: "30 g"
+garlic bulb: "50 g"
+ginger piece: "100 g"
+
+# Meat and fish typical portions
+chicken breast: "200 g"
+chicken thigh: "150 g"
+fish fillet: "200 g"
+prawns 250g: "250 g"
+crab: "500 g"
+
+# Bread and bakery
+bread loaf: "400 g"
+bread slice: "25 g"
+bun: "50 g"
+roti: "50 g"

@@ -1,0 +1,84 @@
+🇱🇰 AUTHENTIC SRI LANKAN RECIPE SCRAPER RESULTS
+=======================================================
+
+Date: 2025-08-07 21:11:12
+Total Recipes Scraped: 426
+Failed URLs: 0
+
+DATA COMPLETENESS:
+- Recipes with ingredients: 426 (100.0%)
+- Recipes with instructions: 426 (100.0%)
+- Recipes with servings: 291 (68.3%)
+- Recipes with cook time: 374 (87.8%)
+
+SAMPLE RECIPES:
+1. California Farm Cookpad Planning
+   Ingredients: 17
+   Instructions: 15
+   Servings: 1
+   Cook Time: 4 mins
+   URL: https://cookpad.com/eng/recipes/17004894
+
+2. Idliappam (hoppers)
+   Ingredients: 7
+   Instructions: 15
+   Servings: None
+   Cook Time: 30 mins
+   URL: https://cookpad.com/eng/recipes/9300319
+
+3. Hoppers
+   Ingredients: 8
+   Instructions: 15
+   Servings: None
+   Cook Time: 5 mins
+   URL: https://cookpad.com/eng/recipes/7146787
+
+4. grilled frog hoppers
+   Ingredients: 5
+   Instructions: 15
+   Servings: None
+   Cook Time: 10 mins
+   URL: https://cookpad.com/eng/recipes/365008
+
+5. Sugar Hoppers
+   Ingredients: 18
+   Instructions: 15
+   Servings: 20
+   Cook Time: 30 mins
+   URL: https://cookpad.com/eng/recipes/338414
+
+6. String hopper/ Idiyappam
+   Ingredients: 5
+   Instructions: 15
+   Servings: 4
+   Cook Time: 30 mins
+   URL: https://cookpad.com/eng/recipes/23842945
+
+7. Beetroot String Hoppers
+   Ingredients: 16
+   Instructions: 15
+   Servings: 4
+   Cook Time: 30 mins
+   URL: https://cookpad.com/eng/recipes/17217457
+
+8. Stuffed Sweet Idiyappam (Sweet String Hoppers)
+   Ingredients: 8
+   Instructions: 15
+   Servings: None
+   Cook Time: 20 mins
+   URL: https://cookpad.com/eng/recipes/17094307
+
+9. String hoppers with chicken curry
+   Ingredients: 20
+   Instructions: 15
+   Servings: 4-6
+   Cook Time: 7 mins
+   URL: https://cookpad.com/eng/recipes/13963394
+
+10. Stuffed idiyappam nool puttu string hopper
+   Ingredients: 20
+   Instructions: 15
+   Servings: 6
+   Cook Time: 40 mins
+   URL: https://cookpad.com/eng/recipes/13597623
+

@@ -1,0 +1,33 @@
+{
+  "total_recipes": 243,
+  "coverage_percentages": {
+    "baseline": 79.4,
+    "strict": 57.2,
+    "very_strict": 17.7
+  },
+  "acceptance_targets": {
+    "baseline": 90.0,
+    "strict": 85.0,
+    "very_strict": 70.0
+  },
+  "targets_met": {
+    "baseline": false,
+    "strict": false,
+    "very_strict": false,
+    "all_targets": false
+  },
+  "Coverage": {
+    "Baseline": 79.4,
+    "Strict": 57.2,
+    "VeryStrict": 17.7
+  },
+  "TargetsMet": {
+    "Baseline": false,
+    "Strict": false,
+    "VeryStrict": false,
+    "AllTargets": false
+  },
+  "Baseline": 79.4,
+  "Strict": 57.2,
+  "VeryStrict": 17.7
+}

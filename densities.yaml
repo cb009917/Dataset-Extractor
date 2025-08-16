@@ -1,0 +1,77 @@
+# Density conversions from ml to grams (g/ml)
+# Format: ingredient: density_value
+
+# Basic liquids (defaults as specified)
+water: 1.00
+hot water: 1.00
+cold water: 1.00
+warm water: 1.00
+
+# Milk and dairy (defaults as specified)
+milk: 1.03
+coconut milk: 1.03
+thick coconut milk: 1.03
+thin coconut milk: 1.03
+first coconut milk: 1.03
+second coconut milk: 1.03
+condensed milk: 1.28
+evaporated milk: 1.07
+cream: 1.01
+buttermilk: 1.03
+
+# Oils and fats (defaults as specified)
+oil: 0.92
+vegetable oil: 0.92
+cooking oil: 0.92
+coconut oil: 0.92
+virgin coconut oil: 0.92
+olive oil: 0.91
+sesame oil: 0.92
+sunflower oil: 0.92
+palm oil: 0.92
+
+# Vinegars and acids
+vinegar: 1.00
+white vinegar: 1.00
+coconut vinegar: 1.00
+lemon juice: 1.03
+lime juice: 1.03
+tamarind juice: 1.05
+
+# Sauces and condiments (as specified)
+soy sauce: 1.16
+light soy sauce: 1.16
+dark soy sauce: 1.16
+fish sauce: 1.20
+tomato sauce: 1.04
+chili sauce: 1.05
+
+# Alcoholic beverages
+wine: 0.99
+beer: 1.01
+arrack: 0.95
+
+# Syrups and sweet liquids
+honey: 1.42
+treacle: 1.35
+coconut treacle: 1.35
+kithul treacle: 1.35
+corn syrup: 1.38
+maple syrup: 1.32
+golden syrup: 1.36
+jaggery syrup: 1.30
+
+# Additional sauce densities
+tomato paste: 1.10
+ginger garlic paste: 1.05
+chili paste: 1.02
+curry paste: 1.04
+
+# Stocks and broths
+chicken stock: 1.01
+vegetable stock: 1.01
+fish stock: 1.01
+bone broth: 1.02
+
+# Default for unknown liquids (assume water-like)
+default: 1.00

@@ -1,0 +1,622 @@
+# Price Aliases - Maps ingredient variations to canonical price keys
+# Format: "ingredient_variation": "canonical_name"
+# Local names / produce
+eggplant: brinjal
+okra: bandakka
+bitter gourd: bitter guard
+kangkong: kankun
+spring onion: leeks
+urad dal: black gram
+ridge gourd: ridge gourd
+watakolu: ridge gourd
+
+# Pantry / spices
+fenugreek seeds: fenugreek
+mustard seeds: mustard
+coriander seeds: coriander
+cornstarch: corn flour
+red chili: dried chillies
+
+# Oils / coconut / dairy
+cooking oil: vegetable oil
+virgin coconut oil: coconut oil
+thick coconut milk: coconut milk
+thin coconut milk: coconut milk
+fresh milk: milk
+
+# Acids / others
+tamarind juice: tamarind
+maldive fish chips: maldive fish
+pork shoulder: pork
+
+# Coconut milk variations
+coconut milk first: coconut milk
+coconut milk thick: coconut milk
+coconut milk second: coconut milk
+coconut milk thin: coconut milk
+thick coconut milk: coconut milk
+thin coconut milk: coconut milk
+first coconut milk: coconut milk
+second coconut milk: coconut milk
+
+# Rice variations
+basmati rice: rice
+jasmine rice: rice
+white rice: rice
+long grain rice: rice
+short grain rice: rice
+brown rice: rice
+parboiled rice: rice
+red rice: rice
+samba rice: rice
+keeri samba: rice
+nadu rice: rice
+
+# Onion variations
+big onion: onion
+red onion: onion
+white onion: onion
+yellow onion: onion
+large onion: onion
+small onion: onion
+shallots: onion
+bombay onion: onion
+
+# Chili variations
+green chili: green chili
+green chilli: green chili
+green chilies: green chili
+green chillies: green chili
+red chili: dried chillies
+red chilli: red chili
+red chilies: red chili
+red chillies: red chili
+dry chili: red chili
+dried chili: red chili
+chili powder: chili powder
+chilli powder: chili powder
+
+# Chicken variations
+chicken breast: chicken
+chicken thigh: chicken
+chicken leg: chicken
+chicken wings: chicken
+chicken drumstick: chicken
+chicken pieces: chicken
+chicken chunks: chicken
+whole chicken: chicken
+
+# Oil variations
+cooking oil: vegetable oil
+vegetable oil: vegetable oil
+sunflower oil: vegetable oil
+palm oil: vegetable oil
+coconut oil: coconut oil
+olive oil: olive oil
+sesame oil: sesame oil
+
+# Sugar variations
+white sugar: sugar
+brown sugar: sugar
+granulated sugar: sugar
+caster sugar: sugar
+raw sugar: sugar
+
+# Flour variations
+wheat flour: wheat flour
+all purpose flour: wheat flour
+plain flour: wheat flour
+white flour: wheat flour
+rice flour: rice flour
+corn flour: corn flour
+maize flour: corn flour
+
+# Egg variations
+eggs: egg
+chicken egg: egg
+hen egg: egg
+
+# Tomato variations
+big tomato: tomato
+cherry tomato: tomato
+roma tomato: tomato
+beef tomato: tomato
+tomatoes: tomato
+
+# Potato variations
+potatoes: potato
+big potato: potato
+small potato: potato
+red potato: potato
+white potato: potato
+
+# Garlic variations
+garlic cloves: garlic
+garlic pods: garlic
+
+# Milk variations
+fresh milk: milk
+whole milk: milk
+full cream milk: milk
+
+# Curry leaves variations
+curry leaves: curry leaves
+fresh curry leaves: curry leaves
+
+# Cinnamon variations
+cinnamon stick: cinnamon
+cinnamon bark: cinnamon
+
+# Cardamom variations
+cardamom pods: cardamom
+green cardamom: cardamom
+
+# Ginger variations
+fresh ginger: ginger
+ginger root: ginger
+
+# Lemon variations
+lime: lemon
+lemon juice: lemon
+lime juice: lemon
+
+# Fish variations
+tuna: fish
+salmon: fish
+mackerel: fish
+sardines: fish
+
+# Salt variations
+table salt: salt
+sea salt: salt
+rock salt: salt
+
+# Pepper variations
+black pepper: pepper
+white pepper: pepper
+pepper powder: pepper
+
+# Vinegar variations
+white vinegar: vinegar
+coconut vinegar: vinegar
+
+# Soy sauce variations
+light soy sauce: soy sauce
+dark soy sauce: soy sauce
+
+# Common herbs and spices
+turmeric powder: turmeric
+coriander powder: coriander
+cumin powder: cumin
+fennel powder: fennel
+fenugreek powder: fenugreek
+
+# High-impact missing ingredients for 90%+ coverage
+fenugreek seeds: fenugreek
+fenugreek seed: fenugreek
+methi seeds: fenugreek
+methi: fenugreek
+
+# Fix cocoa powder mapping (was incorrectly mapped to coriander)
+cocoa powder: cocoa powder
+unsweetened cocoa: cocoa powder
+cocoa: cocoa powder
+
+# Chili variations (specific color mappings)
+chili slitted: green chili
+green chili slitted: green chili
+red chili slitted: red chili
+slitted green chili: green chili
+slitted red chili: dried chillies
+
+# Spring roll items
+spring roll paper: spring roll sheets
+spring roll wrapper: spring roll sheets
+spring roll skin: spring roll sheets
+
+# Starch/flour variations
+cornstarch: corn flour
+corn starch: corn flour
+cornflour: corn flour
+potato starch: corn flour
+
+# Proteins
+crab: crab
+crab meat: crab
+fresh crab: crab
+chuck: beef
+chuck roast: beef
+beef chuck: beef
+
+# Oil variants
+cooking oil: vegetable oil
+refined oil: vegetable oil
+virgin coconut oil: coconut oil
+extra virgin coconut oil: coconut oil
+cold pressed coconut oil: coconut oil
+
+# Tamarind products  
+tamarind juice: tamarind
+tamarind water: tamarind
+tamarind extract: tamarind
+tamarind paste: tamarind
+
+# Extended ingredient variations for better matching
+# Fish variations (expand existing)
+fish fillet: fish
+fish pieces: fish
+fish steaks: fish
+fish curry: fish
+kingfish: fish
+pomfret: fish
+snappper: fish
+
+# Coconut variations (expand existing)
+coconut: coconut
+fresh coconut: coconut
+dried coconut: coconut
+grated coconut: coconut
+shredded coconut: coconut
+desiccated coconut: coconut
+coconut flakes: coconut
+
+# Jaggery variations
+jaggery: jaggery
+palm jaggery: jaggery
+coconut jaggery: jaggery
+kithul jaggery: jaggery
+
+# Ghee variations
+ghee: ghee
+clarified butter: ghee
+pure ghee: ghee
+
+# Lentil/Dal variations (major category)
+lentils: lentils
+dal: lentils
+dhal: lentils
+red lentils: lentils
+yellow lentils: lentils
+split lentils: lentils
+masoor dal: lentils
+toor dal: lentils
+moong dal: lentils
+urad dal: lentils
+chana dal: lentils
+parippu: lentils
+
+# Mustard seeds variations
+mustard seeds: mustard seeds
+black mustard seeds: mustard seeds
+yellow mustard seeds: mustard seeds
+mustard: mustard seeds
+
+# Cumin seeds variations
+cumin seeds: cumin seeds
+jeera: cumin seeds
+white cumin: cumin seeds
+
+# Fennel seeds variations
+fennel seeds: fennel seeds
+saunf: fennel seeds
+sweet fennel: fennel seeds
+
+# Additional common ingredient mappings for better coverage
+onions: onion
+tomatoes: tomato
+potatoes: potato
+chilis: green chili
+chilies: green chili
+chillies: green chili
+green chillis: green chili
+red chillis: red chili
+garlics: garlic
+gingers: ginger
+chickpeas: chickpea
+chana: chickpea
+garbanzo beans: chickpea
+green beans: beans
+french beans: beans
+long bean: beans
+drumsticks: drumstick
+murungakkai: drumstick
+eggplants: eggplant
+brinjals: eggplant
+aubergine: eggplant
+coriander: coriander leaves
+cilantro: coriander leaves
+fresh coriander: coriander leaves
+karapincha: curry leaves
+pandan: pandan leaves
+rampe: pandan leaves
+coconuts: coconut
+fresh coconut: coconut
+grated fresh coconut: coconut
+desiccated coconuts: coconut
+raw rice: rice
+cooked rice: rice
+uncooked rice: rice
+red raw rice: rice
+white raw rice: rice
+coconut milks: coconut milk
+first coconut milk: coconut milk
+second coconut milk: coconut milk
+thick coconut milks: coconut milk
+thin coconut milks: coconut milk
+spice powder: curry powder
+meat curry powder: curry powder
+fish curry powder: curry powder
+roasted curry powder: curry powder
+unroasted curry powder: curry powder
+
+# Water variations (usually free/minimal cost)
+water: water
+hot water: water
+cold water: water
+warm water: water
+
+# Sri Lankan vegetable variations (improved coverage)
+eggplant: brinjal
+eggplants: brinjal
+aubergine: brinjal
+okra: bandakka
+bitter gourd: bitter guard
+kangkong: kankun
+drumstick: drumstick
+drumsticks: drumstick
+murungakkai: drumstick
+
+# Leafy greens and herbs (enhanced matching)
+kankun: kankun
+kangkung: kankun
+water spinach: kankun
+morning glory: kankun
+gotukola: gotukola
+centella: gotukola
+gotu kola: gotukola
+mukunuwenna: mukunuwenna
+hathawariya: hathawariya
+nivithi: nivithi
+karapincha: curry leaves
+curry leaf: curry leaves
+
+# Specific ingredient fixes for high-impact misses
+fenugreek seeds: fenugreek
+fenugreek seed: fenugreek
+methi seeds: fenugreek
+methi: fenugreek
+
+# Fix cocoa powder (was incorrectly mapped)
+cocoa powder: cocoa powder
+unsweetened cocoa: cocoa powder
+cocoa: cocoa powder
+
+# Chili color-specific mappings
+chili slitted: green chili
+green chili slitted: green chili
+red chili slitted: red chili
+slitted green chili: green chili
+slitted red chili: dried chillies
+
+# Spring roll variations
+spring roll paper: spring roll sheets
+spring roll wrapper: spring roll sheets
+spring roll skin: spring roll sheets
+
+# Starch variations (cornstarch fix)
+cornstarch: corn flour
+corn starch: corn flour
+cornflour: corn flour
+potato starch: corn flour
+
+# Enhanced oil mappings
+cooking oil: vegetable oil
+refined oil: vegetable oil
+virgin coconut oil: coconut oil
+extra virgin coconut oil: coconut oil
+cold pressed coconut oil: coconut oil
+
+# Tamarind product mappings (price the pulp, water is free)
+tamarind juice: tamarind
+tamarind water: tamarind
+tamarind extract: tamarind
+tamarind paste: tamarind
+
+# Exact seed mappings from specification (adjust to your DCS names)
+eggplant: brinjal
+okra: bandakka  
+bitter gourd: bitter guard
+kangkong: kankun
+spring onion: leeks
+fenugreek seeds: fenugreek
+cornstarch: corn flour
+cooking oil: vegetable oil
+virgin coconut oil: coconut oil
+thick coconut milk: coconut milk
+thin coconut milk: coconut milk
+tamarind juice: tamarind
+urad dal: black gram
+maldive fish chips: maldive fish
+
+# Water exclusions (per specification - exclude from pricing and denominator)
+water: null
+hot water: null
+cold water: null
+lukewarm water: null
+
+# Critical high-impact aliases from unmatched tokens
+roasted cashew nuts: cashew nuts
+cashews: cashew nuts
+pandan leaf: pandan leaves
+rampe: pandan leaves
+mango: mango
+mangoes: mango
+tapioca: cassava
+cassava: cassava
+shallots: red onions
+shallot: red onions
+semolina: wheat flour
+rava: wheat flour
+noodles: wheat flour
+drumstick leaves: drumstick
+pennywort: gotukola
+centella asiatica: gotukola
+gotu kola: gotukola
+vallarai: gotukola
+dal: mysore dhall
+dhal: mysore dhall
+parippu: mysore dhall
+idli rice: raw red
+parboiled rice: raw red
+elephant foot yam: yam
+spinach: kankun
+cocoa powder: cocoa powder
+unsweetened cocoa: cocoa powder
+crab: crab
+crab meat: crab
+fresh crab: crab
+squid: squid
+cuttlefish: cuttlefish
+papaya: papaya
+papayas: papaya
+sesame seeds: sesame
+sesame seed: sesame
+condensed milk: milk powder
+evaporated milk: milk powder
+
+# Additional critical fixes for better coverage
+onion: red onions
+onions: red onions
+big onion: red onions
+small onion: red onions
+shallots: red onions
+shallot: red onions
+yellow onion: red onions
+white onion: red onions
+
+# Fix split letter issues that normalization missed
+g arlic: garlic
+g arlic clove: garlic
+g arlic cloves: garlic
+g rated coconut: coconut
+g inger: ginger
+g reen chili: green chili
+r ed chili: red chili
+l ime: lime
+m ango: mango
+f enugreek: fenugreek
+c assava: cassava
+t apioca: cassava
+s emolina: wheat flour
+r ava: wheat flour
+
+# Complex ingredient descriptions
+finely chopped onion: red onions
+minced ginger: ginger
+dried red chili: dried chillies
+dried red chillies: red chili
+crushed ginger: ginger
+chopped onion: red onions
+sliced onion: red onions
+diced onion: red onions
+
+# Spring roll and wrapper items
+spring roll sheets: wheat flour
+spring roll wrapper: wheat flour
+spring roll skin: wheat flour
+
+# Leftover/cooked items (use the base ingredient)
+leftover rice: rice
+cooked rice: rice
+pazhaya soru: rice
+
+# Multiple ingredient combinations (use the primary ingredient)
+shallots/small onion: red onions
+shallot/small onion: red onions
+tapioca/cassava: cassava
+semolina/rava: wheat flour
+
+# Soy meat variations
+soy meat: soy sauce
+soya meat: soy sauce
+
+# Vegetable greens  
+agathi keerai: kankun
+keerai: kankun
+greens: kankun
+
+# Fix remaining broken patterns from unmatched tokens
+red chili: dried chillies
+red chillies: red chili
+dried red chili: dried chillies
+dried red chillies: red chili
+dried red chili flakes: red chili
+red chili flakes: red chili
+minced g inger: ginger
+crushed g inger: ginger
+crushed g arlic: garlic
+minced g arlic: garlic
+g arlic paste: garlic
+g inger paste: ginger
+ginger garlic paste: ginger
+chopped g inger: ginger
+g inger root: ginger
+g rounded black pepper: pepper
+g round black pepper: pepper
+crushed black pepper: pepper
+drumstick l eaves: drumstick
+chopped curry l eaves: curry leaves
+l arge onion: red onions
+small onion / shallots: red onions
+toasted semolina: wheat flour
+sooji: wheat flour
+rava/semolina: wheat flour
+idli rice: rice
+parboiled rice: rice
+g reen moong dal: mysore dhall
+urad dal: mysore dhall
+dal/dhal: mysore dhall
+split skinned black g ram: mysore dhall
+thin milk: milk
+cumin seeds/powder: cumin
+asafoetida: cumin
+hing powder: cumin
+g reen chili: green chili
+whole g reen chili: green chili
+l emon: lime
+lukewarm water: water
+normal water: water
+boiled water: water
+cocoa powder: cocoa powder
+nutella: cocoa powder
+kesari powder: turmeric powder
+nutmeg: cinnamon
+rose essence: vanilla essence
+wood apple: mango
+papaya: papaya
+yam: yam
+elephant foot yam: yam
+crab: crab
+fresh crab: crab
+squid: squid
+cuttlefish: cuttlefish
+baby squid: squid
+calamari: squid
+dried sprats: dried fish
+maldives fish: dried fish
+crushed maldives fish: dried fish
+crushed maldives dry fish: dried fish
+sesame seeds: sesame
+cleaned sesame seeds: sesame
+pennywort: gotukola
+centella asiatica: gotukola
+g otu kola: gotukola
+vallarai: gotukola
+soya meat packet: soy sauce
+maggi vegetable stock cube: vegetable stock
+parotta: wheat flour
+roti: wheat flour
+paratha: wheat flour
+noodle: wheat flour
+noodles: wheat flour
+kurakkan noodles: wheat flour

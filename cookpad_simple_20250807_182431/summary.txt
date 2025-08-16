@@ -1,0 +1,34 @@
+SIMPLE SRI LANKAN RECIPE SCRAPER RESULTS
+=============================================
+
+Date: 2025-08-07 18:27:56
+Authentic recipes found: 21
+Rejected recipes: 16
+Failed URLs: 0
+
+SAMPLE RECIPES:
+1. My First Ever Super Tasty Super Simple Upma
+   Ingredients: 15
+   Instructions: 17
+   URL: https://cookpad.com/eng/recipes/17260869
+
+2. Soji appam
+   Ingredients: 15
+   Instructions: 28
+   URL: https://cookpad.com/us/recipes/16595291
+
+3. Sri Lankan Yellow Rice (Kaha Bath)
+   Ingredients: 15
+   Instructions: 27
+   URL: https://cookpad.com/eng/recipes/14282812
+
+4. Besan appam(gabgola)
+   Ingredients: 15
+   Instructions: 15
+   URL: https://cookpad.com/eng/recipes/11940518
+
+5. Sama rice upma
+   Ingredients: 15
+   Instructions: 24
+   URL: https://cookpad.com/eng/recipes/15555927
+

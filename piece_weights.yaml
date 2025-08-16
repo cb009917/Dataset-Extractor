@@ -1,0 +1,82 @@
+# Piece Weights for Bunch/Each Unit Conversions
+# Used when DCS pricing is per bunch or per piece
+# Starter defaults as specified in requirements
+
+# Each/piece weights (grams per piece) - starter defaults
+each:
+  # Core ingredients (as specified)
+  egg: 60
+  garlic_clove: 3
+  curry_leaves_sprig: 2
+  lemon: 70
+  lime: 30
+  coconut: 400           # edible portion for pricing
+  coconut_whole: 1200    # whole coconut weight
+  gotukola_bunch: 100
+  kankun_bunch: 120
+  
+  # Extended produce weights
+  onion: 120
+  big_onion: 200
+  small_onion: 80
+  potato: 120
+  big_potato: 180
+  small_potato: 80
+  tomato: 100
+  big_tomato: 150
+  small_tomato: 60
+  orange: 150
+  banana: 120
+  
+  # Spices and aromatics
+  garlic: 3              # alias for garlic_clove
+  ginger_piece: 8
+  green_chili: 4
+  red_chili: 3
+  cinnamon_stick: 2
+  cardamom_pod: 0.5
+  
+  # Proteins
+  chicken_piece: 80
+  fish_piece: 100
+  
+  # Default fallback
+  default: 50
+
+# Bunch weights (grams per bunch) - starter defaults  
+bunch:
+  gotukola: 100
+  kankun: 120
+  curry_leaves: 15
+  mint: 30
+  cilantro: 30
+  coriander: 30
+  spinach: 200
+  greens: 150
+  lettuce: 180
+  watercress: 80
+  kangkung: 120
+  mukunuwenna: 100
+  default: 100
+
+# Conversion rules for common variations
+aliases:
+  # Coconut variations
+  "fresh coconut": "coconut"
+  "grated coconut": "coconut_edible"
+  "coconut meat": "coconut_edible"
+  
+  # Onion variations  
+  "medium onion": "onion"
+  "large onion": "big_onion"
+  "small onion": "small_onion"
+  
+  # Chili variations
+  "green chilli": "green_chili"
+  "red chilli": "red_chili"
+  "chili": "green_chili"
+  "chilli": "green_chili"
+  
+  # Garlic variations
+  "garlic": "garlic_clove"
+  "garlic pod": "garlic_clove"
